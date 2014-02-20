@@ -1,0 +1,21 @@
+{{#prettify}}
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>{{#if title}}{{ title }}-{{ pkg.NAME }}{{else}}{{ pkg.NAME }}-{{ pkg.keywords }}{{/if}}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{#if description}}{{ description }}{{else}}{{ pkg.description }}{{/if}}" />
+  <meta name="keywords" content="{{#if keywords}}{{ keywords }}{{else}}{{join pkg.keywords ','}}{{/if}}" />
+  <link rel="stylesheet" type="text/css" href="{{obj_val compiled_assets '/assets/css/application.css'}}">
+  <script src="{{obj_val compiled_assets '/assets/js/application.js'}}"></script>
+  {{#unless production}}<script src="http://localhost:35729/livereload.js"></script>{{/unless}}
+</head>
+
+<body>
+
+</body>
+
+</html>
+{{/prettify}}
