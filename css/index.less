@@ -3,7 +3,8 @@
 
 body {
   background: #F0EDE6;
-  padding: 0 10px;
+  margin: 0;
+  padding: 0;
   font-family: Microsoft YaHei, 宋体, 新宋体, SongTi;
 }
 
@@ -28,7 +29,7 @@ a {
 }
 
 .container {
-  max-width: 1024px;
+  max-width: 1020px;
   margin: 0 auto;
 }
 
@@ -45,6 +46,7 @@ a {
     top: 22px;
     left: 50%;
     margin-left: (@width / -2);
+    z-index: 999;
     img {
       width: @width;
       height: @height;
@@ -144,12 +146,13 @@ a {
 }
 .hompage-slider .head {
   position: absolute;
-  top: 5px;
+  top: 0;
   z-index: 999;
   width: 100%;
   text-align: center;
   h3 {
     color: #796341;
+    margin: 13px 0 10px;
   }
   a {
     font-size: 12px;
