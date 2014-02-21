@@ -59,10 +59,11 @@ a {
     width: 100%;
     border-bottom: 5px solid #fff;
     .menu-p {
+      @height: 40px;
+      height: @height;
       .mi {
         float: left;
         width: (100% / 5);
-        @height: 40px;
         height: @height;
         .mi-c {
           padding: 0 10px;
@@ -76,9 +77,38 @@ a {
           text-decoration: none;
           @padding-bottom: 5px;
           padding-bottom: @padding-bottom;
-          &:hover {
+          &:hover, &.active {
             text-decoration: none;
             background: url(/images/menu-active.gif) no-repeat center (@height - @padding-bottom);
+          }
+        }
+      }
+    }
+    .menu-c {
+      .ms {
+        height: 120px;
+        background: #FFF;
+        padding: 0 30px;
+        a {
+          display: block;
+          width: 105px;
+          height: 90px;
+          float: left;
+          text-align: center;
+          margin: 15px 0;
+          text-decoration: none;
+          font-size: 14px;
+          img {
+            border: 1px solid #ccc;
+            width: 90px;
+            height: 60px;
+          }
+          &:hover {
+            color: #F60;
+            text-decoration: none;
+            img {
+              border: 1px solid #F60;
+            }
           }
         }
       }
