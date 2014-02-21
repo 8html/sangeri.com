@@ -1,1 +1,87 @@
 @import (less) "vendor/normalize.css";
+
+body {
+  background: #F0EDE6;
+  padding: 0 10px;
+  font-family: Microsoft YaHei, 宋体, 新宋体, SongTi;
+}
+
+a {
+  color: #6D6E71;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.hidden {
+  display: none;
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.header {
+  position: relative;
+  height: 80px;
+  .logo {
+    @height: 50px;
+    @width: (@height * 241 / 60);
+    display: block;
+    width: @width;
+    height: @height;
+    position: absolute;
+    top: 22px;
+    left: 50%;
+    margin-left: (@width / -2);
+    img {
+      width: @width;
+      height: @height;
+    }
+  }
+  .links {
+    position: absolute;
+    display: block;
+    top: 40px;
+    width: 100%;
+    font-size: 12px;
+    .links-c {
+      display: block;
+      text-align: right;
+      padding: 0 60px 0 0;
+    }
+  }
+  .menu {
+    position: absolute;
+    top: 95px;
+    width: 100%;
+    border-bottom: 5px solid #fff;
+    .menu-p {
+      .mi {
+        float: left;
+        width: (100% / 5);
+        @height: 40px;
+        height: @height;
+        .mi-c {
+          padding: 0 10px;
+        }
+        a {
+          display: block;
+          width: 100%;
+          text-align: center;
+          line-height: @height;
+          color: #735C39;
+          text-decoration: none;
+          @padding-bottom: 5px;
+          padding-bottom: @padding-bottom;
+          &:hover {
+            text-decoration: none;
+            background: url(/images/menu-active.gif) no-repeat center (@height - @padding-bottom);
+          }
+        }
+      }
+    }
+  }
+}

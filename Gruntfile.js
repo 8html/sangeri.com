@@ -12,8 +12,10 @@ module.exports = function(grunt) {
       }
     },
     copy: {
-      no_need: {
-
+      images: {
+        files: {
+          'site/': [ 'images/**' ]
+        }
       }
     },
     clean: {
