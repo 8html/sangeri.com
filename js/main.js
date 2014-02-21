@@ -7,4 +7,10 @@ $(function() {
     menu.find('.menu-p a').eq(index).addClass('active');
     menu.find('.menu-c .ms-' + (index + 1)).removeClass('hidden');
   });
+  $('.hompage-slider').sliderkit({
+    auto: true,
+    circular: true,
+    panelfx: 'sliding',
+    panelfxspeed: 1000
+  });
 });
