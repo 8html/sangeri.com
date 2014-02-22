@@ -13,4 +13,9 @@ $(function() {
     panelfx: 'sliding',
     panelfxspeed: 1000
   });
+  $(".ip-slider").sliderkit({
+    auto: true,
+    circular: true,
+    shownavitems: 9
+  });
 });

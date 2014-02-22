@@ -304,3 +304,198 @@ a {
   font-size: 12px;
   text-align: center;
 }
+
+.ip-slider {
+  width: 100%;
+  @width: 704px;
+  @height: 444px;
+  height: @height;
+  background: #484443;
+
+  .sliderkit-nav {
+    position: absolute;
+    width: 310px;
+    height: @height;
+    text-align: left;
+    top: 0;
+    left: 0;
+  }
+
+  .sliderkit-nav-clip {
+    margin: 0;
+    width: auto !important;
+    height: auto !important;
+    padding: 100px 10px 0 60px;
+    ul {
+      width: auto !important;
+    }
+    img {
+      width: 70px;
+      height: 50px;
+      border: 1px solid #CCC;
+    }
+    h3 {
+      color: #fff;
+    }
+  }
+
+  .sliderkit-nav-clip li {
+    height: 50px;
+    padding: 0;
+    margin: 0 8px 8px 0;
+    float: left;
+  }
+
+  .sliderkit-nav-clip li a {
+    float: left;
+    background: #424242;
+    height: 52px;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    text-decoration: none;
+    opacity: 0.5;
+  }
+
+  .sliderkit-nav-clip li a:hover {
+    background: #666;
+  }
+
+  .sliderkit-nav-clip li.sliderkit-selected {
+  }
+
+  .sliderkit-nav-clip li.sliderkit-selected a {
+    color: #000;
+    background: #ddd;
+    opacity: 1;
+  }
+
+  .sliderkit-panels {
+    width: @width;
+    height: @height;
+    overflow: hidden;
+    padding: 0;
+    background: #FFF;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .sliderkit-panel {
+    width: @width;
+    height: @height;
+    overflow: auto;
+    padding: 0;
+    background: #fff;
+  }
+
+  .sliderkit-panel h2 {
+    margin: 5px 0 20px;
+  }
+
+  .sliderkit-go-btn {
+    position: absolute;
+    top: 40%;
+    z-index: 10;
+  }
+
+  .sliderkit-go-prev {
+    left: 0;
+  }
+
+  .sliderkit-go-next {
+    right: 0;
+  }
+
+  .sliderkit-go-btn a {
+    display: block;
+    width: 30px;
+    height: 40px;
+    cursor: pointer;
+    background: transparent url("../images/arrows-h-big.png") no-repeat 0 0;
+  }
+
+  .sliderkit-go-prev a {
+    background-position: -30px 0;
+  }
+
+  .sliderkit-go-next a {
+    background-position: 0 0;
+  }
+
+  .sliderkit-go-prev a:hover {
+    background-position: -90px 0;
+  }
+
+  .sliderkit-go-next a:hover {
+    background-position: -60px 0;
+  }
+
+  .sliderkit-go-btn span {
+    display: none;
+  }
+}
+
+.sbhead {
+  position: absolute;
+  top: 360px;
+  left: 60px;
+  width: 234px;
+  height: 80px;
+  background: #263548;
+  border-top: 4px solid #546A93;
+}
+
+.ip-content {
+  background: #fff;
+  .sidebar {
+    float: left;
+    width: 316px;
+    .sb-head {
+      margin-left: 60px;
+      width: 234px;
+      height: 60px;
+      background: #263548 url(/images/divide4.png) no-repeat center bottom;
+      color: #FFF;
+      text-indent: 40px;
+      font-size: 30px;
+    }
+    .sb-list {
+      margin-left: 60px;
+      width: 234px;
+      a {
+        display: block;
+        height: 45px;
+        background: #eaeaea;
+        line-height: 45px;
+        text-indent: 30px;
+        margin: 10px 0;
+        text-decoration: none;
+        &:hover, &.active {
+          background: #adadad;
+          color: #fff;
+          text-decoration: none;
+        }
+        em {
+          font-style: normal;
+          float: right;
+          padding-right: 25px;
+        }
+      }
+    }
+    .contactbox {
+      margin: 20px 0 20px 60px;
+    }
+  }
+  .main {
+    padding: 50px 50px 50px 350px;
+  }
+}
+
+.contactimg {
+  text-indent: -9999px;
+  display: block;
+  width: 234px;
+  height: 96px;
+  background: url(/images/contact.jpg) no-repeat 0 0;
+}
