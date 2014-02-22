@@ -70,7 +70,10 @@ module.exports = function(grunt) {
         helpers: [ 'handlebars-helper-prettify', 'helpers/*.js' ],
         layoutdir: 'layouts',
         layout: 'default.hbs',
-        production: false
+        production: false,
+        posts: {
+          cases: grunt.file.readYAML('posts/cases.yml')
+        }
       },
       news: {
         options: {
@@ -81,11 +84,18 @@ module.exports = function(grunt) {
           'site/': [ 'pages/news*.hbs', 'posts/news/**/*.html' ]
         }
       },
+      cases: {
+        options: {
+          layout: 'cases.hbs',
+          pages: '<%= assemble.options.posts.cases %>'
+        },
+        files: { 'site/': [] }
+      },
       site: {
         files: {
           'site/': [ 'pages/*.hbs', '!pages/news*.hbs' ]
         }
-      },
+      }
     },
     watch: {
       options: {
@@ -109,6 +119,10 @@ module.exports = function(grunt) {
       news: {
         files: [ 'posts/news/**' ],
         tasks: [ 'assemble:news' ]
+      },
+      cases: {
+        files: [ 'posts/cases.yml' ],
+        tasks: [ 'assemble:cases' ]
       }
     }
   });

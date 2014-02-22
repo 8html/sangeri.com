@@ -1,0 +1,39 @@
+- filename: "/cases/case-1.html"
+  data:
+    title: 案例1
+    keywords: 案例1
+    description: 案例1
+    slide: true # 是否轮播
+    image: /images/ipslide_1.jpg
+  content: |
+    <b>案例1</b>
+
+- filename: "/cases/case-2.html"
+  data:
+    title: 案例2
+    keywords: 案例2
+    description: 案例2
+    slide: true # 是否轮播
+    image: /images/ipslide_2.jpg
+  content: |
+    <b>案例2</b>
+
+- filename: "/cases/case-3.html"
+  data:
+    title: 案例3
+    keywords: 案例3
+    description: 案例3
+    slide: true # 是否轮播
+    image: /images/ipslide_3.jpg
+  content: |
+    <b>案例3</b>
+
+- filename: "/cases/case-4.html"
+  data:
+    title: 案例4
+    keywords: 案例4
+    description: 案例4
+    slide: true # 是否轮播
+    image: /images/ipslide_4.jpg
+  content: |
+    <b>案例4</b>

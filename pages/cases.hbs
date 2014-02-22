@@ -1,0 +1,13 @@
+---
+layout: cases.hbs
+permalink: /cases/
+title: 案例
+---
+{{#eachIndex posts.cases}}
+<p>
+  <a href="{{item.filename}}">
+  <img class="im im_s" alt="{{item.data.title}}" src="{{item.data.image}}">
+  {{item.data.title}}
+  </a>
+</p>
+{{/eachIndex}}

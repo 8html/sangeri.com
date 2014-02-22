@@ -22,6 +22,14 @@ module.exports.register = function(Handlebars, options) {
     }
   });
 
+  Handlebars.registerHelper('which', function(/* ... */) {
+    for (var i = 1; i < arguments.length - 1; i++) {
+      if (arguments[i]) {
+        return arguments[i];
+      }
+    }
+  });
+
   Handlebars.registerHelper('eachReverse', function(context) {
     var options = arguments[arguments.length - 1];
     var ret = '';
