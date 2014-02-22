@@ -456,13 +456,20 @@ a {
     float: left;
     width: 316px;
     .sb-head {
-      margin-left: 60px;
-      width: 234px;
-      height: 60px;
-      background: #263548 url(/images/divide4.png) no-repeat center bottom;
-      color: #FFF;
-      text-indent: 40px;
-      font-size: 30px;
+      a {
+        display: block;
+        margin-left: 60px;
+        width: 234px;
+        height: 60px;
+        background: #263548 url(/images/divide4.png) no-repeat center bottom;
+        color: #FFF;
+        text-indent: 40px;
+        font-size: 30px;
+        text-decoration: none;
+        &:hover {
+          text-decoration: none;
+        }
+      }
     }
     .sb-list {
       margin-left: 60px;

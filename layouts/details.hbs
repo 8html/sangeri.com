@@ -24,7 +24,9 @@ layout: default.hbs
   </div>
   <div class="ip-content">
     <div class="sidebar">
-      <div class="sb-head">{{column.title}}</div>
+      <div class="sb-head">
+        <a href="{{column.titlelink}}">{{column.title}}</a>
+      </div>
       <div class="sb-list">
         {{#eachProperty column.sidelist}}
           <a href="{{get value}}"{{#is value ../permalink}} class="active"{{/is}}>{{key}} <em>&#10095;</em></a>
