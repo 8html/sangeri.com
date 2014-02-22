@@ -5,6 +5,9 @@
     description: 案例1
     slide: true # 是否轮播
     image: /images/ipslide_1.jpg
+    images:
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
   content: |
     <b>案例1</b>
 
@@ -15,6 +18,9 @@
     description: 案例2
     slide: true # 是否轮播
     image: /images/ipslide_2.jpg
+    images:
+      - /images/ipslide_3.jpg
+      - /images/ipslide_4.jpg
   content: |
     <b>案例2</b>
 
@@ -25,6 +31,8 @@
     description: 案例3
     slide: true # 是否轮播
     image: /images/ipslide_3.jpg
+    images:
+      - /images/ipslide_2.jpg
   content: |
     <b>案例3</b>
 
@@ -35,5 +43,7 @@
     description: 案例4
     slide: true # 是否轮播
     image: /images/ipslide_4.jpg
+    images:
+      - /images/ipslide_4.jpg
   content: |
     <b>案例4</b>

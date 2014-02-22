@@ -9,10 +9,10 @@ layout: default.hbs
   <div class="ip-content">
     <div class="sidebar">
       <div class="sb-head">
-        <a href="{{column.titlelink}}">{{column.title}}</a>
+        <a href="{{coltitlelink}}">{{coltitle}}</a>
       </div>
       <div class="sb-list">
-        {{#eachProperty column.sidelist}}
+        {{#eachProperty sidelist}}
           <a href="{{get value}}"{{#startsWith ../permalink value}} class="active"{{/startsWith}}>{{key}} <em>&#10095;</em></a>
         {{/eachProperty}}
       </div>

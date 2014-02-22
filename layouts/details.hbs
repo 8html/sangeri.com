@@ -5,15 +5,15 @@ layout: default.hbs
   <div class="sliderkit ip-slider">
     <div class="sliderkit-nav">
       <div class="sliderkit-nav-clip">
-        <h3>{{which column.imagestitle title}}</h3>
+        <h3>{{which imagestitle title}}</h3>
         <ul>
-          {{#if column.images}}
-            {{#eachIndex column.images}}
+          {{#if images}}
+            {{#eachIndex images}}
               <li><a href="#"><img src="{{item}}"></a></li>
             {{/eachIndex}}
           {{else}}
-            {{#if column.list}}
-              {{#eachIndex column.list}}
+            {{#if list}}
+              {{#eachIndex list}}
                 {{#is item.data.slide true}}
                   <li><a href="#"><img src="{{item.data.image}}"></a></li>
                 {{/is}}
@@ -24,15 +24,15 @@ layout: default.hbs
       </div>
     </div>
     <div class="sliderkit-panels">
-      {{#if column.images}}
-        {{#eachIndex column.images}}
+      {{#if images}}
+        {{#eachIndex images}}
           <div class="sliderkit-panel">
             <img src="{{item}}">
           </div>
         {{/eachIndex}}
       {{else}}
-        {{#if column.list}}
-          {{#eachIndex column.list}}
+        {{#if list}}
+          {{#eachIndex list}}
             {{#is item.data.slide true}}
               <div class="sliderkit-panel">
                 <img src="{{item.data.image}}">
@@ -47,16 +47,16 @@ layout: default.hbs
   <div class="ip-content">
     <div class="sidebar">
       <div class="sb-head">
-        <a href="{{column.titlelink}}">{{column.title}}</a>
+        <a href="{{coltitlelink}}">{{coltitle}}</a>
       </div>
       <div class="sb-list">
-        {{#if column.sidelist}}
-          {{#eachProperty column.sidelist}}
+        {{#if sidelist}}
+          {{#eachProperty sidelist}}
             <a href="{{get value}}"{{#startsWith ../permalink value}} class="active"{{/startsWith}}>{{key}} <em>&#10095;</em></a>
           {{/eachProperty}}
         {{else}}
-          {{#if column.list}}
-            {{#eachIndex column.list}}
+          {{#if list}}
+            {{#eachIndex list}}
               <a href="{{item.filename}}"{{#startsWith ../permalink item.filename}} class="active"{{/startsWith}}>{{item.data.title}} <em>&#10095;</em></a>
             {{/eachIndex}}
           {{/if}}
