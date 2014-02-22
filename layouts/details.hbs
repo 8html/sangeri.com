@@ -1,0 +1,42 @@
+---
+layout: default.hbs
+---
+<div class="content">
+  <div class="sliderkit ip-slider">
+    <div class="sliderkit-nav">
+      <div class="sliderkit-nav-clip">
+        <h3>TITLE</h3>
+        <ul>
+          {{#eachIndex column.images}}
+            <li><a href="#"><img src="{{item}}"></a></li>
+          {{/eachIndex}}
+        </ul>
+      </div>
+    </div>
+    <div class="sliderkit-panels">
+      {{#eachIndex column.images}}
+        <div class="sliderkit-panel">
+          <img src="{{item}}">
+        </div>
+      {{/eachIndex}}
+    </div>
+    <div class="sbhead"></div>
+  </div>
+  <div class="ip-content">
+    <div class="sidebar">
+      <div class="sb-head">{{column.title}}</div>
+      <div class="sb-list">
+        {{#eachProperty column.sidelist}}
+          <a href="{{get value}}">{{key}} <em>&#10095;</em></a>
+        {{/eachProperty}}
+      </div>
+      <div class="contactbox">
+        <a href="/contact/" class="contactimg">联系我们</a>
+      </div>
+    </div>
+    <div class="main">
+      {{>body}}
+    </div>
+    <div class="clearfix"></div>
+  </div>
+</div>
