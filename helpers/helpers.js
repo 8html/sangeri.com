@@ -44,4 +44,12 @@ module.exports.register = function(Handlebars, options) {
       return content.inverse(this);
     }
   });
+
+  Handlebars.registerHelper('startsWith', function(str, substr, content) {
+    if (str && substr && str.indexOf(substr) === 0) {
+      return content.fn(this);
+    } else {
+      return content.inverse(this);
+    }
+  });
 };

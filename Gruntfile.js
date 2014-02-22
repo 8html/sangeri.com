@@ -74,7 +74,8 @@ module.exports = function(grunt) {
       },
       news: {
         options: {
-          layout: 'news.hbs'
+          layout: 'news.hbs',
+          permalink: '/news/{{ category }}/{{ basename }}.html'
         },
         files: {
           'site/': [ 'pages/news*.hbs', 'posts/news/**/*.html' ]
@@ -104,6 +105,10 @@ module.exports = function(grunt) {
       hbs: {
         files: [ 'layouts/*.hbs', 'pages/*.hbs' ],
         tasks: [ 'assemble' ]
+      },
+      news: {
+        files: [ 'posts/news/**' ],
+        tasks: [ 'assemble:news' ]
       }
     }
   });

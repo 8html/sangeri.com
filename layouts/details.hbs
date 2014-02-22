@@ -29,7 +29,7 @@ layout: default.hbs
       </div>
       <div class="sb-list">
         {{#eachProperty column.sidelist}}
-          <a href="{{get value}}"{{#is value ../permalink}} class="active"{{/is}}>{{key}} <em>&#10095;</em></a>
+          <a href="{{get value}}"{{#startsWith ../permalink value}} class="active"{{/startsWith}}>{{key}} <em>&#10095;</em></a>
         {{/eachProperty}}
       </div>
       <div class="contactbox">

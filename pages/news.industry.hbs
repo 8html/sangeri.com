@@ -1,0 +1,14 @@
+---
+layout: newslist.hbs
+permalink: /news/industry/
+---
+<div class="newslist">
+  {{#eachReverse pages}}
+  {{#is data.category "industry"}}
+    <div class="newslistitem">
+      <em>{{formatDate data.date "%Y-%m-%d"}}</em>
+      <a href="{{data.permalink}}">{{data.title}}</a>
+    </div>
+  {{/is}}
+  {{/eachReverse}}
+</div>
