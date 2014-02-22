@@ -72,11 +72,19 @@ module.exports = function(grunt) {
         layout: 'default.hbs',
         production: false
       },
+      news: {
+        options: {
+          layout: 'news.hbs'
+        },
+        files: {
+          'site/': [ 'pages/news*.hbs', 'posts/news/**/*.html' ]
+        }
+      },
       site: {
         files: {
-          'site/': [ 'pages/*.hbs' ]
+          'site/': [ 'pages/*.hbs', '!pages/news*.hbs' ]
         }
-      }
+      },
     },
     watch: {
       options: {

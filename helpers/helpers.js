@@ -21,4 +21,27 @@ module.exports.register = function(Handlebars, options) {
       return JSON.stringify(object);
     }
   });
+
+  Handlebars.registerHelper('eachReverse', function(context) {
+    var options = arguments[arguments.length - 1];
+    var ret = '';
+
+    if (context && context.length > 0) {
+        for (var i = context.length - 1; i >= 0; i--) {
+            ret += options.fn(context[i]);
+        }
+    } else {
+        ret = options.inverse(this);
+    }
+
+    return ret;
+  });
+
+  Handlebars.registerHelper('objContains', function(obj, key, content) {
+    if (obj.hasOwnProperty(key)) {
+      return content.fn(this);
+    } else {
+      return content.inverse(this);
+    }
+  });
 };

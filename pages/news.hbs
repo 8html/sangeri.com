@@ -1,0 +1,14 @@
+---
+layout: newslist.hbs
+permalink: /news/
+---
+<div class="newslist">
+  {{#eachReverse pages}}
+  {{#objContains data "category"}}
+    <div class="newslistitem">
+      <em>{{formatDate data.date "%Y-%m-%d"}}</em>
+      <a href="{{data.permalink}}">{{data.title}}</a>
+    </div>
+  {{/objContains}}
+  {{/eachReverse}}
+</div>
