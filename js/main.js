@@ -26,7 +26,9 @@ $(function() {
   });
   $(".ip-slider").sliderkit({
     auto: true,
+    autospeed: 5000,
     circular: true,
+    // panelfx: 'sliding',
     shownavitems: 9
   });
 });
