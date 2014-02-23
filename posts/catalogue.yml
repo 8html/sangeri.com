@@ -1,0 +1,73 @@
+- filename: "/catalogue/hotel/index.html"
+  data:
+    title: 酒店客房
+    keywords: 酒店客房
+    description: 酒店客房
+    slide: true # 是否轮播
+    image: /images/ipslide_1.jpg
+    images:
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
+  content: |
+    <b>酒店客房</b>
+
+- filename: "/catalogue/public/index.html"
+  data:
+    title: 公共区域
+    keywords: 公共区域
+    description: 公共区域
+    slide: true # 是否轮播
+    image: /images/ipslide_2.jpg
+    images:
+      - /images/ipslide_3.jpg
+      - /images/ipslide_4.jpg
+  content: |
+    <b>公共区域</b>
+
+- filename: "/catalogue/restaurant/index.html"
+  data:
+    title: 酒店餐饮
+    keywords: 酒店餐饮
+    description: 酒店餐饮
+    slide: true # 是否轮播
+    image: /images/ipslide_3.jpg
+    images:
+      - /images/ipslide_2.jpg
+  content: |
+    <b>酒店餐饮</b>
+
+- filename: "/catalogue/office/index.html"
+  data:
+    title: 酒店办公
+    keywords: 酒店办公
+    description: 酒店办公
+    slide: true # 是否轮播
+    image: /images/ipslide_4.jpg
+    images:
+      - /images/ipslide_4.jpg
+  content: |
+    <b>酒店办公</b>
+
+- filename: "/catalogue/fixed/index.html"
+  data:
+    title: 专业固装
+    keywords: 专业固装
+    description: 专业固装
+    slide: true # 是否轮播
+    image: /images/ipslide_4.jpg
+    images:
+      - /images/ipslide_4.jpg
+  content: |
+    <b>专业固装</b>
+
+- filename: "/catalogue/sofa/index.html"
+  data:
+    title: 酒店沙发
+    keywords: 酒店沙发
+    description: 酒店沙发
+    slide: true # 是否轮播
+    image: /images/ipslide_4.jpg
+    images:
+      - /images/ipslide_4.jpg
+  content: |
+    <b>酒店沙发</b>

@@ -72,7 +72,8 @@ module.exports = function(grunt) {
         layout: 'default.hbs',
         production: false,
         posts: {
-          cases: grunt.file.readYAML('posts/cases.yml')
+          cases: grunt.file.readYAML('posts/cases.yml'),
+          catalogue: grunt.file.readYAML('posts/catalogue.yml')
         }
       },
       news: {
@@ -88,6 +89,13 @@ module.exports = function(grunt) {
         options: {
           layout: 'cases.hbs',
           pages: '<%= assemble.options.posts.cases %>'
+        },
+        files: { 'site/': [] }
+      },
+      catalogue: {
+        options: {
+          layout: 'catalogue.hbs',
+          pages: '<%= assemble.options.posts.catalogue %>'
         },
         files: { 'site/': [] }
       },
@@ -128,6 +136,10 @@ module.exports = function(grunt) {
       cases: {
         files: [ 'posts/cases.yml' ],
         tasks: [ 'assemble:cases' ]
+      },
+      catalogue: {
+        files: [ 'posts/catalogue.yml' ],
+        tasks: [ 'assemble:catalogue' ]
       }
     }
   });

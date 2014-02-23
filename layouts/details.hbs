@@ -56,9 +56,9 @@ layout: default.hbs
           {{/eachProperty}}
         {{else}}
           {{#if list}}
-            {{#eachIndex list}}
+            {{#eachIndexRemoveIndexDotHTML list}}
               <a href="{{item.filename}}"{{#startsWith ../permalink item.filename}} class="active"{{/startsWith}}>{{item.data.title}} <em>&#10095;</em></a>
-            {{/eachIndex}}
+            {{/eachIndexRemoveIndexDotHTML}}
           {{/if}}
         {{/if}}
       </div>

@@ -1,0 +1,13 @@
+---
+layout: catalogue.hbs
+permalink: /catalogue/
+title: 领域
+---
+{{#eachIndex posts.catalogue}}
+<p>
+  <a href="{{item.filename}}">
+  <img class="im im_s" alt="{{item.data.title}}" src="{{item.data.image}}">
+  {{item.data.title}}
+  </a>
+</p>
+{{/eachIndex}}

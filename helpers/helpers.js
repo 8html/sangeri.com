@@ -30,6 +30,22 @@ module.exports.register = function(Handlebars, options) {
     }
   });
 
+  Handlebars.registerHelper('eachIndexRemoveIndexDotHTML', function(array, options) {
+    var i;
+    var len;
+    var result = '';
+    var index;
+    for (index = i = 0, len = array.length; i < len; index = ++i) {
+      var value = array[index];
+      if (value.filename) value.filename = value.filename.replace(/\/index\.html$/, '/');
+      result += options.fn({
+        item: value,
+        index: index
+      });
+    }
+    return result;
+  });
+
   Handlebars.registerHelper('eachReverse', function(context) {
     var options = arguments[arguments.length - 1];
     var ret = '';
