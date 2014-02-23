@@ -1,4 +1,4 @@
-- filename: "/cases/case-1.html"
+- filename: "/cases/case-1/index.html"
   data:
     title: 案例1
     keywords: 案例1
@@ -11,7 +11,7 @@
   content: |
     <b>案例1</b>
 
-- filename: "/cases/case-2.html"
+- filename: "/cases/case-2/index.html"
   data:
     title: 案例2
     keywords: 案例2
@@ -24,7 +24,7 @@
   content: |
     <b>案例2</b>
 
-- filename: "/cases/case-3.html"
+- filename: "/cases/case-3/index.html"
   data:
     title: 案例3
     keywords: 案例3
@@ -36,7 +36,7 @@
   content: |
     <b>案例3</b>
 
-- filename: "/cases/case-4.html"
+- filename: "/cases/case-4/index.html"
   data:
     title: 案例4
     keywords: 案例4
