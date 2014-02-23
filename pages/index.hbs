@@ -5,10 +5,10 @@ permalink: /
   <div class="sliderkit hompage-slider">
     <div class="head">
       <h3>心系未来</h3>
-      <a href="#">百强第一</a>
-      <a href="#">双赢之道</a>
-      <a href="#">国优第一</a>
-      <a href="#">厚积薄发</a>
+      <a>百强第一</a>
+      <a>双赢之道</a>
+      <a>国优第一</a>
+      <a>厚积薄发</a>
     </div>
     <div class="divide"></div>
     <div class="sliderkit-nav">
@@ -37,31 +37,20 @@ permalink: /
     </div>
   </div>
   <div class="divide2">
-    <a href="/news/">新闻中心</a>
+    <a href="/news/">资讯中心</a>
     |
-    <a href="/about/">关于我们</a>
+    <a href="/sangeri/about/">关于我们</a>
   </div>
   <div class="col2">
     <div class="col2col newsitems">
+      {{#eachReverseLimit all_news 4}}
+        <div class="item">
+          <em>{{formatDate date "%Y-%m-%d"}}</em>
+          <a href="{{permalink}}">{{title}}</a>
+        </div>
+      {{/eachReverseLimit}}
       <div class="item">
-        <em>2014-02-21</em>
-        <a href="/">真诚服务严谨管理 华尔道夫完美收官</a>
-      </div>
-      <div class="item">
-        <em>2014-02-21</em>
-        <a href="/">真诚服务严谨管理 华尔道夫完美收官</a>
-      </div>
-      <div class="item">
-        <em>2014-02-21</em>
-        <a href="/">真诚服务严谨管理 华尔道夫完美收官</a>
-      </div>
-      <div class="item">
-        <em>2014-02-21</em>
-        <a href="/">真诚服务严谨管理 华尔道夫完美收官</a>
-      </div>
-      <div class="item">
-        <em>2014-02-21</em>
-        <a href="/">真诚服务严谨管理 华尔道夫完美收官</a>
+        <a class="more" href="/news/">更多...</a>
       </div>
     </div>
     <div class="col2col cobuilding">
