@@ -5,6 +5,21 @@
   .cob-main {
     padding: 0 20px 0 30px;
   }
+  .header {
+    .menu {
+      .menu-c {
+        .ms {
+          overflow: hidden;
+          overflow-x: scroll;
+          white-space: nowrap;
+          a {
+            float: none;
+            display: inline-block;
+          }
+        }
+      }
+    }
+  }
   .footer {
     .fm {
       .fm-sect {
@@ -28,6 +43,32 @@
     }
     .main {
       padding: 35px 20px 35px 260px;
+    }
+  }
+}
+
+@media only screen and (max-width : 480px) {
+  .header {
+    height: 170px;
+    .menu {
+      .menu-c {
+        display: none;
+      }
+      .menu-p {
+        height: 80px;
+        .mi {
+          width: (100% / 3);
+          a:hover, a.active {
+            background: none;
+          }
+        }
+        .mi-home {
+          display: none;
+        }
+        .mi-split {
+          clear: both;
+        }
+      }
     }
   }
 }

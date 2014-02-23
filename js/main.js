@@ -3,7 +3,7 @@ $(function() {
   menu.find('.mi').hover(function() {
     menu.find('.menu-p a').removeClass('active');
     menu.find('.menu-c .ms').addClass('hidden');
-    var index = $(this).index();
+    var index = $(this).parent().children('.mi').index($(this));
     menu.find('.menu-p a').eq(index).addClass('active');
     var panel = menu.find('.menu-c .ms-' + (index + 1));
     panel.removeClass('hidden');
@@ -14,8 +14,8 @@ $(function() {
     var left = center - (totalwidth / 2);
     var offset = 28;
     left -= offset;
-    if (left < 0) left = 0;
     if (left + totalwidth > maxwidth) left = maxwidth - totalwidth;
+    if (left < 0) left = 0;
     panel.find('a:first').css({ 'margin-left': left });
   });
   $('.hompage-slider').sliderkit({
