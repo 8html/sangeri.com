@@ -1,5 +1,6 @@
 {
   "private": true,
+  "production_url": "http://www.sangeri.com",
   "name": "sangeri.com",
   "NAME": "香格伊",
   "version": "0.0.0",

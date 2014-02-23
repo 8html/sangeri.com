@@ -66,7 +66,7 @@ module.exports = function(grunt) {
     assemble: {
       options: {
         pkg: '<%= pkg %>',
-        plugins: [ 'assemble-permalink', 'helpers/trim.js' ],
+        plugins: [ 'assemble-permalink', 'helpers/trim.js', 'helpers/all_pages.js' ],
         helpers: [ 'handlebars-helper-prettify', 'helpers/helpers.js' ],
         layoutdir: 'layouts',
         layout: 'default.hbs',
@@ -93,7 +93,12 @@ module.exports = function(grunt) {
       },
       site: {
         files: {
-          'site/': [ 'pages/*.hbs', '!pages/news*.hbs' ]
+          'site/': [ 'pages/*.hbs', '!pages/news*.hbs', '!pages/~*.hbs' ]
+        }
+      },
+      sitemap: {
+        files: {
+          'site/': [ 'pages/~sitemap.hbs' ]
         }
       }
     },
