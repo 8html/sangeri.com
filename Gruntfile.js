@@ -177,8 +177,6 @@ module.exports = function(grunt) {
     'less',
     'uglify',
     'concat',
-    'hash',
-    'clean:tmp',
     'copy'
   ]);
 
@@ -191,6 +189,8 @@ module.exports = function(grunt) {
 
   grunt.registerTask('make', [
     'common',
+    'hash',
+    'clean:tmp',
     'assemble_in_production',
     'assemble'
   ]);
