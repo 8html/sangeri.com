@@ -49,9 +49,9 @@ layout: default.hbs
   <div class="ip-content">
     <div class="sidebar">
       <div class="sb-head">
-        <a href="{{coltitlelink}}">{{coltitle}}</a>
+        <a class="left-margin" href="{{coltitlelink}}">{{coltitle}}</a>
       </div>
-      <div class="sb-list">
+      <div class="sb-list left-margin">
         {{#if sidelist}}
           {{#eachProperty sidelist}}
             <a href="{{get value}}"{{#startsWith ../permalink value}} class="active"{{/startsWith}}>{{key}} <em>&#10095;</em></a>
@@ -65,7 +65,7 @@ layout: default.hbs
         {{/if}}
       </div>
       <div class="contactbox">
-        <a href="/contact/" class="contactimg">联系我们</a>
+        <a href="/contact/" class="contactimg left-margin">联系我们</a>
       </div>
     </div>
     <div class="main">

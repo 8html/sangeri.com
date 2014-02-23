@@ -335,7 +335,7 @@ a {
 }
 
 .divide3 {
-  background: url(/images/divide3.png) no-repeat center bottom;
+  background: url(/images/divide3.png) no-repeat right bottom;
   text-align: right;
   padding-right: 57px;
   height: 35px;
@@ -497,6 +497,7 @@ a {
   height: 80px;
   background: #263548;
   border-top: 4px solid #546A93;
+  z-index: 999;
 }
 
 .ip-content {
@@ -504,10 +505,12 @@ a {
   .sidebar {
     float: left;
     width: 316px;
+    .left-margin {
+      margin-left: 60px;
+    }
     .sb-head {
       a {
         display: block;
-        margin-left: 60px;
         width: 234px;
         height: 60px;
         background: #263548 url(/images/divide4.png) no-repeat center bottom;
@@ -521,7 +524,6 @@ a {
       }
     }
     .sb-list {
-      margin-left: 60px;
       width: 234px;
       a {
         display: block;
@@ -544,7 +546,9 @@ a {
       }
     }
     .contactbox {
-      margin: 20px 0 20px 60px;
+      margin-top: 20px;
+      margin-left: 0;
+      margin-bottom: 20px;
     }
   }
   .main {
@@ -555,7 +559,7 @@ a {
 .slimhead {
   position: relative;
   height: 222px;
-  background: url(/images/bnr_1.jpg) no-repeat center;
+  background: url(/images/bnr_1.jpg) no-repeat center center;
   .sbhead {
     top: 138px;
   }
