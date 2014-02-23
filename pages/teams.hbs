@@ -1,0 +1,13 @@
+---
+layout: teams.hbs
+permalink: /teams/
+title: 团队
+---
+{{#eachIndex posts.teams}}
+<p>
+  <a href="{{item.filename}}">
+  <img class="im im_s" alt="{{item.data.title}}" src="{{item.data.image}}">
+  {{item.data.title}}
+  </a>
+</p>
+{{/eachIndex}}

@@ -1,0 +1,25 @@
+- filename: "/teams/team-1/index.html"
+  data:
+    title: 团队1
+    keywords: 团队1
+    description: 团队1
+    slide: true # 是否轮播
+    image: /images/ipslide_1.jpg
+    images:
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
+  content: |
+    <b>团队1</b>
+
+- filename: "/teams/team-2/index.html"
+  data:
+    title: 团队2
+    keywords: 团队2
+    description: 团队2
+    slide: true # 是否轮播
+    image: /images/ipslide_2.jpg
+    images:
+      - /images/ipslide_3.jpg
+      - /images/ipslide_4.jpg
+  content: |
+    <b>团队2</b>

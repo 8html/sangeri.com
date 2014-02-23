@@ -73,7 +73,8 @@ module.exports = function(grunt) {
         production: false,
         posts: {
           cases: grunt.file.readYAML('posts/cases.yml'),
-          catalogue: grunt.file.readYAML('posts/catalogue.yml')
+          catalogue: grunt.file.readYAML('posts/catalogue.yml'),
+          teams: grunt.file.readYAML('posts/teams.yml')
         }
       },
       news: {
@@ -96,6 +97,13 @@ module.exports = function(grunt) {
         options: {
           layout: 'catalogue.hbs',
           pages: '<%= assemble.options.posts.catalogue %>'
+        },
+        files: { 'site/': [] }
+      },
+      teams: {
+        options: {
+          layout: 'teams.hbs',
+          pages: '<%= assemble.options.posts.teams %>'
         },
         files: { 'site/': [] }
       },
@@ -140,6 +148,10 @@ module.exports = function(grunt) {
       catalogue: {
         files: [ 'posts/catalogue.yml' ],
         tasks: [ 'assemble:catalogue' ]
+      },
+      teams: {
+        files: [ 'posts/teams.yml' ],
+        tasks: [ 'assemble:teams' ]
       }
     }
   });
