@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /images/
+Disallow: /favicon.ico
+
+Sitemap: http://www.sangeri.com/Sitemap.xml

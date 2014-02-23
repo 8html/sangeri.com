@@ -16,6 +16,13 @@ module.exports = function(grunt) {
         files: {
           'site/': [ 'images/**' ]
         }
+      },
+      statics: {
+        expand: true,
+        cwd: 'static/',
+        src: '**',
+        dest: 'site/',
+        dot: true
       }
     },
     clean: {
