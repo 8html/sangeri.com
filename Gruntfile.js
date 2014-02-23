@@ -177,6 +177,7 @@ module.exports = function(grunt) {
     'less',
     'uglify',
     'concat',
+    'hash',
     'clean:tmp',
     'copy'
   ]);
@@ -198,6 +199,33 @@ module.exports = function(grunt) {
     function() {
     grunt.config('assemble.options.production', true);
     grunt.log.ok('Entered production mode.');
+  });
+
+  grunt.registerTask('hash', 'Generate asset hash filenames', function() {
+    var path = require('path');
+    var crypto = require('crypto');
+    var fs = require('fs');
+    var sitedir = 'site';
+    var assets = grunt.file.expand({
+      cwd: sitedir
+    }, 'assets/js/*.js', 'assets/css/*.css');
+    var compiled_assets = grunt.config('assemble.options.compiled_assets') || {};
+    for (var i = 0; i < assets.length; i++) {
+      var old_filename = path.join(sitedir, assets[i]);
+      var js = fs.readFileSync(old_filename);
+      shasum = crypto.createHash('sha1');
+      shasum.update(js);
+      var hash = shasum.digest('hex');
+      var dot = old_filename.lastIndexOf('.');
+      if (dot === -1) dot = undefined;
+      var new_filename = old_filename.slice(0, dot);
+      new_filename += '-' + hash + old_filename.slice(dot);
+      fs.renameSync(old_filename, new_filename);
+      grunt.log.ok('File ' + old_filename + ' renamed to ' + new_filename);
+      var site = sitedir.length;
+      compiled_assets[old_filename.slice(site)] = new_filename.slice(site);
+    }
+    grunt.config('assemble.options.compiled_assets', compiled_assets);
   });
 
 };
