@@ -23,7 +23,7 @@ module.exports.register = function(Handlebars, options) {
   });
 
   Handlebars.registerHelper('which', function(/* ... */) {
-    for (var i = 1; i < arguments.length - 1; i++) {
+    for (var i = 0; i < arguments.length - 1; i++) {
       if (arguments[i]) {
         return arguments[i];
       }
