@@ -87,7 +87,7 @@ module.exports = function(grunt) {
       news: {
         options: {
           layout: 'news.hbs',
-          permalink: '/news/{{ category }}/{{ basename }}.html'
+          permalink: '/news/{{ basename }}.html'
         },
         files: {
           'site/': [ 'pages/news*.hbs', 'posts/news/**/*.html' ]
