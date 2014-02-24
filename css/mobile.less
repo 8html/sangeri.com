@@ -50,6 +50,16 @@
 @media only screen and (max-width : 480px) {
   .header {
     height: 170px;
+    .logo {
+      top: 8px;
+    }
+    .links {
+      top: 65px;
+      .links-c {
+        text-align: center;
+        padding: 0;
+      }
+    }
     .menu {
       .menu-c {
         display: none;
@@ -68,6 +78,67 @@
         .mi-split {
           clear: both;
         }
+      }
+    }
+  }
+  .sbhead {
+    display: none;
+  }
+  .ip-content {
+    .sidebar {
+      float: none;
+      width: 100%;
+      background: #CCC;
+      .sb-head {
+        a {
+          margin-left: 0;
+          float: left;
+          background: none;
+          background: #263548;
+          width: auto;
+          text-indent: 0;
+          padding: 5px;
+          font-size: 16px;
+          line-height: 30px;
+          height: 30px;
+        }
+      }
+      .sb-list {
+        width: 100%;
+        margin: 0;
+        a {
+          float: left;
+          padding: 5px;
+          text-indent: 0;
+          height: 30px;
+          line-height: 30px;
+          margin: 0;
+          em {
+            display: none;
+          }
+          &:hover, &.active {
+            background: #fff;
+            color: #666;
+          }
+        }
+      }
+      .contactbox {
+        display: none;
+      }
+    }
+    .main {
+      padding: 20px;
+    }
+  }
+  .footer {
+    .fm {
+      .fm-sect {
+        em {
+          margin-left: 10px;
+        }
+      }
+      .fm-subm {
+        margin-left: 10px;
       }
     }
   }
