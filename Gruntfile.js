@@ -79,8 +79,6 @@ module.exports = function(grunt) {
         layout: 'default.hbs',
         production: false,
         posts: {
-          cases: grunt.file.readYAML('posts/cases.yml'),
-          catalogue: grunt.file.readYAML('posts/catalogue.yml'),
           teams: grunt.file.readYAML('posts/teams.yml')
         }
       },
