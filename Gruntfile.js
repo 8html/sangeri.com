@@ -94,7 +94,7 @@ module.exports = function(grunt) {
       cases: {
         options: {
           layout: 'cases.hbs',
-          pages: '/cases/{{ basename }}.html>'
+          pages: '/cases/{{ basename }}.html'
         },
         files: { 'pages/cases*.hbs', 'posts/cases/**/*.html' }
       },
