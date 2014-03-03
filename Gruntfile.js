@@ -96,16 +96,16 @@ module.exports = function(grunt) {
       cases: {
         options: {
           layout: 'cases.hbs',
-          pages: '<%= assemble.options.posts.cases %>'
+          pages: '/cases/{{ basename }}.html>'
         },
-        files: { 'site/': [] }
+        files: { 'pages/cases*.hbs', 'posts/cases/**/*.html' }
       },
       catalogue: {
         options: {
           layout: 'catalogue.hbs',
-          pages: '<%= assemble.options.posts.catalogue %>'
+          pages: 'pages/catalogue*.hbs', 'posts/catalogue/**/*.html'
         },
-        files: { 'site/': [] }
+        files: { 'pages/catalogue*.hbs', 'posts/catalogue/**/*.html' }
       },
       teams: {
         options: {
@@ -149,11 +149,11 @@ module.exports = function(grunt) {
         tasks: [ 'assemble:news' ]
       },
       cases: {
-        files: [ 'posts/cases.yml' ],
+        files: [ 'posts/cases/**' ],
         tasks: [ 'assemble:cases' ]
       },
       catalogue: {
-        files: [ 'posts/catalogue.yml' ],
+        files: [ 'posts/catalogue/**' ],
         tasks: [ 'assemble:catalogue' ]
       },
       teams: {
