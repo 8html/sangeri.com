@@ -79,6 +79,7 @@ module.exports = function(grunt) {
         layout: 'default.hbs',
         production: false,
         posts: {
+          cases: grunt.file.readYAML('posts/cases.yml'),
           teams: grunt.file.readYAML('posts/teams.yml')
         }
       },
@@ -94,18 +95,27 @@ module.exports = function(grunt) {
       cases: {
         options: {
           layout: 'cases.hbs',
-          permalink: '/cases/{{ basename }}.html'
+          pages: '<%= assemble.options.posts.cases %>',
+          permalink: '/cases/{{ category }}/{{basename}}.html',
+          permalinkCallback: function() {
+            var page = this;
+            var cases = grunt.config('assemble.options.posts.cases') || [];
+            cases.forEach(function(c) {
+              if (page.src === c.filename) {
+                c.data.permalink = page.data.permalink;
+              }
+            });
+            grunt.config('assemble.options.posts.cases', cases);
+          }
         },
-        files: { 
-          'site/': [ 'pages/cases*.hbs', 'posts/cases/**/*.html' ]
-        }
+        files: { 'site/': [] }
       },
       catalogue: {
         options: {
           layout: 'catalogue.hbs',
           permalink: '/catalogue/{{ basename }}.html'
         },
-        files: { 
+        files: {
           'site/': [ 'pages/catalogue*.hbs', 'posts/catalogue/**/*.html' ]
         }
       },
@@ -118,7 +128,7 @@ module.exports = function(grunt) {
       },
       site: {
         files: {
-          'site/': [ 'pages/*.hbs', '!pages/news*.hbs', '!pages/cases*.hbs', '!pages/catalogue*.hbs', '!pages/~*.hbs' ]
+          'site/': [ 'pages/*.hbs', '!pages/news*.hbs', '!pages/catalogue*.hbs', '!pages/~*.hbs' ]
         }
       },
       sitemap: {
@@ -140,7 +150,8 @@ module.exports = function(grunt) {
         tasks: [ 'clean:js', 'uglify', 'concat', 'clean:tmp' ]
       },
       grunt: {
-        files: [ 'Gruntfile.js' ]
+        files: [ 'Gruntfile.js' ],
+        tasks: [ 'assemble' ]
       },
       hbs: {
         files: [ 'layouts/*.hbs', 'pages/*.hbs', 'helpers/*' ],
@@ -151,7 +162,7 @@ module.exports = function(grunt) {
         tasks: [ 'assemble:news' ]
       },
       cases: {
-        files: [ 'posts/cases/**' ],
+        files: [ 'posts/cases.yml' ],
         tasks: [ 'assemble:cases' ]
       },
       catalogue: {

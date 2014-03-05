@@ -1,5 +1,6 @@
-- filename: "/cases/case-1/index.html"
+- filename: "case-1"
   data:
+    category: five-star-hotel
     title: 案例1
     keywords: 案例1
     description: 案例1
@@ -11,8 +12,9 @@
   content: |
     <b>案例1</b>
 
-- filename: "/cases/case-2/index.html"
+- filename: "case-2"
   data:
+    category: four-star-hotel
     title: 案例2
     keywords: 案例2
     description: 案例2
@@ -24,8 +26,9 @@
   content: |
     <b>案例2</b>
 
-- filename: "/cases/case-3/index.html"
+- filename: "case-3"
   data:
+    category: three-star-hotel
     title: 案例3
     keywords: 案例3
     description: 案例3
@@ -36,8 +39,9 @@
   content: |
     <b>案例3</b>
 
-- filename: "/cases/case-4/index.html"
+- filename: "case-4"
   data:
+    category: five-star-hotel
     title: 案例4
     keywords: 案例4
     description: 案例4

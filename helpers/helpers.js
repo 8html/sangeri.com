@@ -93,6 +93,15 @@ module.exports.register = function(Handlebars, options) {
     }
   });
 
+  Handlebars.registerHelper('ifCurrentCategory', function(permalink, category, content) {
+    var pe = permalink.split('/');
+    if (!pe[2] || pe[2] === category) {
+      return content.fn(this);
+    } else {
+      return content.inverse(this);
+    }
+  });
+
   Handlebars.registerHelper('makeSitemapFor', function(context) {
     var options = arguments[arguments.length - 1];
     var ret = '';
