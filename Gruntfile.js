@@ -73,6 +73,7 @@ module.exports = function(grunt) {
     assemble: {
       options: {
         pkg: '<%= pkg %>',
+        partials: [ 'layouts/partial*' ],
         plugins: [ 'assemble-permalink', 'helpers/trim.js', 'helpers/all_pages.js' ],
         helpers: [ 'handlebars-helper-prettify', 'helpers/helpers.js' ],
         layoutdir: 'layouts',
@@ -82,7 +83,10 @@ module.exports = function(grunt) {
           cases: grunt.file.readYAML('posts/cases.yml'),
           catalogue: grunt.file.readYAML('posts/catalogue.yml'),
           teams: grunt.file.readYAML('posts/teams.yml')
-        }
+        },
+        // registerPartial: function(engine, filename, content) {
+        //   engine.registerPartial(filename, content);
+        // }
       },
       news: {
         options: {
