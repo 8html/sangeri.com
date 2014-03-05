@@ -94,16 +94,20 @@ module.exports = function(grunt) {
       cases: {
         options: {
           layout: 'cases.hbs',
-          pages: '/cases/{{ basename }}.html'
+          permalink: '/cases/{{ basename }}.html'
         },
-        files: { 'pages/cases*.hbs', 'posts/cases/**/*.html' }
+        files: { 
+          'site/': [ 'pages/cases*.hbs', 'posts/cases/**/*.html' ]
+        }
       },
       catalogue: {
         options: {
           layout: 'catalogue.hbs',
-          pages: 'pages/catalogue*.hbs', 'posts/catalogue/**/*.html'
+          permalink: '/catalogue/{{ basename }}.html'
         },
-        files: { 'pages/catalogue*.hbs', 'posts/catalogue/**/*.html' }
+        files: { 
+          'site/': [ 'pages/catalogue*.hbs', 'posts/catalogue/**/*.html' ]
+        }
       },
       teams: {
         options: {
