@@ -1,13 +1,21 @@
 ---
 layout: cataloguelist.hbs
-permalink: /catalogue/
+categories:
+  - hotel
+  - public
+  - restaurant
+  - office
+  - fixed
+  - sofa
+permalink: <%= [''].concat(categories).map(function(c) {return '/catalogue/'+(c?c+'/':'');}).join('\n') %>
 ---
-{{!-- {{#eachIndex posts.catalogue}}
+{{#eachIndex posts.catalogue}}
+{{#ifCurrentCategory ../permalink item.data.category}}
 <p>
-  <a href="{{item.filename}}">
+  <a href="{{item.data.permalink}}">
   <img class="im im_s" alt="{{item.data.title}}" src="{{item.data.image}}">
   {{item.data.title}}
   </a>
 </p>
+{{/ifCurrentCategory}}
 {{/eachIndex}}
- --}}

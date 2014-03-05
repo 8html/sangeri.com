@@ -80,6 +80,7 @@ module.exports = function(grunt) {
         production: false,
         posts: {
           cases: grunt.file.readYAML('posts/cases.yml'),
+          catalogue: grunt.file.readYAML('posts/catalogue.yml'),
           teams: grunt.file.readYAML('posts/teams.yml')
         }
       },
@@ -113,11 +114,20 @@ module.exports = function(grunt) {
       catalogue: {
         options: {
           layout: 'catalogue.hbs',
-          permalink: '/catalogue/{{ basename }}.html'
+          pages: '<%= assemble.options.posts.catalogue %>',
+          permalink: '/catalogue/{{ category }}/{{basename}}.html',
+          permalinkCallback: function() {
+            var page = this;
+            var catalogue = grunt.config('assemble.options.posts.catalogue') || [];
+            catalogue.forEach(function(c) {
+              if (page.src === c.filename) {
+                c.data.permalink = page.data.permalink;
+              }
+            });
+            grunt.config('assemble.options.posts.catalogue', catalogue);
+          }
         },
-        files: {
-          'site/': [ 'pages/catalogue*.hbs', 'posts/catalogue/**/*.html' ]
-        }
+        files: { 'site/': [] }
       },
       teams: {
         options: {
@@ -128,7 +138,7 @@ module.exports = function(grunt) {
       },
       site: {
         files: {
-          'site/': [ 'pages/*.hbs', '!pages/news*.hbs', '!pages/catalogue*.hbs', '!pages/~*.hbs' ]
+          'site/': [ 'pages/*.hbs', '!pages/news*.hbs', '!pages/~*.hbs' ]
         }
       },
       sitemap: {
