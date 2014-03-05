@@ -114,9 +114,7 @@ module.exports = function(grunt) {
       },
       site: {
         files: {
-          'site/': [ 'pages/*.hbs', '!pages/news*.hbs', '!pages/~*.hbs' ]
-          'site/': [ 'pages/*.hbs', '!pages/cases*.hbs', '!pages/~*.hbs' ]
-          'site/': [ 'pages/*.hbs', '!pages/catalogue*.hbs', '!pages/~*.hbs' ]
+          'site/': [ 'pages/*.hbs', '!pages/news*.hbs', '!pages/cases*.hbs', '!pages/catalogue*.hbs', '!pages/~*.hbs' ]
         }
       },
       sitemap: {
