@@ -502,6 +502,15 @@ a {
   z-index: 999;
 }
 
+.triangle-right {
+  width: 0;
+  height: 0;
+  border-top: 7px solid rgba(0, 0, 0, 0);
+  border-bottom: 7px solid rgba(0, 0, 0, 0);
+  border-left: 7px solid #666;
+  text-indent: -9999px;
+}
+
 .ip-content {
   background: #fff;
   .sidebar {
@@ -535,10 +544,16 @@ a {
         text-indent: 30px;
         margin: 10px 0;
         text-decoration: none;
+        .triangle-right {
+          margin-top: 15px;
+        }
         &:hover, &.active {
           background: #adadad;
           color: #fff;
           text-decoration: none;
+          .triangle-right {
+            border-left-color: #FFF;
+          }
         }
         em {
           font-style: normal;
