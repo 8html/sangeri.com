@@ -153,7 +153,7 @@ a {
 }
 
 .menupadslim {
-  padding-top: 20px;
+  padding-top: 100px;
 }
 
 .hompage-slider {
@@ -626,7 +626,11 @@ a {
 }
 
 .contactqq-container {
+  box-shadow: inset 0px 0px 1px #CCC;
   padding: 10px 0;
+  border: 1px solid #DFDFDF;
+  margin-top: 20px;
+  margin-right: 22px;
   .contactqq {
     text-indent: 12px;
     font-size: 14px;
@@ -634,6 +638,46 @@ a {
   }
   img {
     vertical-align: middle;
+  }
+}
+
+.list {
+  display: block;
+  .list-item {
+    display: block;
+    float: left;
+    width: (100% / 3);
+    height: 0;
+    padding-bottom: (100% / 3);
+  }
+  .list-item-wrapper {
+    display: block;
+    padding: 5px;
+    border: 1px solid #CCC;
+    margin: 5px;
+    box-shadow: inset 0 0 1px #CCC;
+    text-decoration: none;
+    border-radius: 3px;
+    &:hover {
+      text-decoration: none;
+      box-shadow: inset 0 0 8px #ADADAD;
+      border: 1px solid #ADADAD;
+    }
+  }
+  .list-item-image {
+    height: 0;
+    padding-bottom: 75%;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+  .list-item-name {
+    text-align: center;
+    font-style: normal;
+    display: block;
+    font-size: 15px;
+    padding: 5px;
   }
 }
 

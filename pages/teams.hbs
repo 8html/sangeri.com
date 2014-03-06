@@ -3,11 +3,15 @@ layout: teams.hbs
 permalink: /teams/
 title: 团队
 ---
-{{#eachIndex posts.teams}}
-<p>
-  <a href="{{item.filename}}">
-  <img class="im im_s" alt="{{item.data.title}}" src="{{item.data.image}}">
-  {{item.data.title}}
-  </a>
-</p>
-{{/eachIndex}}
+<div class="list">
+  {{#eachIndex posts.teams}}
+    <div class="list-item">
+      <a class="list-item-wrapper" href="{{item.filename}}">
+        <div class="list-item-image">
+          <img alt="{{item.data.title}}" src="{{item.data.image}}">
+        </div>
+        <em class="list-item-name">{{item.data.title}}</em>
+      </a>
+    </div>
+  {{/eachIndex}}
+</div>

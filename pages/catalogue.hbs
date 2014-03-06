@@ -9,13 +9,18 @@ categories:
   - sofa
 permalink: <%= [''].concat(categories).map(function(c) {return '/catalogue/'+(c?c+'/':'');}).join('\n') %>
 ---
-{{#eachIndex posts.catalogue}}
-{{#ifCurrentCategory ../permalink item.data.category}}
-<p>
-  <a href="{{item.data.permalink}}">
-  <img class="im im_s" alt="{{item.data.title}}" src="{{item.data.image}}">
-  {{item.data.title}}
-  </a>
-</p>
-{{/ifCurrentCategory}}
-{{/eachIndex}}
+<div class="list">
+  {{#eachIndex posts.catalogue}}
+    {{#ifCurrentCategory ../permalink item.data.category}}
+      <div class="list-item">
+        <a class="list-item-wrapper" href="{{item.data.permalink}}">
+          <div class="list-item-image">
+            <img alt="{{item.data.title}}" src="{{item.data.image}}">
+          </div>
+          <em class="list-item-name">{{item.data.title}}</em>
+        </a>
+      </div>
+    {{/ifCurrentCategory}}
+  {{/eachIndex}}
+  <div class="clearfix"></div>
+</div>
