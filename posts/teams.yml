@@ -9,7 +9,7 @@
       - /images/ipslide_1.jpg
       - /images/ipslide_2.jpg
   content: |
-    <b>团队1</b>
+    <b>等待资料更新</b>
 
 - filename: "/teams/team-2/index.html"
   data:
@@ -22,4 +22,4 @@
       - /images/ipslide_3.jpg
       - /images/ipslide_4.jpg
   content: |
-    <b>团队2</b>
+    <b>等待资料更新</b>
