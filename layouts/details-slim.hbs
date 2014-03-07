@@ -1,15 +1,20 @@
 ---
 layout: default.hbs
 ---
-<div class="content menupadslim">
+<div class="content menupadslim {{pagetype}}">
   <div class="slimhead">
     <div class="divide"></div>
-    <div class="sbhead" style="background: {{sidetopcolor}}; border-top-color: {{sidetopcolorlight}};"></div>
+    <div class="sbhead"></div>
   </div>
   <div class="ip-content">
     <div class="sidebar">
       <div class="sb-head">
-        <a href="{{coltitlelink}}" style="background-color: {{sidetopcolor}}; background-image: url({{sidetopbg}});" class="left-margin">{{coltitle}}</a>
+        <a href="{{coltitlelink}}" class="left-margin">
+          {{coltitle}}
+          <div class="sb-triangle">
+            <div class="sb-triangle-bottom"></div>
+          </div>
+        </a>
       </div>
       <div class="sb-list left-margin">
         {{#eachProperty sidelist}}

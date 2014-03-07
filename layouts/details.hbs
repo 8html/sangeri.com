@@ -1,7 +1,7 @@
 ---
 layout: default.hbs
 ---
-<div class="content menupad">
+<div class="content menupad {{pagetype}}">
   <div class="sliderkit ip-slider">
     <div class="sliderkit-nav">
       <div class="sliderkit-nav-clip">
@@ -44,12 +44,17 @@ layout: default.hbs
         {{/if}}
       {{/if}}
     </div>
-    <div class="sbhead" style="background: {{sidetopcolor}}; border-top-color: {{sidetopcolorlight}};"></div>
+    <div class="sbhead"></div>
   </div>
   <div class="ip-content">
     <div class="sidebar">
       <div class="sb-head">
-        <a class="left-margin" style="background-color: {{sidetopcolor}}; background-image: url({{sidetopbg}});" href="{{coltitlelink}}">{{coltitle}}</a>
+        <a class="left-margin" href="{{coltitlelink}}">
+          {{coltitle}}
+          <div class="sb-triangle">
+            <div class="sb-triangle-bottom"></div>
+          </div>
+        </a>
       </div>
       <div class="sb-list left-margin">
         {{#if sidelist}}
