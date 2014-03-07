@@ -61,9 +61,9 @@
     keywords: 酒店餐饮
     description: 酒店餐饮
     slide: true # 是否轮播
-    image: /images/catalogue/restaurant4.jpg
+    image: /images/catalogue/restaurant3.jpg
     images:
-      - /images/catalogue/restaurant4.jpg
+      - /images/catalogue/restaurant3.jpg
   content: |
     <img alt="" src="/images/catalogue/restaurant3.jpg" title="餐椅03">
     <b>餐椅03</b>
