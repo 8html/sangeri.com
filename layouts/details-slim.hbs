@@ -4,12 +4,12 @@ layout: default.hbs
 <div class="content menupadslim">
   <div class="slimhead">
     <div class="divide"></div>
-    <div class="sbhead"></div>
+    <div class="sbhead" style="background: {{sidetopcolor}}; border-top-color: {{sidetopcolorlight}};"></div>
   </div>
   <div class="ip-content">
     <div class="sidebar">
       <div class="sb-head">
-        <a href="{{coltitlelink}}" class="left-margin">{{coltitle}}</a>
+        <a href="{{coltitlelink}}" style="background-color: {{sidetopcolor}}; background-image: url({{sidetopbg}});" class="left-margin">{{coltitle}}</a>
       </div>
       <div class="sb-list left-margin">
         {{#eachProperty sidelist}}

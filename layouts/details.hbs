@@ -44,12 +44,12 @@ layout: default.hbs
         {{/if}}
       {{/if}}
     </div>
-    <div class="sbhead"></div>
+    <div class="sbhead" style="background: {{sidetopcolor}}; border-top-color: {{sidetopcolorlight}};"></div>
   </div>
   <div class="ip-content">
     <div class="sidebar">
       <div class="sb-head">
-        <a class="left-margin" href="{{coltitlelink}}">{{coltitle}}</a>
+        <a class="left-margin" style="background-color: {{sidetopcolor}}; background-image: url({{sidetopbg}});" href="{{coltitlelink}}">{{coltitle}}</a>
       </div>
       <div class="sb-list left-margin">
         {{#if sidelist}}
