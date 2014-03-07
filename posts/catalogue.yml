@@ -33,9 +33,9 @@
     keywords: 酒店餐饮
     description: 酒店餐饮
     slide: true # 是否轮播
-    image: /images/ipslide_3.jpg
+    image: /images/catalogue/restaurant1.jpg
     images:
-      - /images/ipslide_2.jpg
+      - /images/catalogue/restaurant1.jpg
   content: |
     <img alt="" src="/images/catalogue/restaurant1.jpg" title="餐椅01">
     <b>餐椅01</b>
@@ -47,12 +47,12 @@
     keywords: 酒店餐饮
     description: 酒店餐饮
     slide: true # 是否轮播
-    image: /images/ipslide_3.jpg
+    image: /images/catalogue/restaurant2.jpg
     images:
-      - /images/ipslide_2.jpg
+      - /images/catalogue/restaurant2.jpg
   content: |
     <img alt="" src="/images/catalogue/restaurant2.jpg" title="餐椅02">
-    <b>餐椅01</b>
+    <b>餐椅02</b>
     
 - filename: "restaurant"
   data:
@@ -61,9 +61,9 @@
     keywords: 酒店餐饮
     description: 酒店餐饮
     slide: true # 是否轮播
-    image: /images/ipslide_3.jpg
+    image: /images/catalogue/restaurant4.jpg
     images:
-      - /images/ipslide_2.jpg
+      - /images/catalogue/restaurant4.jpg
   content: |
     <img alt="" src="/images/catalogue/restaurant3.jpg" title="餐椅03">
     <b>餐椅03</b>
@@ -75,9 +75,9 @@
     keywords: 酒店餐饮
     description: 酒店餐饮
     slide: true # 是否轮播
-    image: /images/ipslide_3.jpg
+    image: /images/catalogue/restaurant4.jpg
     images:
-      - /images/ipslide_2.jpg
+      - /images/catalogue/restaurant4.jpg
   content: |
     <img alt="" src="/images/catalogue/restaurant4.jpg" title="餐椅04">
     <b>餐椅04</b>
