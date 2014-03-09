@@ -1,6 +1,6 @@
 $(function() {
   var menu = $('.menu').first();
-  var initial = 15;
+  var initial = 12;
   menu.find('.mi').hover(function() {
     menu.find('.menu-p a').removeClass('active');
     menu.find('.menu-c .ms').addClass('hidden');
