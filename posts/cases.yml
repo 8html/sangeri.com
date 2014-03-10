@@ -1,9 +1,9 @@
-- filename: "case-1"
+- filename: "crown-hotel"
   data:
     category: five-star-hotel
-    title: 案例1
-    keywords: 案例1
-    description: 案例1
+    title: 贵州兴义皇冠酒店
+    keywords: 贵州兴义皇冠酒店
+    description: 贵州兴义皇冠酒店
     slide: true # 是否轮播
     image: /images/ipslide_1.jpg
     images:
@@ -11,6 +11,27 @@
       - /images/ipslide_2.jpg
   content: |
     <b>案例1</b>
+
+- filename: "dragon-hotel"
+  data:
+    category: five-star-hotel
+    title: 湖南衡阳神龙大酒店
+    keywords: 湖南衡阳神龙大酒店
+    description: 湖南衡阳神龙大酒店
+    slide: true # 是否轮播
+    image: /images/dragon-hotel.jpg
+    images:
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
+  content: |
+    <img alt="湖南衡阳神龙大酒店" src="/images/cases/dragon-hotel-01.jpg" title="湖南衡阳神龙大酒店">
+    <img alt="湖南衡阳神龙大酒店" src="/images/cases/dragon-hotel-02.jpg" title="湖南衡阳神龙大酒店">
+    <img alt="湖南衡阳神龙大酒店" src="/images/cases/dragon-hotel-03.jpg" title="湖南衡阳神龙大酒店">
+    <img alt="湖南衡阳神龙大酒店" src="/images/cases/dragon-hotel-04.jpg" title="湖南衡阳神龙大酒店">
+    <img alt="湖南衡阳神龙大酒店" src="/images/cases/dragon-hotel-05.jpg" title="湖南衡阳神龙大酒店">
+    <img alt="湖南衡阳神龙大酒店" src="/images/cases/dragon-hotel-06.jpg" title="湖南衡阳神龙大酒店">
+    <img alt="湖南衡阳神龙大酒店" src="/images/cases/dragon-hotel-07.jpg" title="湖南衡阳神龙大酒店">
+    <img alt="湖南衡阳神龙大酒店" src="/images/cases/dragon-hotel-08.jpg" title="湖南衡阳神龙大酒店">
 
 - filename: "case-2"
   data:
