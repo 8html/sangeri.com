@@ -38,12 +38,11 @@
       - /images/catalogue/restaurant1.jpg
   content: |
     <img alt="" src="/images/catalogue/restaurant1.jpg" title="餐椅01">
-    <b>餐椅01</b>
     
 - filename: "restaurant"
   data:
     category: restaurant
-    title: 酒店餐饮
+    title: 餐椅02
     keywords: 酒店餐饮
     description: 酒店餐饮
     slide: true # 是否轮播
@@ -52,12 +51,11 @@
       - /images/catalogue/restaurant2.jpg
   content: |
     <img alt="" src="/images/catalogue/restaurant2.jpg" title="餐椅02">
-    <b>餐椅02</b>
     
 - filename: "restaurant"
   data:
     category: restaurant
-    title: 餐饮03
+    title: 餐椅03
     keywords: 酒店餐饮
     description: 酒店餐饮
     slide: true # 是否轮播
@@ -66,12 +64,11 @@
       - /images/catalogue/restaurant3.jpg
   content: |
     <img alt="" src="/images/catalogue/restaurant3.jpg" title="餐椅03">
-    <b>餐椅03</b>
     
 - filename: "restaurant"
   data:
     category: restaurant
-    title: 餐饮04
+    title: 餐椅04
     keywords: 酒店餐饮
     description: 酒店餐饮
     slide: true # 是否轮播
@@ -80,7 +77,6 @@
       - /images/catalogue/restaurant4.jpg
   content: |
     <img alt="" src="/images/catalogue/restaurant4.jpg" title="餐椅04">
-    <b>餐椅04</b>
     
 - filename: "office"
   data:
