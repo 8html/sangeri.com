@@ -19,7 +19,7 @@
     keywords: 湖南衡阳神龙大酒店
     description: 湖南衡阳神龙大酒店
     slide: true # 是否轮播
-    image: /images/dragon-hotel.jpg
+    image: /images/cases/dragon-hotel.jpg
     images:
       - /images/ipslide_1.jpg
       - /images/ipslide_2.jpg
