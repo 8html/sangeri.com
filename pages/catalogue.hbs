@@ -7,7 +7,7 @@ categories:
   - office
   - fixed
   - sofa
-permalink: <%= [''].concat(categories).map(function(c) {return '/catalogue/':'');}).join('\n') %>
+permalink: <%= [''].concat(categories).map(function(c) {return '/catalogue/'+(c?c+'/':'');}).join('\n') %>
 ---
 <div class="list">
   {{#eachIndex posts.catalogue}}
