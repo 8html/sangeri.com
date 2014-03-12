@@ -176,7 +176,7 @@ module.exports = function(grunt) {
         tasks: [ 'assemble:news' ]
       },
       cases: {
-        files: [ 'posts/cases.yml' ],
+        files: [ 'posts/cases/**' ],
         tasks: [ 'assemble:cases' ]
       },
       catalogue: {
