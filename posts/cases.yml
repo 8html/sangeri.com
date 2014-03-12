@@ -33,6 +33,22 @@
     <img alt="湖南衡阳神龙大酒店" src="/images/cases/dragon-hotel-07.jpg" title="湖南衡阳神龙大酒店">
     <img alt="湖南衡阳神龙大酒店" src="/images/cases/dragon-hotel-08.jpg" title="湖南衡阳神龙大酒店">
 
+filename: "homeland-hotel"
+  data:
+    category: five-star-hotel
+    title: 惠州家路国际大酒店
+    keywords: 惠州家路国际大酒店
+    description: 惠州家路国际大酒店
+    slide: true # 是否轮播
+    image: /images/cases/homeland-hotel.jpg
+    images:
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
+  content: |
+    <img alt="惠州家路国际大酒店" src="/images/cases/homeland-hotel-01.jpg" title="惠州家路国际大酒店">
+    <img alt="惠州家路国际大酒店" src="/images/cases/homeland-hotel-02.jpg" title="惠州家路国际大酒店">
+    <img alt="惠州家路国际大酒店" src="/images/cases/homeland-hotel-03.jpg" title="惠州家路国际大酒店">
+
 - filename: "case-2"
   data:
     category: four-star-hotel

@@ -101,7 +101,7 @@ module.exports = function(grunt) {
         options: {
           layout: 'cases.hbs',
           pages: '<%= assemble.options.posts.cases %>',
-          permalink: '/cases/{{ category }}/{{basename}}.html',
+          permalink: '/cases/{{basename}}.html',
           permalinkCallback: function() {
             var page = this;
             var cases = grunt.config('assemble.options.posts.cases') || [];
@@ -119,7 +119,7 @@ module.exports = function(grunt) {
         options: {
           layout: 'catalogue.hbs',
           pages: '<%= assemble.options.posts.catalogue %>',
-          permalink: '/catalogue/{{ category }}/{{basename}}.html',
+          permalink: '/catalogue/{{basename}}.html',
           permalinkCallback: function() {
             var page = this;
             var catalogue = grunt.config('assemble.options.posts.catalogue') || [];
