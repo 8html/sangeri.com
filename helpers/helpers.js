@@ -7,6 +7,17 @@ module.exports.register = function(Handlebars, options) {
     return JSON.stringify(object);
   });
 
+  Handlebars.registerHelper('navLinkTo', function(href) {
+    var o = 'href="' + href + '"';
+    var v = this.permalink.split('/')[1];
+    var h = href.replace(/\//g, '');
+    if ((!v && this.permalink === href) ||
+      (v && (v === h || h === this.belongsto))) {
+      o += ' class="active"';
+    }
+    return o;
+  });
+
   Handlebars.registerHelper('get', function(object/* ... */) {
     for (var i = 1; i < arguments.length - 1; i++) {
       if (object.hasOwnProperty(arguments[i])) {

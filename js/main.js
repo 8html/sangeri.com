@@ -25,7 +25,8 @@ $(function() {
     });
   }, function() {
 
-    });
+  });
+  menu.find('.mi .mi-c a.active').trigger('mouseover')
   $('.hompage-slider').sliderkit({
     auto: true,
     circular: true,
