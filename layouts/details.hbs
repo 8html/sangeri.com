@@ -59,7 +59,8 @@ layout: default.hbs
       <div class="sb-list left-margin">
         {{#if sidelist}}
           {{#eachProperty sidelist}}
-            <a href="{{get value}}"{{#startsWith ../permalink value}} class="active"{{/startsWith}}>{{key}} <em>&#10095;</em></a>
+            <a href="{{get value}}"{{#startsWith ../permalink value}} class="active"{{/startsWith}}>{{key}}
+              <em class="triangle-right">&gt;</em></a>
           {{/eachProperty}}
           <div class="clearfix"></div>
         {{else}}
