@@ -91,17 +91,40 @@
     <img alt="天津金皇大酒店" src="/images/cases/golden-crown-hotel-05.jpg" title="天津金皇大酒店">
     <img alt="天津金皇大酒店" src="/images/cases/golden-crown-hotel-06.jpg" title="天津金皇大酒店">
     
-- 0filename: "case-2"
+- filename: "egret-hotel"
   data:
     category: four-star-hotel
-    title: 案例2
-    keywords: 案例2
-    description: 案例2
+    title: 佛山白鹭大酒店
+    keywords: 佛山白鹭大酒店
+    description: 佛山白鹭大酒店
     slide: true # 是否轮播
-    image: /images/ipslide_2.jpg
+    image: /images/cases/egret-hotel.jpg
     images:
-      - /images/ipslide_3.jpg
-      - /images/ipslide_4.jpg
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
   content: |
-    <b>案例2</b>
+    <img alt="佛山白鹭大酒店" src="/images/cases/egret-hotel-01.jpg" title="佛山白鹭大酒店">
+    <img alt="佛山白鹭大酒店" src="/images/cases/egret-hotel-02.jpg" title="佛山白鹭大酒店">
+    <img alt="佛山白鹭大酒店" src="/images/cases/egret-hotel-03.jpg" title="佛山白鹭大酒店">
+    <img alt="佛山白鹭大酒店" src="/images/cases/egret-hotel-04.jpg" title="佛山白鹭大酒店">
+    <img alt="佛山白鹭大酒店" src="/images/cases/egret-hotel-05.jpg" title="佛山白鹭大酒店">
 
+
+- filename: "leeden-hotel"
+  data:
+    category: four-star-hotel
+    title: 广州礼顿酒店
+    keywords: 广州礼顿酒店
+    description: 广州礼顿酒店
+    slide: true # 是否轮播
+    image: /images/cases/leeden-hotel.jpg
+    images:
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
+  content: |
+    <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-01.jpg" title="广州礼顿酒店">
+    <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-02.jpg" title="广州礼顿酒店">
+    <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-03.jpg" title="广州礼顿酒店">
+    <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-04.jpg" title="广州礼顿酒店">
+    <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-05.jpg" title="广州礼顿酒店">
+    <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-05.jpg" title="广州礼顿酒店">
