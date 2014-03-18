@@ -7,6 +7,11 @@ $(function() {
     var index = $(this).parent().children('.mi').index($(this));
     menu.find('.menu-p a').eq(index).addClass('active');
     var panel = menu.find('.menu-c .ms-' + (index + 1));
+    if (panel.length) {
+      $('.menuclose').removeClass('hidden');
+    } else {
+      $('.menuclose').addClass('hidden');
+    }
     panel.removeClass('hidden');
     var totalwidth = 0;
     var panel_a = panel.find('a');
@@ -28,6 +33,11 @@ $(function() {
     });
   }, function() {
 
+  });
+  $('#hidemenu').click(function(e) {
+    e.preventDefault();
+    menu.find('.menu-c .ms').addClass('hidden');
+    $('.menuclose').addClass('hidden');
   });
   menu.find('.mi .mi-c a.active').trigger('mouseover')
   $('.hompage-slider').sliderkit({
