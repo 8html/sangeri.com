@@ -8,9 +8,11 @@ $(function() {
     menu.find('.menu-p a').eq(index).addClass('active');
     var panel = menu.find('.menu-c .ms-' + (index + 1));
     if (panel.length) {
-      $('.menuclose').removeClass('hidden');
+      $('.showifpanelshows').removeClass('hidden');
+      $('.hideifpanelshows').addClass('hidden');
     } else {
-      $('.menuclose').addClass('hidden');
+      $('.showifpanelshows').addClass('hidden');
+      $('.hideifpanelshows').removeClass('hidden');
     }
     panel.removeClass('hidden');
     var totalwidth = 0;
@@ -37,7 +39,8 @@ $(function() {
   $('#hidemenu').click(function(e) {
     e.preventDefault();
     menu.find('.menu-c .ms').addClass('hidden');
-    $('.menuclose').addClass('hidden');
+    $('.showifpanelshows').addClass('hidden');
+    $('.hideifpanelshows').removeClass('hidden');
   });
   menu.find('.mi .mi-c a.active').trigger('mouseover')
   $('.hompage-slider').sliderkit({

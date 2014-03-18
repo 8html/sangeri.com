@@ -78,7 +78,17 @@
             <a href="/maps/"><img alt="网络地图" src="/images/small/maps.jpg"><br>网络地图</a>
             <a href="http://pan.baidu.com/s/1i3n3Q4l" target="_blank"><img alt="电子相册下载" src="/images/small/xiangce.jpg"><br>电子相册下载</a>
           </div>
-          <div class="menuclose hidden"><a href="#" id="hidemenu">x</a></div>
+          <div class="menuclose showifpanelshows hidden"><a href="#" id="hidemenu">x</a></div>
+        </div>
+        <div class="bread hideifpanelshows">
+          当前位置：
+          <a href="/">首页</a>
+          &raquo;
+          <a href="{{coltitlelink}}">{{coltitle}}</a>
+          {{#eachProperty sidelist}}{{#startsWith ../permalink value}}
+            &raquo;
+            <a href="{{get value}}">{{key}}</a>
+          {{/startsWith}}{{/eachProperty}}
         </div>
       </div>
     </div>
