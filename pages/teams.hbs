@@ -1,17 +1,14 @@
 ---
 layout: teams.hbs
-permalink: /teams/
-title: 团队
+permalink: /news/teams/
 ---
-<div class="list">
-  {{#eachIndex posts.teams}}
-    <div class="list-item">
-      <a class="list-item-wrapper" href="{{item.filename}}">
-        <div class="list-item-image">
-          <img alt="{{item.data.title}}" src="{{item.data.image}}">
-        </div>
-        <em class="list-item-name">{{item.data.title}}</em>
-      </a>
+<div class="newslist">
+  {{#eachReverse pages}}
+  {{#is data.category "company"}}
+    <div class="newslistitem">
+      <em>{{formatDate data.date "%Y-%m-%d"}}</em>
+      <a href="{{data.permalink}}">{{data.title}}</a>
     </div>
-  {{/eachIndex}}
+  {{/is}}
+  {{/eachReverse}}
 </div>
