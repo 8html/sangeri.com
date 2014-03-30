@@ -81,8 +81,7 @@ module.exports = function(grunt) {
         production: false,
         posts: {
           cases: grunt.file.readYAML('posts/cases.yml'),
-          catalogue: grunt.file.readYAML('posts/catalogue.yml'),
-          teams: grunt.file.readYAML('posts/teams.yml')
+          catalogue: grunt.file.readYAML('posts/catalogue.yml')
         },
         // registerPartial: function(engine, filename, content) {
         //   engine.registerPartial(filename, content);
