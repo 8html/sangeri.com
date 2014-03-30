@@ -133,13 +133,6 @@ module.exports = function(grunt) {
         },
         files: { 'site/': [] }
       },
-      teams: {
-        options: {
-          layout: 'teams.hbs',
-          pages: '<%= assemble.options.posts.teams %>'
-        },
-        files: { 'site/': [] }
-      },
       site: {
         files: {
           'site/': [ 'pages/*.hbs', '!pages/news*.hbs', '!pages/~*.hbs' ]
@@ -182,10 +175,6 @@ module.exports = function(grunt) {
       catalogue: {
         files: [ 'posts/catalogue/**' ],
         tasks: [ 'assemble:catalogue' ]
-      },
-      teams: {
-        files: [ 'posts/teams.yml' ],
-        tasks: [ 'assemble:teams' ]
       }
     }
   });
