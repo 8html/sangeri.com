@@ -1,7 +1,10 @@
 ---
 layout: newslist.hbs
 permalink: /news/
+title: 资讯
 ---
+<div class="news">
+  <div class="divide5"><a href="/news/">资讯</a></div>
 <div class="newslist">
   {{#eachReverse pages}}
   {{#objContains data "category"}}
@@ -11,4 +14,5 @@ permalink: /news/
     </div>
   {{/objContains}}
   {{/eachReverse}}
+</div>
 </div>
