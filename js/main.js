@@ -56,4 +56,18 @@ $(function() {
     // panelfx: 'sliding',
     shownavitems: 9
   });
+  $('.addfav').click(function(e) {
+    e.preventDefault();
+    var url = 'http://www.sangeri.com/'
+    var title = document.title || '香格伊';
+    try {
+      window.external.addFavorite(url, title);
+    } catch(e) {
+      try {
+        window.sidebar.addPanel(title, url, '');
+      } catch (e) {
+        alert('请按Ctrl+D将本网站添加到你的浏览器收藏夹。');
+      }
+    }
+  })
 });
