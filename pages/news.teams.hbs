@@ -7,7 +7,7 @@ title: 团队资讯
   <div class="divide5"><a href="/news/teams/">团队资讯</a></div>
 <div class="newslist">
   {{#eachReverse pages}}
-  {{#is data.category "company"}}
+  {{#is data.category "teams"}}
     <div class="newslistitem">
       <em>{{formatDate data.date "%Y-%m-%d"}}</em>
       <a href="{{data.permalink}}">{{data.title}}</a>
