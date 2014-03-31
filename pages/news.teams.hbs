@@ -1,7 +1,10 @@
 ---
 layout: newslist.hbs
 permalink: /news/teams/
+title: 团队资讯
 ---
+<div class="news">
+  <div class="divide5"><a href="/news/teams/">团队资讯</a></div>
 <div class="newslist">
   {{#eachReverse pages}}
   {{#is data.category "company"}}
@@ -11,4 +14,5 @@ permalink: /news/teams/
     </div>
   {{/is}}
   {{/eachReverse}}
+</div>
 </div>
