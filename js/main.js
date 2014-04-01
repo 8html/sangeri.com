@@ -10,9 +10,11 @@ $(function() {
     if (panel.length) {
       $('.showifpanelshows').removeClass('hidden');
       $('.hideifpanelshows').addClass('hidden');
+      $('#mdivide').addClass('divide-alt');
     } else {
       $('.showifpanelshows').addClass('hidden');
       $('.hideifpanelshows').removeClass('hidden');
+      $('#mdivide').removeClass('divide-alt');
     }
     panel.removeClass('hidden');
     var totalwidth = 0;
@@ -41,6 +43,7 @@ $(function() {
     menu.find('.menu-c .ms').addClass('hidden');
     $('.showifpanelshows').addClass('hidden');
     $('.hideifpanelshows').removeClass('hidden');
+    $('#mdivide').removeClass('divide-alt');
   });
   menu.find('.mi .mi-c a.active').trigger('mouseover')
   $('.hompage-slider').sliderkit({
