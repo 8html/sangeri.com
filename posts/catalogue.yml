@@ -5,12 +5,111 @@
     keywords: 酒店客房2012
     description: 酒店客房2012
     slide: true # 是否轮播
-    image: /images/catalogue/hotel-2012.jpg
+    image: /images/catalogue/2012.jpg
     images:
       - /images/ipslide_1.jpg
       - /images/ipslide_2.jpg
   content: |
-    <img alt="酒店客房2012" src="/images/catalogue/hotel-2012-01.jpg" title="酒店客房2012">
+    <img alt="酒店客房2012" src="/images/catalogue/2012-01.jpg" title="酒店客房2012">
+
+
+- filename: "2020"
+  data:
+    category: hotel
+    title: 酒店客房2020
+    keywords: 酒店客房2020
+    description: 酒店客房2020
+    slide: true # 是否轮播
+    image: /images/catalogue/2020.jpg
+    images:
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
+  content: |
+    <img alt="酒店客房2020" src="/images/catalogue/2020-01.jpg" title="酒店客房2020">
+    <img alt="酒店客房2020" src="/images/catalogue/2020-02.jpg" title="酒店客房2020">
+    <img alt="酒店客房2020" src="/images/catalogue/2020-03.jpg" title="酒店客房2020">
+    <img alt="酒店客房2020" src="/images/catalogue/2020-04.jpg" title="酒店客房2020">
+
+
+- filename: "2063"
+  data:
+    category: hotel
+    title: 酒店客房2063
+    keywords: 酒店客房2063
+    description: 酒店客房2063
+    slide: true # 是否轮播
+    image: /images/catalogue/2063.jpg
+    images:
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
+  content: |
+    <img alt="酒店客房2063" src="/images/catalogue/2063-01.jpg" title="酒店客房2063">
+
+
+- filename: "2074"
+  data:
+    category: hotel
+    title: 酒店客房2074
+    keywords: 酒店客房2074
+    description: 酒店客房2074
+    slide: true # 是否轮播
+    image: /images/catalogue/2074.jpg
+    images:
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
+  content: |
+    <img alt="酒店客房2074" src="/images/catalogue/2074-01.jpg" title="酒店客房2074">
+    <img alt="酒店客房2074" src="/images/catalogue/2074-02.jpg" title="酒店客房2074">
+    <img alt="酒店客房2074" src="/images/catalogue/2074-03.jpg" title="酒店客房2074">
+
+
+- filename: "2081"
+  data:
+    category: hotel
+    title: 酒店客房2081
+    keywords: 酒店客房2081
+    description: 酒店客房2081
+    slide: true # 是否轮播
+    image: /images/catalogue/2081.jpg
+    images:
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
+  content: |
+    <img alt="酒店客房2081" src="/images/catalogue/2081-01.jpg" title="酒店客房2081">
+
+
+- filename: "2084"
+  data:
+    category: hotel
+    title: 酒店客房2084
+    keywords: 酒店客房2084
+    description: 酒店客房2084
+    slide: true # 是否轮播
+    image: /images/catalogue/2084.jpg
+    images:
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
+  content: |
+    <img alt="酒店客房2084" src="/images/catalogue/2084-01.jpg" title="酒店客房2084">
+    <img alt="酒店客房2084" src="/images/catalogue/2084-02.jpg" title="酒店客房2084">
+    <img alt="酒店客房2084" src="/images/catalogue/2084-03.jpg" title="酒店客房2084">
+    <img alt="酒店客房2084" src="/images/catalogue/2084-04.jpg" title="酒店客房2084">
+    <img alt="酒店客房2084" src="/images/catalogue/2084-05.jpg" title="酒店客房2084">
+
+
+- filename: "2085"
+  data:
+    category: hotel
+    title: 酒店客房2085
+    keywords: 酒店客房2085
+    description: 酒店客房2085
+    slide: true # 是否轮播
+    image: /images/catalogue/2085.jpg
+    images:
+      - /images/ipslide_1.jpg
+      - /images/ipslide_2.jpg
+  content: |
+    <img alt="酒店客房2085" src="/images/catalogue/2085-01.jpg" title="酒店客房2085">
 
 
 - filename: "sofa-f103"
