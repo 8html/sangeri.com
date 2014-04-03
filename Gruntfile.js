@@ -168,11 +168,11 @@ module.exports = function(grunt) {
         tasks: [ 'assemble:news' ]
       },
       cases: {
-        files: [ 'posts/cases/**' ],
+        files: [ 'posts/cases.yml' ],
         tasks: [ 'assemble:cases' ]
       },
       catalogue: {
-        files: [ 'posts/catalogue/**' ],
+        files: [ 'posts/catalogue.yml' ],
         tasks: [ 'assemble:catalogue' ]
       }
     }
