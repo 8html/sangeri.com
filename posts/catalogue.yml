@@ -7,8 +7,9 @@
     slide: true # 是否轮播
     image: /images/catalogue/2012.jpg
     images:
-      - /images/ipslide_1.jpg
-      - /images/ipslide_2.jpg
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
   content: |
     <img alt="酒店客房2012" src="/images/catalogue/2012-01.jpg" title="酒店客房2012">
 
@@ -22,8 +23,9 @@
     slide: true # 是否轮播
     image: /images/catalogue/2020.jpg
     images:
-      - /images/ipslide_1.jpg
-      - /images/ipslide_2.jpg
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
   content: |
     <img alt="酒店客房2020" src="/images/catalogue/2020-01.jpg" title="酒店客房2020">
     <img alt="酒店客房2020" src="/images/catalogue/2020-02.jpg" title="酒店客房2020">
@@ -40,8 +42,9 @@
     slide: true # 是否轮播
     image: /images/catalogue/2063.jpg
     images:
-      - /images/ipslide_1.jpg
-      - /images/ipslide_2.jpg
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
   content: |
     <img alt="酒店客房2063" src="/images/catalogue/2063-01.jpg" title="酒店客房2063">
 
@@ -55,8 +58,9 @@
     slide: true # 是否轮播
     image: /images/catalogue/2074.jpg
     images:
-      - /images/ipslide_1.jpg
-      - /images/ipslide_2.jpg
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
   content: |
     <img alt="酒店客房2074" src="/images/catalogue/2074-01.jpg" title="酒店客房2074">
     <img alt="酒店客房2074" src="/images/catalogue/2074-02.jpg" title="酒店客房2074">
@@ -72,8 +76,9 @@
     slide: true # 是否轮播
     image: /images/catalogue/2081.jpg
     images:
-      - /images/ipslide_1.jpg
-      - /images/ipslide_2.jpg
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
   content: |
     <img alt="酒店客房2081" src="/images/catalogue/2081-01.jpg" title="酒店客房2081">
 
@@ -87,8 +92,9 @@
     slide: true # 是否轮播
     image: /images/catalogue/2084.jpg
     images:
-      - /images/ipslide_1.jpg
-      - /images/ipslide_2.jpg
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
   content: |
     <img alt="酒店客房2084" src="/images/catalogue/2084-01.jpg" title="酒店客房2084">
     <img alt="酒店客房2084" src="/images/catalogue/2084-02.jpg" title="酒店客房2084">
@@ -106,10 +112,134 @@
     slide: true # 是否轮播
     image: /images/catalogue/2085.jpg
     images:
-      - /images/ipslide_1.jpg
-      - /images/ipslide_2.jpg
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
   content: |
     <img alt="酒店客房2085" src="/images/catalogue/2085-01.jpg" title="酒店客房2085">
+
+
+- filename: "2091"
+  data:
+    category: hotel
+    title: 酒店客房2091
+    keywords: 酒店客房2091
+    description: 酒店客房2091
+    slide: true # 是否轮播
+    image: /images/catalogue/2091.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2091" src="/images/catalogue/2091-01.jpg" title="酒店客房2091">
+    <img alt="酒店客房2091" src="/images/catalogue/2091-02.jpg" title="酒店客房2091">
+    <img alt="酒店客房2091" src="/images/catalogue/2091-03.jpg" title="酒店客房2091">
+    <img alt="酒店客房2091" src="/images/catalogue/2091-04.jpg" title="酒店客房2091">
+    <img alt="酒店客房2091" src="/images/catalogue/2091-05.jpg" title="酒店客房2091">
+
+
+- filename: "2093"
+  data:
+    category: hotel
+    title: 酒店客房2093
+    keywords: 酒店客房2093
+    description: 酒店客房2093
+    slide: true # 是否轮播
+    image: /images/catalogue/2093.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2093" src="/images/catalogue/2093-01.jpg" title="酒店客房2093">
+
+
+
+- filename: "2094"
+  data:
+    category: hotel
+    title: 酒店客房2094
+    keywords: 酒店客房2094
+    description: 酒店客房2094
+    slide: true # 是否轮播
+    image: /images/catalogue/2094.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2094" src="/images/catalogue/2094-01.jpg" title="酒店客房2094">
+    <img alt="酒店客房2094" src="/images/catalogue/2094-02.jpg" title="酒店客房2094">
+    <img alt="酒店客房2094" src="/images/catalogue/2094-03.jpg" title="酒店客房2094">
+    <img alt="酒店客房2094" src="/images/catalogue/2094-04.jpg" title="酒店客房2094">
+
+
+- filename: "2095"
+  data:
+    category: hotel
+    title: 酒店客房2095
+    keywords: 酒店客房2095
+    description: 酒店客房2095
+    slide: true # 是否轮播
+    image: /images/catalogue/2095.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2095" src="/images/catalogue/2095-01.jpg" title="酒店客房2095">
+
+
+- filename: "2096"
+  data:
+    category: hotel
+    title: 酒店客房2096
+    keywords: 酒店客房2096
+    description: 酒店客房2096
+    slide: true # 是否轮播
+    image: /images/catalogue/2096.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2096" src="/images/catalogue/2096-01.jpg" title="酒店客房2096">
+
+
+- filename: "2097"
+  data:
+    category: hotel
+    title: 酒店客房2097
+    keywords: 酒店客房2097
+    description: 酒店客房2097
+    slide: true # 是否轮播
+    image: /images/catalogue/2097.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2097" src="/images/catalogue/2097-01.jpg" title="酒店客房2097">
+
+
+- filename: "2098"
+  data:
+    category: hotel
+    title: 酒店客房2098
+    keywords: 酒店客房2098
+    description: 酒店客房2098
+    slide: true # 是否轮播
+    image: /images/catalogue/2098.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2098" src="/images/catalogue/2098-01.jpg" title="酒店客房2098">
+    <img alt="酒店客房2098" src="/images/catalogue/2098-02.jpg" title="酒店客房2098">
+    <img alt="酒店客房2098" src="/images/catalogue/2098-03.jpg" title="酒店客房2098">
+    <img alt="酒店客房2098" src="/images/catalogue/2098-04.jpg" title="酒店客房2098">
 
 
 - filename: "sofa-f103"
@@ -121,8 +251,9 @@
     slide: true # 是否轮播
     image: /images/catalogue/sofa-f103.jpg
     images:
-      - /images/ipslide_1.jpg
-      - /images/ipslide_2.jpg
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
   content: |
     <img alt="酒店沙发F103" src="/images/catalogue/sofa-f103.jpg" title="酒店沙发F103">
 
@@ -136,8 +267,8 @@
     slide: true # 是否轮播
     image: /images/ipslide_2.jpg
     images:
-      - /images/ipslide_3.jpg
-      - /images/ipslide_4.jpg
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
   content: |
     <b>公共区域</b>
 
