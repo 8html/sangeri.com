@@ -242,35 +242,19 @@
     <img alt="酒店客房2098" src="/images/catalogue/2098-04.jpg" title="酒店客房2098">
 
 
-- filename: "sofa-f103"
-  data:
-    category: sofa
-    title: 酒店沙发F103
-    keywords: 酒店沙发F103
-    description: 酒店沙发F103
-    slide: true # 是否轮播
-    image: /images/catalogue/sofa-f103.jpg
-    images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-  content: |
-    <img alt="酒店沙发F103" src="/images/catalogue/sofa-f103.jpg" title="酒店沙发F103">
-
-
-- filename: "public"
+- filename: "mentao-a"
   data:
     category: public
-    title: 公共区域
-    keywords: 公共区域
-    description: 公共区域
+    title: 门套
+    keywords: 门套
+    description: 门套
     slide: true # 是否轮播
-    image: /images/ipslide_2.jpg
+    image: /images/mentao-a.jpg
     images:
       - /images/pages/public-01.jpg
       - /images/pages/public-02.jpg
   content: |
-    <b>公共区域</b>
+    <img alt="门套" src="/images/catalogue/mentao-a-01.jpg" title="门套">
 
 
 - filename: "office"
