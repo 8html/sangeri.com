@@ -1074,15 +1074,3 @@
   content: |
     <b>专业固装</b>
 
-- filename: "sofa"
-  data:
-    category: sofa
-    title: 酒店沙发
-    keywords: 酒店沙发
-    description: 酒店沙发
-    slide: true # 是否轮播
-    image: /images/ipslide_4.jpg
-    images:
-      - /images/ipslide_4.jpg
-  content: |
-    <b>酒店沙发</b>
