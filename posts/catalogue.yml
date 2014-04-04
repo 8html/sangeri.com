@@ -155,7 +155,6 @@
     <img alt="酒店客房2093" src="/images/catalogue/2093-01.jpg" title="酒店客房2093">
 
 
-
 - filename: "2094"
   data:
     category: hotel
@@ -240,6 +239,790 @@
     <img alt="酒店客房2098" src="/images/catalogue/2098-02.jpg" title="酒店客房2098">
     <img alt="酒店客房2098" src="/images/catalogue/2098-03.jpg" title="酒店客房2098">
     <img alt="酒店客房2098" src="/images/catalogue/2098-04.jpg" title="酒店客房2098">
+
+
+- filename: "ab11"
+  data:
+    category: hotel
+    title: 酒店沙发AB11
+    keywords: 酒店沙发AB11
+    description: 酒店沙发AB11
+    slide: true # 是否轮播
+    image: /images/catalogue/ab11.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB11" src="/images/catalogue/ab11-01.jpg" title="酒店沙发AB11">
+
+
+- filename: "ab12"
+  data:
+    category: hotel
+    title: 酒店沙发AB12
+    keywords: 酒店沙发AB12
+    description: 酒店沙发AB12
+    slide: true # 是否轮播
+    image: /images/catalogue/ab12.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB12" src="/images/catalogue/ab12-01.jpg" title="酒店沙发AB12">
+
+
+- filename: "ab13"
+  data:
+    category: hotel
+    title: 酒店沙发AB13
+    keywords: 酒店沙发AB13
+    description: 酒店沙发AB13
+    slide: true # 是否轮播
+    image: /images/catalogue/ab13.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB13" src="/images/catalogue/ab13-01.jpg" title="酒店沙发AB13">
+
+
+- filename: "ab14"
+  data:
+    category: hotel
+    title: 酒店沙发AB14
+    keywords: 酒店沙发AB14
+    description: 酒店沙发AB14
+    slide: true # 是否轮播
+    image: /images/catalogue/ab14.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB14" src="/images/catalogue/ab14-01.jpg" title="酒店沙发AB14">
+
+
+- filename: "ab15"
+  data:
+    category: hotel
+    title: 酒店沙发AB15
+    keywords: 酒店沙发AB15
+    description: 酒店沙发AB15
+    slide: true # 是否轮播
+    image: /images/catalogue/ab15.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB15" src="/images/catalogue/ab15-01.jpg" title="酒店沙发AB15">
+
+
+- filename: "ab16"
+  data:
+    category: hotel
+    title: 酒店沙发AB16
+    keywords: 酒店沙发AB16
+    description: 酒店沙发AB16
+    slide: true # 是否轮播
+    image: /images/catalogue/ab16.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB16" src="/images/catalogue/ab16-01.jpg" title="酒店沙发AB16">
+
+
+- filename: "ab17"
+  data:
+    category: hotel
+    title: 酒店沙发AB17
+    keywords: 酒店沙发AB17
+    description: 酒店沙发AB17
+    slide: true # 是否轮播
+    image: /images/catalogue/ab17.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB17" src="/images/catalogue/ab17-01.jpg" title="酒店沙发AB17">
+
+
+- filename: "ab18"
+  data:
+    category: hotel
+    title: 酒店沙发AB18
+    keywords: 酒店沙发AB18
+    description: 酒店沙发AB18
+    slide: true # 是否轮播
+    image: /images/catalogue/ab18.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB18" src="/images/catalogue/ab18-01.jpg" title="酒店沙发AB18">
+
+
+- filename: "ab19"
+  data:
+    category: hotel
+    title: 酒店沙发AB19
+    keywords: 酒店沙发AB19
+    description: 酒店沙发AB19
+    slide: true # 是否轮播
+    image: /images/catalogue/ab19.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB19" src="/images/catalogue/ab19-01.jpg" title="酒店沙发AB19">
+
+
+- filename: "ab20"
+  data:
+    category: hotel
+    title: 酒店沙发AB20
+    keywords: 酒店沙发AB20
+    description: 酒店沙发AB20
+    slide: true # 是否轮播
+    image: /images/catalogue/ab20.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB20" src="/images/catalogue/ab20-01.jpg" title="酒店沙发AB20">
+
+
+- filename: "ab21"
+  data:
+    category: hotel
+    title: 酒店沙发AB21
+    keywords: 酒店沙发AB21
+    description: 酒店沙发AB21
+    slide: true # 是否轮播
+    image: /images/catalogue/ab21.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB21" src="/images/catalogue/ab21-01.jpg" title="酒店沙发AB21">
+
+
+- filename: "ab22"
+  data:
+    category: hotel
+    title: 酒店沙发AB22
+    keywords: 酒店沙发AB22
+    description: 酒店沙发AB22
+    slide: true # 是否轮播
+    image: /images/catalogue/ab22.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB22" src="/images/catalogue/ab22-01.jpg" title="酒店沙发AB22">
+
+
+- filename: "ab23"
+  data:
+    category: hotel
+    title: 酒店沙发AB23
+    keywords: 酒店沙发AB23
+    description: 酒店沙发AB23
+    slide: true # 是否轮播
+    image: /images/catalogue/ab23.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB23" src="/images/catalogue/ab23-01.jpg" title="酒店沙发AB23">
+
+
+- filename: "ab24"
+  data:
+    category: hotel
+    title: 酒店沙发AB24
+    keywords: 酒店沙发AB24
+    description: 酒店沙发AB24
+    slide: true # 是否轮播
+    image: /images/catalogue/ab24.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB24" src="/images/catalogue/ab24-01.jpg" title="酒店沙发AB24">
+
+
+- filename: "ab25"
+  data:
+    category: hotel
+    title: 酒店沙发AB25
+    keywords: 酒店沙发AB25
+    description: 酒店沙发AB25
+    slide: true # 是否轮播
+    image: /images/catalogue/ab25.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB25" src="/images/catalogue/ab25-01.jpg" title="酒店沙发AB25">
+
+
+- filename: "ab26"
+  data:
+    category: hotel
+    title: 酒店沙发AB26
+    keywords: 酒店沙发AB26
+    description: 酒店沙发AB26
+    slide: true # 是否轮播
+    image: /images/catalogue/ab26.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB26" src="/images/catalogue/ab26-01.jpg" title="酒店沙发AB26">
+
+
+- filename: "ab27"
+  data:
+    category: hotel
+    title: 酒店沙发AB27
+    keywords: 酒店沙发AB27
+    description: 酒店沙发AB27
+    slide: true # 是否轮播
+    image: /images/catalogue/ab27.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB27" src="/images/catalogue/ab27-01.jpg" title="酒店沙发AB27">
+
+
+- filename: "ab28"
+  data:
+    category: hotel
+    title: 酒店沙发AB28
+    keywords: 酒店沙发AB28
+    description: 酒店沙发AB28
+    slide: true # 是否轮播
+    image: /images/catalogue/ab28.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB28" src="/images/catalogue/ab28-01.jpg" title="酒店沙发AB28">
+
+
+- filename: "ab29"
+  data:
+    category: hotel
+    title: 酒店沙发AB29
+    keywords: 酒店沙发AB29
+    description: 酒店沙发AB29
+    slide: true # 是否轮播
+    image: /images/catalogue/ab29.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB29" src="/images/catalogue/ab29-01.jpg" title="酒店沙发AB29">
+
+
+- filename: "ab30"
+  data:
+    category: hotel
+    title: 酒店沙发AB30
+    keywords: 酒店沙发AB30
+    description: 酒店沙发AB30
+    slide: true # 是否轮播
+    image: /images/catalogue/ab30.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB30" src="/images/catalogue/ab30-01.jpg" title="酒店沙发AB30">
+
+
+- filename: "ab31"
+  data:
+    category: hotel
+    title: 酒店沙发AB31
+    keywords: 酒店沙发AB31
+    description: 酒店沙发AB31
+    slide: true # 是否轮播
+    image: /images/catalogue/ab31.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB31" src="/images/catalogue/ab31-01.jpg" title="酒店沙发AB31">
+
+
+- filename: "ab32"
+  data:
+    category: hotel
+    title: 酒店沙发AB32
+    keywords: 酒店沙发AB32
+    description: 酒店沙发AB32
+    slide: true # 是否轮播
+    image: /images/catalogue/ab32.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB32" src="/images/catalogue/ab32-01.jpg" title="酒店沙发AB32">
+
+
+- filename: "ab33"
+  data:
+    category: hotel
+    title: 酒店沙发AB33
+    keywords: 酒店沙发AB33
+    description: 酒店沙发AB33
+    slide: true # 是否轮播
+    image: /images/catalogue/ab33.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB33" src="/images/catalogue/ab33-01.jpg" title="酒店沙发AB33">
+
+
+- filename: "ab34"
+  data:
+    category: hotel
+    title: 酒店沙发AB34
+    keywords: 酒店沙发AB34
+    description: 酒店沙发AB34
+    slide: true # 是否轮播
+    image: /images/catalogue/ab34.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB34" src="/images/catalogue/ab34-01.jpg" title="酒店沙发AB34">
+
+
+- filename: "ab35"
+  data:
+    category: hotel
+    title: 酒店沙发AB35
+    keywords: 酒店沙发AB35
+    description: 酒店沙发AB35
+    slide: true # 是否轮播
+    image: /images/catalogue/ab35.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB35" src="/images/catalogue/ab35-01.jpg" title="酒店沙发AB35">
+
+
+- filename: "ab36"
+  data:
+    category: hotel
+    title: 酒店沙发AB36
+    keywords: 酒店沙发AB36
+    description: 酒店沙发AB36
+    slide: true # 是否轮播
+    image: /images/catalogue/ab36.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB36" src="/images/catalogue/ab36-01.jpg" title="酒店沙发AB36">
+
+
+- filename: "ab37"
+  data:
+    category: hotel
+    title: 酒店沙发AB37
+    keywords: 酒店沙发AB37
+    description: 酒店沙发AB37
+    slide: true # 是否轮播
+    image: /images/catalogue/ab37.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB37" src="/images/catalogue/ab37-01.jpg" title="酒店沙发AB37">
+
+
+- filename: "ab38"
+  data:
+    category: hotel
+    title: 酒店沙发AB38
+    keywords: 酒店沙发AB38
+    description: 酒店沙发AB38
+    slide: true # 是否轮播
+    image: /images/catalogue/ab38.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB38" src="/images/catalogue/ab38-01.jpg" title="酒店沙发AB38">
+
+
+- filename: "ab39"
+  data:
+    category: hotel
+    title: 酒店沙发AB39
+    keywords: 酒店沙发AB39
+    description: 酒店沙发AB39
+    slide: true # 是否轮播
+    image: /images/catalogue/ab39.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB39" src="/images/catalogue/ab39-01.jpg" title="酒店沙发AB39">
+
+
+- filename: "ab40"
+  data:
+    category: hotel
+    title: 酒店沙发AB40
+    keywords: 酒店沙发AB40
+    description: 酒店沙发AB40
+    slide: true # 是否轮播
+    image: /images/catalogue/ab40.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB40" src="/images/catalogue/ab40-01.jpg" title="酒店沙发AB40">
+
+
+- filename: "ab41"
+  data:
+    category: hotel
+    title: 酒店沙发AB41
+    keywords: 酒店沙发AB41
+    description: 酒店沙发AB41
+    slide: true # 是否轮播
+    image: /images/catalogue/ab41.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB41" src="/images/catalogue/ab41-01.jpg" title="酒店沙发AB41">
+
+
+- filename: "ab42"
+  data:
+    category: hotel
+    title: 酒店沙发AB42
+    keywords: 酒店沙发AB42
+    description: 酒店沙发AB42
+    slide: true # 是否轮播
+    image: /images/catalogue/ab42.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB42" src="/images/catalogue/ab42-01.jpg" title="酒店沙发AB42">
+
+
+- filename: "ab43"
+  data:
+    category: hotel
+    title: 酒店沙发AB43
+    keywords: 酒店沙发AB43
+    description: 酒店沙发AB43
+    slide: true # 是否轮播
+    image: /images/catalogue/ab43.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB43" src="/images/catalogue/ab43-01.jpg" title="酒店沙发AB43">
+
+
+- filename: "ab44"
+  data:
+    category: hotel
+    title: 酒店沙发AB44
+    keywords: 酒店沙发AB44
+    description: 酒店沙发AB44
+    slide: true # 是否轮播
+    image: /images/catalogue/ab44.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB44" src="/images/catalogue/ab44-01.jpg" title="酒店沙发AB44">
+
+
+- filename: "ab45"
+  data:
+    category: hotel
+    title: 酒店沙发AB45
+    keywords: 酒店沙发AB45
+    description: 酒店沙发AB45
+    slide: true # 是否轮播
+    image: /images/catalogue/ab45.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB45" src="/images/catalogue/ab45-01.jpg" title="酒店沙发AB45">
+
+
+- filename: "ab46"
+  data:
+    category: hotel
+    title: 酒店沙发AB46
+    keywords: 酒店沙发AB46
+    description: 酒店沙发AB46
+    slide: true # 是否轮播
+    image: /images/catalogue/ab46.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB46" src="/images/catalogue/ab46-01.jpg" title="酒店沙发AB46">
+
+
+- filename: "ab47"
+  data:
+    category: hotel
+    title: 酒店沙发AB47
+    keywords: 酒店沙发AB47
+    description: 酒店沙发AB47
+    slide: true # 是否轮播
+    image: /images/catalogue/ab47.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB47" src="/images/catalogue/ab47-01.jpg" title="酒店沙发AB47">
+
+
+- filename: "ab48"
+  data:
+    category: hotel
+    title: 酒店沙发AB48
+    keywords: 酒店沙发AB48
+    description: 酒店沙发AB48
+    slide: true # 是否轮播
+    image: /images/catalogue/ab48.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB48" src="/images/catalogue/ab48-01.jpg" title="酒店沙发AB48">
+
+
+- filename: "ab49"
+  data:
+    category: hotel
+    title: 酒店沙发AB49
+    keywords: 酒店沙发AB49
+    description: 酒店沙发AB49
+    slide: true # 是否轮播
+    image: /images/catalogue/ab49.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB49" src="/images/catalogue/ab49-01.jpg" title="酒店沙发AB49">
+
+
+- filename: "ab50"
+  data:
+    category: hotel
+    title: 酒店沙发AB50
+    keywords: 酒店沙发AB50
+    description: 酒店沙发AB50
+    slide: true # 是否轮播
+    image: /images/catalogue/ab50.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB50" src="/images/catalogue/ab50-01.jpg" title="酒店沙发AB50">
+
+
+- filename: "ab51"
+  data:
+    category: hotel
+    title: 酒店沙发AB51
+    keywords: 酒店沙发AB51
+    description: 酒店沙发AB51
+    slide: true # 是否轮播
+    image: /images/catalogue/ab51.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB51" src="/images/catalogue/ab51-01.jpg" title="酒店沙发AB51">
+
+
+- filename: "ab136"
+  data:
+    category: hotel
+    title: 酒店沙发AB136
+    keywords: 酒店沙发AB136
+    description: 酒店沙发AB136
+    slide: true # 是否轮播
+    image: /images/catalogue/ab136.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB136" src="/images/catalogue/ab136-01.jpg" title="酒店沙发AB136">
+
+
+- filename: "ab137"
+  data:
+    category: hotel
+    title: 酒店沙发AB137
+    keywords: 酒店沙发AB137
+    description: 酒店沙发AB137
+    slide: true # 是否轮播
+    image: /images/catalogue/ab137.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB137" src="/images/catalogue/ab137-01.jpg" title="酒店沙发AB137">
+
+
+- filename: "ab138"
+  data:
+    category: hotel
+    title: 酒店沙发AB138
+    keywords: 酒店沙发AB138
+    description: 酒店沙发AB138
+    slide: true # 是否轮播
+    image: /images/catalogue/ab138.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB138" src="/images/catalogue/ab138-01.jpg" title="酒店沙发AB138">
+
+
+- filename: "ab139"
+  data:
+    category: hotel
+    title: 酒店沙发AB139
+    keywords: 酒店沙发AB139
+    description: 酒店沙发AB139
+    slide: true # 是否轮播
+    image: /images/catalogue/ab139.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB139" src="/images/catalogue/ab139-01.jpg" title="酒店沙发AB139">
+
+
+- filename: "ab142"
+  data:
+    category: hotel
+    title: 酒店沙发AB142
+    keywords: 酒店沙发AB142
+    description: 酒店沙发AB142
+    slide: true # 是否轮播
+    image: /images/catalogue/ab142.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB142" src="/images/catalogue/ab142-01.jpg" title="酒店沙发AB142">
+
+
+- filename: "ab143"
+  data:
+    category: hotel
+    title: 酒店沙发AB143
+    keywords: 酒店沙发AB143
+    description: 酒店沙发AB143
+    slide: true # 是否轮播
+    image: /images/catalogue/ab143.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB143" src="/images/catalogue/ab143-01.jpg" title="酒店沙发AB143">
+
+
+- filename: "ab145"
+  data:
+    category: hotel
+    title: 酒店沙发AB145
+    keywords: 酒店沙发AB145
+    description: 酒店沙发AB145
+    slide: true # 是否轮播
+    image: /images/catalogue/ab145.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB145" src="/images/catalogue/ab145-01.jpg" title="酒店沙发AB145">
+
+
+- filename: "ab170"
+  data:
+    category: hotel
+    title: 酒店沙发AB170
+    keywords: 酒店沙发AB170
+    description: 酒店沙发AB170
+    slide: true # 是否轮播
+    image: /images/catalogue/ab170.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发AB170" src="/images/catalogue/ab170-01.jpg" title="酒店沙发AB170">
 
 
 - filename: "mentao-a"
