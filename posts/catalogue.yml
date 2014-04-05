@@ -243,10 +243,10 @@
 
 - filename: "ab11"
   data:
-    category: sofa
-    title: 酒店沙发AB11
-    keywords: 酒店沙发AB11
-    description: 酒店沙发AB11
+    category: restaurant
+    title: 酒店餐饮AB11
+    keywords: 酒店餐饮AB11
+    description: 酒店餐饮AB11
     slide: true # 是否轮播
     image: /images/catalogue/ab11.jpg
     images:
@@ -254,15 +254,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB11" src="/images/catalogue/ab11-01.jpg" title="酒店沙发AB11">
+    <img alt="酒店餐饮AB11" src="/images/catalogue/ab11-01.jpg" title="酒店餐饮AB11">
 
 
 - filename: "ab12"
   data:
-    category: sofa
-    title: 酒店沙发AB12
-    keywords: 酒店沙发AB12
-    description: 酒店沙发AB12
+    category: restaurant
+    title: 酒店餐饮AB12
+    keywords: 酒店餐饮AB12
+    description: 酒店餐饮AB12
     slide: true # 是否轮播
     image: /images/catalogue/ab12.jpg
     images:
@@ -270,15 +270,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB12" src="/images/catalogue/ab12-01.jpg" title="酒店沙发AB12">
+    <img alt="酒店餐饮AB12" src="/images/catalogue/ab12-01.jpg" title="酒店餐饮AB12">
 
 
 - filename: "ab13"
   data:
-    category: sofa
-    title: 酒店沙发AB13
-    keywords: 酒店沙发AB13
-    description: 酒店沙发AB13
+    category: restaurant
+    title: 酒店餐饮AB13
+    keywords: 酒店餐饮AB13
+    description: 酒店餐饮AB13
     slide: true # 是否轮播
     image: /images/catalogue/ab13.jpg
     images:
@@ -286,15 +286,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB13" src="/images/catalogue/ab13-01.jpg" title="酒店沙发AB13">
+    <img alt="酒店餐饮AB13" src="/images/catalogue/ab13-01.jpg" title="酒店餐饮AB13">
 
 
 - filename: "ab14"
   data:
-    category: sofa
-    title: 酒店沙发AB14
-    keywords: 酒店沙发AB14
-    description: 酒店沙发AB14
+    category: restaurant
+    title: 酒店餐饮AB14
+    keywords: 酒店餐饮AB14
+    description: 酒店餐饮AB14
     slide: true # 是否轮播
     image: /images/catalogue/ab14.jpg
     images:
@@ -302,15 +302,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB14" src="/images/catalogue/ab14-01.jpg" title="酒店沙发AB14">
+    <img alt="酒店餐饮AB14" src="/images/catalogue/ab14-01.jpg" title="酒店餐饮AB14">
 
 
 - filename: "ab15"
   data:
-    category: sofa
-    title: 酒店沙发AB15
-    keywords: 酒店沙发AB15
-    description: 酒店沙发AB15
+    category: restaurant
+    title: 酒店餐饮AB15
+    keywords: 酒店餐饮AB15
+    description: 酒店餐饮AB15
     slide: true # 是否轮播
     image: /images/catalogue/ab15.jpg
     images:
@@ -318,15 +318,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB15" src="/images/catalogue/ab15-01.jpg" title="酒店沙发AB15">
+    <img alt="酒店餐饮AB15" src="/images/catalogue/ab15-01.jpg" title="酒店餐饮AB15">
 
 
 - filename: "ab16"
   data:
-    category: sofa
-    title: 酒店沙发AB16
-    keywords: 酒店沙发AB16
-    description: 酒店沙发AB16
+    category: restaurant
+    title: 酒店餐饮AB16
+    keywords: 酒店餐饮AB16
+    description: 酒店餐饮AB16
     slide: true # 是否轮播
     image: /images/catalogue/ab16.jpg
     images:
@@ -334,15 +334,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB16" src="/images/catalogue/ab16-01.jpg" title="酒店沙发AB16">
+    <img alt="酒店餐饮AB16" src="/images/catalogue/ab16-01.jpg" title="酒店餐饮AB16">
 
 
 - filename: "ab17"
   data:
-    category: sofa
-    title: 酒店沙发AB17
-    keywords: 酒店沙发AB17
-    description: 酒店沙发AB17
+    category: restaurant
+    title: 酒店餐饮AB17
+    keywords: 酒店餐饮AB17
+    description: 酒店餐饮AB17
     slide: true # 是否轮播
     image: /images/catalogue/ab17.jpg
     images:
@@ -350,15 +350,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB17" src="/images/catalogue/ab17-01.jpg" title="酒店沙发AB17">
+    <img alt="酒店餐饮AB17" src="/images/catalogue/ab17-01.jpg" title="酒店餐饮AB17">
 
 
 - filename: "ab18"
   data:
-    category: sofa
-    title: 酒店沙发AB18
-    keywords: 酒店沙发AB18
-    description: 酒店沙发AB18
+    category: restaurant
+    title: 酒店餐饮AB18
+    keywords: 酒店餐饮AB18
+    description: 酒店餐饮AB18
     slide: true # 是否轮播
     image: /images/catalogue/ab18.jpg
     images:
@@ -366,15 +366,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB18" src="/images/catalogue/ab18-01.jpg" title="酒店沙发AB18">
+    <img alt="酒店餐饮AB18" src="/images/catalogue/ab18-01.jpg" title="酒店餐饮AB18">
 
 
 - filename: "ab19"
   data:
-    category: sofa
-    title: 酒店沙发AB19
-    keywords: 酒店沙发AB19
-    description: 酒店沙发AB19
+    category: restaurant
+    title: 酒店餐饮AB19
+    keywords: 酒店餐饮AB19
+    description: 酒店餐饮AB19
     slide: true # 是否轮播
     image: /images/catalogue/ab19.jpg
     images:
@@ -382,15 +382,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB19" src="/images/catalogue/ab19-01.jpg" title="酒店沙发AB19">
+    <img alt="酒店餐饮AB19" src="/images/catalogue/ab19-01.jpg" title="酒店餐饮AB19">
 
 
 - filename: "ab20"
   data:
-    category: sofa
-    title: 酒店沙发AB20
-    keywords: 酒店沙发AB20
-    description: 酒店沙发AB20
+    category: restaurant
+    title: 酒店餐饮AB20
+    keywords: 酒店餐饮AB20
+    description: 酒店餐饮AB20
     slide: true # 是否轮播
     image: /images/catalogue/ab20.jpg
     images:
@@ -398,15 +398,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB20" src="/images/catalogue/ab20-01.jpg" title="酒店沙发AB20">
+    <img alt="酒店餐饮AB20" src="/images/catalogue/ab20-01.jpg" title="酒店餐饮AB20">
 
 
 - filename: "ab21"
   data:
-    category: sofa
-    title: 酒店沙发AB21
-    keywords: 酒店沙发AB21
-    description: 酒店沙发AB21
+    category: restaurant
+    title: 酒店餐饮AB21
+    keywords: 酒店餐饮AB21
+    description: 酒店餐饮AB21
     slide: true # 是否轮播
     image: /images/catalogue/ab21.jpg
     images:
@@ -414,15 +414,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB21" src="/images/catalogue/ab21-01.jpg" title="酒店沙发AB21">
+    <img alt="酒店餐饮AB21" src="/images/catalogue/ab21-01.jpg" title="酒店餐饮AB21">
 
 
 - filename: "ab22"
   data:
-    category: sofa
-    title: 酒店沙发AB22
-    keywords: 酒店沙发AB22
-    description: 酒店沙发AB22
+    category: restaurant
+    title: 酒店餐饮AB22
+    keywords: 酒店餐饮AB22
+    description: 酒店餐饮AB22
     slide: true # 是否轮播
     image: /images/catalogue/ab22.jpg
     images:
@@ -430,15 +430,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB22" src="/images/catalogue/ab22-01.jpg" title="酒店沙发AB22">
+    <img alt="酒店餐饮AB22" src="/images/catalogue/ab22-01.jpg" title="酒店餐饮AB22">
 
 
 - filename: "ab23"
   data:
-    category: sofa
-    title: 酒店沙发AB23
-    keywords: 酒店沙发AB23
-    description: 酒店沙发AB23
+    category: restaurant
+    title: 酒店餐饮AB23
+    keywords: 酒店餐饮AB23
+    description: 酒店餐饮AB23
     slide: true # 是否轮播
     image: /images/catalogue/ab23.jpg
     images:
@@ -446,15 +446,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB23" src="/images/catalogue/ab23-01.jpg" title="酒店沙发AB23">
+    <img alt="酒店餐饮AB23" src="/images/catalogue/ab23-01.jpg" title="酒店餐饮AB23">
 
 
 - filename: "ab24"
   data:
-    category: sofa
-    title: 酒店沙发AB24
-    keywords: 酒店沙发AB24
-    description: 酒店沙发AB24
+    category: restaurant
+    title: 酒店餐饮AB24
+    keywords: 酒店餐饮AB24
+    description: 酒店餐饮AB24
     slide: true # 是否轮播
     image: /images/catalogue/ab24.jpg
     images:
@@ -462,15 +462,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB24" src="/images/catalogue/ab24-01.jpg" title="酒店沙发AB24">
+    <img alt="酒店餐饮AB24" src="/images/catalogue/ab24-01.jpg" title="酒店餐饮AB24">
 
 
 - filename: "ab25"
   data:
-    category: sofa
-    title: 酒店沙发AB25
-    keywords: 酒店沙发AB25
-    description: 酒店沙发AB25
+    category: restaurant
+    title: 酒店餐饮AB25
+    keywords: 酒店餐饮AB25
+    description: 酒店餐饮AB25
     slide: true # 是否轮播
     image: /images/catalogue/ab25.jpg
     images:
@@ -478,15 +478,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB25" src="/images/catalogue/ab25-01.jpg" title="酒店沙发AB25">
+    <img alt="酒店餐饮AB25" src="/images/catalogue/ab25-01.jpg" title="酒店餐饮AB25">
 
 
 - filename: "ab26"
   data:
-    category: sofa
-    title: 酒店沙发AB26
-    keywords: 酒店沙发AB26
-    description: 酒店沙发AB26
+    category: restaurant
+    title: 酒店餐饮AB26
+    keywords: 酒店餐饮AB26
+    description: 酒店餐饮AB26
     slide: true # 是否轮播
     image: /images/catalogue/ab26.jpg
     images:
@@ -494,15 +494,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB26" src="/images/catalogue/ab26-01.jpg" title="酒店沙发AB26">
+    <img alt="酒店餐饮AB26" src="/images/catalogue/ab26-01.jpg" title="酒店餐饮AB26">
 
 
 - filename: "ab27"
   data:
-    category: sofa
-    title: 酒店沙发AB27
-    keywords: 酒店沙发AB27
-    description: 酒店沙发AB27
+    category: restaurant
+    title: 酒店餐饮AB27
+    keywords: 酒店餐饮AB27
+    description: 酒店餐饮AB27
     slide: true # 是否轮播
     image: /images/catalogue/ab27.jpg
     images:
@@ -510,15 +510,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB27" src="/images/catalogue/ab27-01.jpg" title="酒店沙发AB27">
+    <img alt="酒店餐饮AB27" src="/images/catalogue/ab27-01.jpg" title="酒店餐饮AB27">
 
 
 - filename: "ab28"
   data:
-    category: sofa
-    title: 酒店沙发AB28
-    keywords: 酒店沙发AB28
-    description: 酒店沙发AB28
+    category: restaurant
+    title: 酒店餐饮AB28
+    keywords: 酒店餐饮AB28
+    description: 酒店餐饮AB28
     slide: true # 是否轮播
     image: /images/catalogue/ab28.jpg
     images:
@@ -526,15 +526,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB28" src="/images/catalogue/ab28-01.jpg" title="酒店沙发AB28">
+    <img alt="酒店餐饮AB28" src="/images/catalogue/ab28-01.jpg" title="酒店餐饮AB28">
 
 
 - filename: "ab29"
   data:
-    category: sofa
-    title: 酒店沙发AB29
-    keywords: 酒店沙发AB29
-    description: 酒店沙发AB29
+    category: restaurant
+    title: 酒店餐饮AB29
+    keywords: 酒店餐饮AB29
+    description: 酒店餐饮AB29
     slide: true # 是否轮播
     image: /images/catalogue/ab29.jpg
     images:
@@ -542,15 +542,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB29" src="/images/catalogue/ab29-01.jpg" title="酒店沙发AB29">
+    <img alt="酒店餐饮AB29" src="/images/catalogue/ab29-01.jpg" title="酒店餐饮AB29">
 
 
 - filename: "ab30"
   data:
-    category: sofa
-    title: 酒店沙发AB30
-    keywords: 酒店沙发AB30
-    description: 酒店沙发AB30
+    category: restaurant
+    title: 酒店餐饮AB30
+    keywords: 酒店餐饮AB30
+    description: 酒店餐饮AB30
     slide: true # 是否轮播
     image: /images/catalogue/ab30.jpg
     images:
@@ -558,15 +558,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB30" src="/images/catalogue/ab30-01.jpg" title="酒店沙发AB30">
+    <img alt="酒店餐饮AB30" src="/images/catalogue/ab30-01.jpg" title="酒店餐饮AB30">
 
 
 - filename: "ab31"
   data:
-    category: sofa
-    title: 酒店沙发AB31
-    keywords: 酒店沙发AB31
-    description: 酒店沙发AB31
+    category: restaurant
+    title: 酒店餐饮AB31
+    keywords: 酒店餐饮AB31
+    description: 酒店餐饮AB31
     slide: true # 是否轮播
     image: /images/catalogue/ab31.jpg
     images:
@@ -574,15 +574,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB31" src="/images/catalogue/ab31-01.jpg" title="酒店沙发AB31">
+    <img alt="酒店餐饮AB31" src="/images/catalogue/ab31-01.jpg" title="酒店餐饮AB31">
 
 
 - filename: "ab32"
   data:
-    category: sofa
-    title: 酒店沙发AB32
-    keywords: 酒店沙发AB32
-    description: 酒店沙发AB32
+    category: restaurant
+    title: 酒店餐饮AB32
+    keywords: 酒店餐饮AB32
+    description: 酒店餐饮AB32
     slide: true # 是否轮播
     image: /images/catalogue/ab32.jpg
     images:
@@ -590,15 +590,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB32" src="/images/catalogue/ab32-01.jpg" title="酒店沙发AB32">
+    <img alt="酒店餐饮AB32" src="/images/catalogue/ab32-01.jpg" title="酒店餐饮AB32">
 
 
 - filename: "ab33"
   data:
-    category: sofa
-    title: 酒店沙发AB33
-    keywords: 酒店沙发AB33
-    description: 酒店沙发AB33
+    category: restaurant
+    title: 酒店餐饮AB33
+    keywords: 酒店餐饮AB33
+    description: 酒店餐饮AB33
     slide: true # 是否轮播
     image: /images/catalogue/ab33.jpg
     images:
@@ -606,15 +606,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB33" src="/images/catalogue/ab33-01.jpg" title="酒店沙发AB33">
+    <img alt="酒店餐饮AB33" src="/images/catalogue/ab33-01.jpg" title="酒店餐饮AB33">
 
 
 - filename: "ab34"
   data:
-    category: sofa
-    title: 酒店沙发AB34
-    keywords: 酒店沙发AB34
-    description: 酒店沙发AB34
+    category: restaurant
+    title: 酒店餐饮AB34
+    keywords: 酒店餐饮AB34
+    description: 酒店餐饮AB34
     slide: true # 是否轮播
     image: /images/catalogue/ab34.jpg
     images:
@@ -622,15 +622,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB34" src="/images/catalogue/ab34-01.jpg" title="酒店沙发AB34">
+    <img alt="酒店餐饮AB34" src="/images/catalogue/ab34-01.jpg" title="酒店餐饮AB34">
 
 
 - filename: "ab35"
   data:
-    category: sofa
-    title: 酒店沙发AB35
-    keywords: 酒店沙发AB35
-    description: 酒店沙发AB35
+    category: restaurant
+    title: 酒店餐饮AB35
+    keywords: 酒店餐饮AB35
+    description: 酒店餐饮AB35
     slide: true # 是否轮播
     image: /images/catalogue/ab35.jpg
     images:
@@ -638,15 +638,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB35" src="/images/catalogue/ab35-01.jpg" title="酒店沙发AB35">
+    <img alt="酒店餐饮AB35" src="/images/catalogue/ab35-01.jpg" title="酒店餐饮AB35">
 
 
 - filename: "ab36"
   data:
-    category: sofa
-    title: 酒店沙发AB36
-    keywords: 酒店沙发AB36
-    description: 酒店沙发AB36
+    category: restaurant
+    title: 酒店餐饮AB36
+    keywords: 酒店餐饮AB36
+    description: 酒店餐饮AB36
     slide: true # 是否轮播
     image: /images/catalogue/ab36.jpg
     images:
@@ -654,15 +654,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB36" src="/images/catalogue/ab36-01.jpg" title="酒店沙发AB36">
+    <img alt="酒店餐饮AB36" src="/images/catalogue/ab36-01.jpg" title="酒店餐饮AB36">
 
 
 - filename: "ab37"
   data:
-    category: sofa
-    title: 酒店沙发AB37
-    keywords: 酒店沙发AB37
-    description: 酒店沙发AB37
+    category: restaurant
+    title: 酒店餐饮AB37
+    keywords: 酒店餐饮AB37
+    description: 酒店餐饮AB37
     slide: true # 是否轮播
     image: /images/catalogue/ab37.jpg
     images:
@@ -670,15 +670,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB37" src="/images/catalogue/ab37-01.jpg" title="酒店沙发AB37">
+    <img alt="酒店餐饮AB37" src="/images/catalogue/ab37-01.jpg" title="酒店餐饮AB37">
 
 
 - filename: "ab38"
   data:
-    category: sofa
-    title: 酒店沙发AB38
-    keywords: 酒店沙发AB38
-    description: 酒店沙发AB38
+    category: restaurant
+    title: 酒店餐饮AB38
+    keywords: 酒店餐饮AB38
+    description: 酒店餐饮AB38
     slide: true # 是否轮播
     image: /images/catalogue/ab38.jpg
     images:
@@ -686,15 +686,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB38" src="/images/catalogue/ab38-01.jpg" title="酒店沙发AB38">
+    <img alt="酒店餐饮AB38" src="/images/catalogue/ab38-01.jpg" title="酒店餐饮AB38">
 
 
 - filename: "ab39"
   data:
-    category: sofa
-    title: 酒店沙发AB39
-    keywords: 酒店沙发AB39
-    description: 酒店沙发AB39
+    category: restaurant
+    title: 酒店餐饮AB39
+    keywords: 酒店餐饮AB39
+    description: 酒店餐饮AB39
     slide: true # 是否轮播
     image: /images/catalogue/ab39.jpg
     images:
@@ -702,15 +702,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB39" src="/images/catalogue/ab39-01.jpg" title="酒店沙发AB39">
+    <img alt="酒店餐饮AB39" src="/images/catalogue/ab39-01.jpg" title="酒店餐饮AB39">
 
 
 - filename: "ab40"
   data:
-    category: sofa
-    title: 酒店沙发AB40
-    keywords: 酒店沙发AB40
-    description: 酒店沙发AB40
+    category: restaurant
+    title: 酒店餐饮AB40
+    keywords: 酒店餐饮AB40
+    description: 酒店餐饮AB40
     slide: true # 是否轮播
     image: /images/catalogue/ab40.jpg
     images:
@@ -718,15 +718,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB40" src="/images/catalogue/ab40-01.jpg" title="酒店沙发AB40">
+    <img alt="酒店餐饮AB40" src="/images/catalogue/ab40-01.jpg" title="酒店餐饮AB40">
 
 
 - filename: "ab41"
   data:
-    category: sofa
-    title: 酒店沙发AB41
-    keywords: 酒店沙发AB41
-    description: 酒店沙发AB41
+    category: restaurant
+    title: 酒店餐饮AB41
+    keywords: 酒店餐饮AB41
+    description: 酒店餐饮AB41
     slide: true # 是否轮播
     image: /images/catalogue/ab41.jpg
     images:
@@ -734,15 +734,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB41" src="/images/catalogue/ab41-01.jpg" title="酒店沙发AB41">
+    <img alt="酒店餐饮AB41" src="/images/catalogue/ab41-01.jpg" title="酒店餐饮AB41">
 
 
 - filename: "ab42"
   data:
-    category: sofa
-    title: 酒店沙发AB42
-    keywords: 酒店沙发AB42
-    description: 酒店沙发AB42
+    category: restaurant
+    title: 酒店餐饮AB42
+    keywords: 酒店餐饮AB42
+    description: 酒店餐饮AB42
     slide: true # 是否轮播
     image: /images/catalogue/ab42.jpg
     images:
@@ -750,15 +750,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB42" src="/images/catalogue/ab42-01.jpg" title="酒店沙发AB42">
+    <img alt="酒店餐饮AB42" src="/images/catalogue/ab42-01.jpg" title="酒店餐饮AB42">
 
 
 - filename: "ab43"
   data:
-    category: sofa
-    title: 酒店沙发AB43
-    keywords: 酒店沙发AB43
-    description: 酒店沙发AB43
+    category: restaurant
+    title: 酒店餐饮AB43
+    keywords: 酒店餐饮AB43
+    description: 酒店餐饮AB43
     slide: true # 是否轮播
     image: /images/catalogue/ab43.jpg
     images:
@@ -766,15 +766,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB43" src="/images/catalogue/ab43-01.jpg" title="酒店沙发AB43">
+    <img alt="酒店餐饮AB43" src="/images/catalogue/ab43-01.jpg" title="酒店餐饮AB43">
 
 
 - filename: "ab44"
   data:
-    category: sofa
-    title: 酒店沙发AB44
-    keywords: 酒店沙发AB44
-    description: 酒店沙发AB44
+    category: restaurant
+    title: 酒店餐饮AB44
+    keywords: 酒店餐饮AB44
+    description: 酒店餐饮AB44
     slide: true # 是否轮播
     image: /images/catalogue/ab44.jpg
     images:
@@ -782,15 +782,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB44" src="/images/catalogue/ab44-01.jpg" title="酒店沙发AB44">
+    <img alt="酒店餐饮AB44" src="/images/catalogue/ab44-01.jpg" title="酒店餐饮AB44">
 
 
 - filename: "ab45"
   data:
-    category: sofa
-    title: 酒店沙发AB45
-    keywords: 酒店沙发AB45
-    description: 酒店沙发AB45
+    category: restaurant
+    title: 酒店餐饮AB45
+    keywords: 酒店餐饮AB45
+    description: 酒店餐饮AB45
     slide: true # 是否轮播
     image: /images/catalogue/ab45.jpg
     images:
@@ -798,15 +798,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB45" src="/images/catalogue/ab45-01.jpg" title="酒店沙发AB45">
+    <img alt="酒店餐饮AB45" src="/images/catalogue/ab45-01.jpg" title="酒店餐饮AB45">
 
 
 - filename: "ab46"
   data:
-    category: sofa
-    title: 酒店沙发AB46
-    keywords: 酒店沙发AB46
-    description: 酒店沙发AB46
+    category: restaurant
+    title: 酒店餐饮AB46
+    keywords: 酒店餐饮AB46
+    description: 酒店餐饮AB46
     slide: true # 是否轮播
     image: /images/catalogue/ab46.jpg
     images:
@@ -814,15 +814,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB46" src="/images/catalogue/ab46-01.jpg" title="酒店沙发AB46">
+    <img alt="酒店餐饮AB46" src="/images/catalogue/ab46-01.jpg" title="酒店餐饮AB46">
 
 
 - filename: "ab47"
   data:
-    category: sofa
-    title: 酒店沙发AB47
-    keywords: 酒店沙发AB47
-    description: 酒店沙发AB47
+    category: restaurant
+    title: 酒店餐饮AB47
+    keywords: 酒店餐饮AB47
+    description: 酒店餐饮AB47
     slide: true # 是否轮播
     image: /images/catalogue/ab47.jpg
     images:
@@ -830,15 +830,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB47" src="/images/catalogue/ab47-01.jpg" title="酒店沙发AB47">
+    <img alt="酒店餐饮AB47" src="/images/catalogue/ab47-01.jpg" title="酒店餐饮AB47">
 
 
 - filename: "ab48"
   data:
-    category: sofa
-    title: 酒店沙发AB48
-    keywords: 酒店沙发AB48
-    description: 酒店沙发AB48
+    category: restaurant
+    title: 酒店餐饮AB48
+    keywords: 酒店餐饮AB48
+    description: 酒店餐饮AB48
     slide: true # 是否轮播
     image: /images/catalogue/ab48.jpg
     images:
@@ -846,15 +846,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB48" src="/images/catalogue/ab48-01.jpg" title="酒店沙发AB48">
+    <img alt="酒店餐饮AB48" src="/images/catalogue/ab48-01.jpg" title="酒店餐饮AB48">
 
 
 - filename: "ab49"
   data:
-    category: sofa
-    title: 酒店沙发AB49
-    keywords: 酒店沙发AB49
-    description: 酒店沙发AB49
+    category: restaurant
+    title: 酒店餐饮AB49
+    keywords: 酒店餐饮AB49
+    description: 酒店餐饮AB49
     slide: true # 是否轮播
     image: /images/catalogue/ab49.jpg
     images:
@@ -862,15 +862,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB49" src="/images/catalogue/ab49-01.jpg" title="酒店沙发AB49">
+    <img alt="酒店餐饮AB49" src="/images/catalogue/ab49-01.jpg" title="酒店餐饮AB49">
 
 
 - filename: "ab50"
   data:
-    category: sofa
-    title: 酒店沙发AB50
-    keywords: 酒店沙发AB50
-    description: 酒店沙发AB50
+    category: restaurant
+    title: 酒店餐饮AB50
+    keywords: 酒店餐饮AB50
+    description: 酒店餐饮AB50
     slide: true # 是否轮播
     image: /images/catalogue/ab50.jpg
     images:
@@ -878,15 +878,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB50" src="/images/catalogue/ab50-01.jpg" title="酒店沙发AB50">
+    <img alt="酒店餐饮AB50" src="/images/catalogue/ab50-01.jpg" title="酒店餐饮AB50">
 
 
 - filename: "ab51"
   data:
-    category: sofa
-    title: 酒店沙发AB51
-    keywords: 酒店沙发AB51
-    description: 酒店沙发AB51
+    category: restaurant
+    title: 酒店餐饮AB51
+    keywords: 酒店餐饮AB51
+    description: 酒店餐饮AB51
     slide: true # 是否轮播
     image: /images/catalogue/ab51.jpg
     images:
@@ -894,15 +894,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB51" src="/images/catalogue/ab51-01.jpg" title="酒店沙发AB51">
+    <img alt="酒店餐饮AB51" src="/images/catalogue/ab51-01.jpg" title="酒店餐饮AB51">
 
 
 - filename: "ab136"
   data:
-    category: sofa
-    title: 酒店沙发AB136
-    keywords: 酒店沙发AB136
-    description: 酒店沙发AB136
+    category: restaurant
+    title: 酒店餐饮AB136
+    keywords: 酒店餐饮AB136
+    description: 酒店餐饮AB136
     slide: true # 是否轮播
     image: /images/catalogue/ab136.jpg
     images:
@@ -910,15 +910,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB136" src="/images/catalogue/ab136-01.jpg" title="酒店沙发AB136">
+    <img alt="酒店餐饮AB136" src="/images/catalogue/ab136-01.jpg" title="酒店餐饮AB136">
 
 
 - filename: "ab137"
   data:
-    category: sofa
-    title: 酒店沙发AB137
-    keywords: 酒店沙发AB137
-    description: 酒店沙发AB137
+    category: restaurant
+    title: 酒店餐饮AB137
+    keywords: 酒店餐饮AB137
+    description: 酒店餐饮AB137
     slide: true # 是否轮播
     image: /images/catalogue/ab137.jpg
     images:
@@ -926,15 +926,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB137" src="/images/catalogue/ab137-01.jpg" title="酒店沙发AB137">
+    <img alt="酒店餐饮AB137" src="/images/catalogue/ab137-01.jpg" title="酒店餐饮AB137">
 
 
 - filename: "ab138"
   data:
-    category: sofa
-    title: 酒店沙发AB138
-    keywords: 酒店沙发AB138
-    description: 酒店沙发AB138
+    category: restaurant
+    title: 酒店餐饮AB138
+    keywords: 酒店餐饮AB138
+    description: 酒店餐饮AB138
     slide: true # 是否轮播
     image: /images/catalogue/ab138.jpg
     images:
@@ -942,15 +942,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB138" src="/images/catalogue/ab138-01.jpg" title="酒店沙发AB138">
+    <img alt="酒店餐饮AB138" src="/images/catalogue/ab138-01.jpg" title="酒店餐饮AB138">
 
 
 - filename: "ab139"
   data:
-    category: sofa
-    title: 酒店沙发AB139
-    keywords: 酒店沙发AB139
-    description: 酒店沙发AB139
+    category: restaurant
+    title: 酒店餐饮AB139
+    keywords: 酒店餐饮AB139
+    description: 酒店餐饮AB139
     slide: true # 是否轮播
     image: /images/catalogue/ab139.jpg
     images:
@@ -958,15 +958,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB139" src="/images/catalogue/ab139-01.jpg" title="酒店沙发AB139">
+    <img alt="酒店餐饮AB139" src="/images/catalogue/ab139-01.jpg" title="酒店餐饮AB139">
 
 
 - filename: "ab142"
   data:
-    category: sofa
-    title: 酒店沙发AB142
-    keywords: 酒店沙发AB142
-    description: 酒店沙发AB142
+    category: restaurant
+    title: 酒店餐饮AB142
+    keywords: 酒店餐饮AB142
+    description: 酒店餐饮AB142
     slide: true # 是否轮播
     image: /images/catalogue/ab142.jpg
     images:
@@ -974,15 +974,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB142" src="/images/catalogue/ab142-01.jpg" title="酒店沙发AB142">
+    <img alt="酒店餐饮AB142" src="/images/catalogue/ab142-01.jpg" title="酒店餐饮AB142">
 
 
 - filename: "ab143"
   data:
-    category: sofa
-    title: 酒店沙发AB143
-    keywords: 酒店沙发AB143
-    description: 酒店沙发AB143
+    category: restaurant
+    title: 酒店餐饮AB143
+    keywords: 酒店餐饮AB143
+    description: 酒店餐饮AB143
     slide: true # 是否轮播
     image: /images/catalogue/ab143.jpg
     images:
@@ -990,15 +990,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB143" src="/images/catalogue/ab143-01.jpg" title="酒店沙发AB143">
+    <img alt="酒店餐饮AB143" src="/images/catalogue/ab143-01.jpg" title="酒店餐饮AB143">
 
 
 - filename: "ab145"
   data:
-    category: sofa
-    title: 酒店沙发AB145
-    keywords: 酒店沙发AB145
-    description: 酒店沙发AB145
+    category: restaurant
+    title: 酒店餐饮AB145
+    keywords: 酒店餐饮AB145
+    description: 酒店餐饮AB145
     slide: true # 是否轮播
     image: /images/catalogue/ab145.jpg
     images:
@@ -1006,15 +1006,15 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB145" src="/images/catalogue/ab145-01.jpg" title="酒店沙发AB145">
+    <img alt="酒店餐饮AB145" src="/images/catalogue/ab145-01.jpg" title="酒店餐饮AB145">
 
 
 - filename: "ab170"
   data:
-    category: sofa
-    title: 酒店沙发AB170
-    keywords: 酒店沙发AB170
-    description: 酒店沙发AB170
+    category: restaurant
+    title: 酒店餐饮AB170
+    keywords: 酒店餐饮AB170
+    description: 酒店餐饮AB170
     slide: true # 是否轮播
     image: /images/catalogue/ab170.jpg
     images:
@@ -1022,7 +1022,7 @@
       - /images/pages/hotel-02.jpg
       - /images/pages/hotel-03.jpg
   content: |
-    <img alt="酒店沙发AB170" src="/images/catalogue/ab170-01.jpg" title="酒店沙发AB170">
+    <img alt="酒店餐饮AB170" src="/images/catalogue/ab170-01.jpg" title="酒店餐饮AB170">
 
 
 - filename: "mentao-a"
@@ -1061,16 +1061,122 @@
   content: |
     <b>酒店办公</b>
 
-- filename: "fixed"
+- filename: "mentao-a"
   data:
     category: fixed
-    title: 专业固装
-    keywords: 专业固装
-    description: 专业固装
+    title: 门套01
+    keywords: 门套01
+    description: 门套01
     slide: true # 是否轮播
-    image: /images/ipslide_4.jpg
+    image: /images/catalogue/mentao-a.jpg
     images:
-      - /images/ipslide_4.jpg
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
   content: |
-    <b>专业固装</b>
+    <img alt="门套01" src="/images/catalogue/mentao-a-01.jpg" title="门套01">
+
+
+- filename: "mentao-b"
+  data:
+    category: fixed
+    title: 门套02
+    keywords: 门套02
+    description: 门套02
+    slide: true # 是否轮播
+    image: /images/catalogue/mentao-b.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="门套02" src="/images/catalogue/mentao-b-01.jpg" title="门套02">
+
+
+- filename: "mentao-c"
+  data:
+    category: fixed
+    title: 门套03
+    keywords: 门套03
+    description: 门套03
+    slide: true # 是否轮播
+    image: /images/catalogue/mentao-c.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="门套03" src="/images/catalogue/mentao-c-01.jpg" title="门套03">
+
+
+- filename: "mentao-d"
+  data:
+    category: fixed
+    title: 门套04
+    keywords: 门套04
+    description: 门套04
+    slide: true # 是否轮播
+    image: /images/catalogue/mentao-d.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="门套04" src="/images/catalogue/mentao-d-01.jpg" title="门套04">
+
+
+- filename: "mentao-e"
+  data:
+    category: fixed
+    title: 门套05
+    keywords: 门套05
+    description: 门套05
+    slide: true # 是否轮播
+    image: /images/catalogue/mentao-e.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="门套05" src="/images/catalogue/mentao-e-01.jpg" title="门套05">
+
+
+- filename: "mentao-f"
+  data:
+    category: fixed
+    title: 门套06
+    keywords: 门套06
+    description: 门套06
+    slide: true # 是否轮播
+    image: /images/catalogue/mentao-f.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="门套06" src="/images/catalogue/mentao-f-01.jpg" title="门套06">
+
+
+- filename: "mentao-g"
+  data:
+    category: fixed
+    title: 门套07
+    keywords: 门套07
+    description: 门套07
+    slide: true # 是否轮播
+    image: /images/catalogue/mentao-g.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="门套07" src="/images/catalogue/mentao-g-01.jpg" title="门套07">
+
+
+- filename: "mentao-h"
+  data:
+    category: fixed
+    title: 门套08
+    keywords: 门套08
+    description: 门套08
+    slide: true # 是否轮播
+    image: /images/catalogue/mentao-h.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="门套08" src="/images/catalogue/mentao-h-01.jpg" title="门套08">
 
