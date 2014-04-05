@@ -1025,27 +1025,12 @@
     <img alt="酒店餐饮AB170" src="/images/catalogue/ab170-01.jpg" title="酒店餐饮AB170">
 
 
-- filename: "mentao-a"
-  data:
-    category: public
-    title: 门套
-    keywords: 门套
-    description: 门套
-    slide: true # 是否轮播
-    image: /images/catalogue/mentao-a.jpg
-    images:
-      - /images/pages/public-01.jpg
-      - /images/pages/public-02.jpg
-  content: |
-    <img alt="门套" src="/images/catalogue/mentao-a-01.jpg" title="门套">
-
-
 - filename: "office"
   data:
     category: office
-    title: 酒店办公
-    keywords: 酒店办公
-    description: 酒店办公
+    title: 暂无图片资料
+    keywords: 暂无图片资料
+    description: 暂无图片资料
     slide: true # 是否轮播
     image: /images/ipslide_4.jpg
     images:
@@ -1059,7 +1044,7 @@
       - /images/pages/office-08.jpg
       - /images/pages/office-09.jpg
   content: |
-    <b>酒店办公</b>
+    <b>暂无图片资料</b>
 
 - filename: "mentao-a"
   data:
@@ -1180,3 +1165,178 @@
   content: |
     <img alt="门套08" src="/images/catalogue/mentao-h-01.jpg" title="门套08">
 
+
+- filename: "ea01"
+  data:
+    category: sofa
+    title: 酒店沙发EA01
+    keywords: 酒店沙发EA01
+    description: 酒店沙发EA01
+    slide: true # 是否轮播
+    image: /images/catalogue/ea01.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发EA01" src="/images/catalogue/ea01-01.jpg" title="酒店沙发EA01">
+
+
+- filename: "ea02"
+  data:
+    category: sofa
+    title: 酒店沙发EA02
+    keywords: 酒店沙发EA02
+    description: 酒店沙发EA02
+    slide: true # 是否轮播
+    image: /images/catalogue/ea02.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发EA02" src="/images/catalogue/ea02-01.jpg" title="酒店沙发EA02">
+
+
+- filename: "ea03"
+  data:
+    category: sofa
+    title: 酒店沙发EA03
+    keywords: 酒店沙发EA03
+    description: 酒店沙发EA03
+    slide: true # 是否轮播
+    image: /images/catalogue/ea03.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发EA03" src="/images/catalogue/ea03-01.jpg" title="酒店沙发EA03">
+
+
+- filename: "f102"
+  data:
+    category: sofa
+    title: 酒店沙发F102
+    keywords: 酒店沙发F102
+    description: 酒店沙发F102
+    slide: true # 是否轮播
+    image: /images/catalogue/f102.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发F102" src="/images/catalogue/f102-01.jpg" title="酒店沙发F102">
+
+
+- filename: "f103"
+  data:
+    category: sofa
+    title: 酒店沙发F103
+    keywords: 酒店沙发F103
+    description: 酒店沙发F103
+    slide: true # 是否轮播
+    image: /images/catalogue/f103.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发F103" src="/images/catalogue/f103-01.jpg" title="酒店沙发F103">
+
+
+- filename: "f104"
+  data:
+    category: sofa
+    title: 酒店沙发F104
+    keywords: 酒店沙发F104
+    description: 酒店沙发F104
+    slide: true # 是否轮播
+    image: /images/catalogue/f104.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发F104" src="/images/catalogue/f104-01.jpg" title="酒店沙发F104">
+
+
+- filename: "f105"
+  data:
+    category: sofa
+    title: 酒店沙发F105
+    keywords: 酒店沙发F105
+    description: 酒店沙发F105
+    slide: true # 是否轮播
+    image: /images/catalogue/f105.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发F105" src="/images/catalogue/f105-01.jpg" title="酒店沙发F105">
+
+
+- filename: "f106"
+  data:
+    category: sofa
+    title: 酒店沙发F106
+    keywords: 酒店沙发F106
+    description: 酒店沙发F106
+    slide: true # 是否轮播
+    image: /images/catalogue/f106.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发F106" src="/images/catalogue/f106-01.jpg" title="酒店沙发F106">
+
+
+- filename: "f107"
+  data:
+    category: sofa
+    title: 酒店沙发F107
+    keywords: 酒店沙发F107
+    description: 酒店沙发F107
+    slide: true # 是否轮播
+    image: /images/catalogue/f107.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发F107" src="/images/catalogue/f107-01.jpg" title="酒店沙发F107">
+
+
+- filename: "fa108"
+  data:
+    category: sofa
+    title: 酒店沙发FA108
+    keywords: 酒店沙发F108
+    description: 酒店沙发FA108
+    slide: true # 是否轮播
+    image: /images/catalogue/fa108.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发FA108" src="/images/catalogue/fa108-01.jpg" title="酒店沙发FA108">
+
+
+- filename: "fa113"
+  data:
+    category: sofa
+    title: 酒店沙发FA113
+    keywords: 酒店沙发F113
+    description: 酒店沙发FA113
+    slide: true # 是否轮播
+    image: /images/catalogue/fa113.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店沙发FA113" src="/images/catalogue/fa113-01.jpg" title="酒店沙发FA113">
