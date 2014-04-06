@@ -424,7 +424,7 @@
     keywords: 公共区域BH03-AB03
     description: 公共区域BH03-AB03
     slide: true # 是否轮播
-    image: /images/catalogue/bh0-ab03.jpg
+    image: /images/catalogue/bh03-ab03.jpg
     images:
       - /images/pages/public-01.jpg
       - /images/pages/public-02.jpg
@@ -439,7 +439,7 @@
     keywords: 公共区域BH04-AB04
     description: 公共区域BH04-AB04
     slide: true # 是否轮播
-    image: /images/catalogue/bh0-ab04.jpg
+    image: /images/catalogue/bh04-ab04.jpg
     images:
       - /images/pages/public-01.jpg
       - /images/pages/public-02.jpg
@@ -454,7 +454,7 @@
     keywords: 公共区域BH05-AB05
     description: 公共区域BH05-AB05
     slide: true # 是否轮播
-    image: /images/catalogue/bh0-ab0.jpg
+    image: /images/catalogue/bh05-ab05.jpg
     images:
       - /images/pages/public-01.jpg
       - /images/pages/public-02.jpg
@@ -514,7 +514,7 @@
     keywords: 公共区域BH09-AB09
     description: 公共区域BH09-AB09
     slide: true # 是否轮播
-    image: /images/catalogue/bh0-ab0.jpg
+    image: /images/catalogue/bh09-ab09.jpg
     images:
       - /images/pages/public-01.jpg
       - /images/pages/public-02.jpg
