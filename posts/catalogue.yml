@@ -241,6 +241,152 @@
     <img alt="酒店客房2098" src="/images/catalogue/2098-04.jpg" title="酒店客房2098">
 
 
+- filename: "2099"
+  data:
+    category: hotel
+    title: 酒店客房2099
+    keywords: 酒店客房2099
+    description: 酒店客房2099
+    slide: true # 是否轮播
+    image: /images/catalogue/2099.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2099" src="/images/catalogue/2099-01.jpg" title="酒店客房2099">
+    <img alt="酒店客房2099" src="/images/catalogue/2099-02.jpg" title="酒店客房2099">
+    <img alt="酒店客房2099" src="/images/catalogue/2099-03.jpg" title="酒店客房2099">
+
+
+- filename: "2101"
+  data:
+    category: hotel
+    title: 酒店客房2101
+    keywords: 酒店客房2101
+    description: 酒店客房2101
+    slide: true # 是否轮播
+    image: /images/catalogue/2101.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2101" src="/images/catalogue/2101-01.jpg" title="酒店客房2101">
+
+
+- filename: "2102"
+  data:
+    category: hotel
+    title: 酒店客房2102
+    keywords: 酒店客房2102
+    description: 酒店客房2102
+    slide: true # 是否轮播
+    image: /images/catalogue/2102.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2102" src="/images/catalogue/2102-01.jpg" title="酒店客房2102">
+
+
+- filename: "2103"
+  data:
+    category: hotel
+    title: 酒店客房2103
+    keywords: 酒店客房2103
+    description: 酒店客房2103
+    slide: true # 是否轮播
+    image: /images/catalogue/2103.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2103" src="/images/catalogue/2103-01.jpg" title="酒店客房2103">
+
+
+- filename: "2104"
+  data:
+    category: hotel
+    title: 酒店客房2104
+    keywords: 酒店客房2104
+    description: 酒店客房2104
+    slide: true # 是否轮播
+    image: /images/catalogue/2104.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2104" src="/images/catalogue/2104-01.jpg" title="酒店客房2104">
+
+
+- filename: "2105"
+  data:
+    category: hotel
+    title: 酒店客房2105
+    keywords: 酒店客房2105
+    description: 酒店客房2105
+    slide: true # 是否轮播
+    image: /images/catalogue/2105.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2105" src="/images/catalogue/2105-01.jpg" title="酒店客房2105">
+
+
+- filename: "2106"
+  data:
+    category: hotel
+    title: 酒店客房2106
+    keywords: 酒店客房2106
+    description: 酒店客房2106
+    slide: true # 是否轮播
+    image: /images/catalogue/2106.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2106" src="/images/catalogue/2106-01.jpg" title="酒店客房2106">
+
+
+- filename: "2107"
+  data:
+    category: hotel
+    title: 酒店客房2107
+    keywords: 酒店客房2107
+    description: 酒店客房2107
+    slide: true # 是否轮播
+    image: /images/catalogue/2107.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房2107" src="/images/catalogue/2107-01.jpg" title="酒店客房2107">
+
+
+- filename: "3010"
+  data:
+    category: hotel
+    title: 酒店客房3010
+    keywords: 酒店客房3010
+    description: 酒店客房3010
+    slide: true # 是否轮播
+    image: /images/catalogue/3010.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+  content: |
+    <img alt="酒店客房3010" src="/images/catalogue/3010-01.jpg" title="酒店客房3010">
+
+
 - filename: "ab11"
   data:
     category: restaurant
