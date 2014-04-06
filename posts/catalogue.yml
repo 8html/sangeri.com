@@ -387,6 +387,429 @@
     <img alt="酒店客房3010" src="/images/catalogue/3010-01.jpg" title="酒店客房3010">
 
 
+- filename: "bh01-ab01"
+  data:
+    category: public
+    title: 公共区域BH01-AB01
+    keywords: 公共区域BH01-AB01
+    description: 公共区域BH01-AB01
+    slide: true # 是否轮播
+    image: /images/catalogue/bh01-ab01.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域BH01-AB01" src="/images/catalogue/bh01-ab01-01.jpg" title="公共区域BH01-AB01">
+
+
+- filename: "bh02-ab02"
+  data:
+    category: public
+    title: 公共区域BH02-AB02
+    keywords: 公共区域BH02-AB02
+    description: 公共区域BH02-AB02
+    slide: true # 是否轮播
+    image: /images/catalogue/bh02-ab02.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域BH02-AB02" src="/images/catalogue/bh02-ab02-01.jpg" title="公共区域BH02-AB02">
+
+
+- filename: "bh03-ab03"
+  data:
+    category: public
+    title: 公共区域BH03-AB03
+    keywords: 公共区域BH03-AB03
+    description: 公共区域BH03-AB03
+    slide: true # 是否轮播
+    image: /images/catalogue/bh0-ab03.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域BH03-AB03" src="/images/catalogue/bh03-ab03-01.jpg" title="公共区域BH03-AB03">
+
+
+- filename: "bh04-ab04"
+  data:
+    category: public
+    title: 公共区域BH04-AB04
+    keywords: 公共区域BH04-AB04
+    description: 公共区域BH04-AB04
+    slide: true # 是否轮播
+    image: /images/catalogue/bh0-ab04.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域BH04-AB04" src="/images/catalogue/bh04-ab04-01.jpg" title="公共区域BH04-AB04">
+
+
+- filename: "bh05-ab05"
+  data:
+    category: public
+    title: 公共区域BH05-AB05
+    keywords: 公共区域BH05-AB05
+    description: 公共区域BH05-AB05
+    slide: true # 是否轮播
+    image: /images/catalogue/bh0-ab0.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域BH05-AB05" src="/images/catalogue/bh05-ab05-01.jpg" title="公共区域BH0-AB05">
+
+
+- filename: "bh06-ab06"
+  data:
+    category: public
+    title: 公共区域BH06-AB06
+    keywords: 公共区域BH06-AB06
+    description: 公共区域BH06-AB06
+    slide: true # 是否轮播
+    image: /images/catalogue/bh06-ab06.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域BH06-AB06" src="/images/catalogue/bh06-ab06-01.jpg" title="公共区域BH06-AB06">
+
+
+- filename: "bh07-ab07"
+  data:
+    category: public
+    title: 公共区域BH07-AB07
+    keywords: 公共区域BH07-AB07
+    description: 公共区域BH07-AB07
+    slide: true # 是否轮播
+    image: /images/catalogue/bh07-ab07.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域BH07-AB07" src="/images/catalogue/bh07-ab07-01.jpg" title="公共区域BH07-AB07">
+
+
+- filename: "bh08-ab08"
+  data:
+    category: public
+    title: 公共区域BH08-AB08
+    keywords: 公共区域BH08-AB08
+    description: 公共区域BH08-AB08
+    slide: true # 是否轮播
+    image: /images/catalogue/bh08-ab08.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域BH08-AB08" src="/images/catalogue/bh08-ab08-01.jpg" title="公共区域BH08-AB08">
+
+
+- filename: "bh09-ab09"
+  data:
+    category: public
+    title: 公共区域BH09-AB09
+    keywords: 公共区域BH09-AB09
+    description: 公共区域BH09-AB09
+    slide: true # 是否轮播
+    image: /images/catalogue/bh0-ab0.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域BH09-AB09" src="/images/catalogue/bh09-ab09-01.jpg" title="公共区域BH09-AB09">
+
+
+- filename: "bh10-ab10"
+  data:
+    category: public
+    title: 公共区域BH10-AB10
+    keywords: 公共区域BH10-AB0
+    description: 公共区域BH10-AB10
+    slide: true # 是否轮播
+    image: /images/catalogue/bh10-ab10.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域BH10-AB10" src="/images/catalogue/bh10-ab10-01.jpg" title="公共区域BH10-AB10">
+
+
+- filename: "bh11"
+  data:
+    category: public
+    title: 公共区域BH11
+    keywords: 公共区域BH11
+    description: 公共区域BH11
+    slide: true # 是否轮播
+    image: /images/catalogue/bh11.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域BH11" src="/images/catalogue/bh11-01.jpg" title="公共区域BH11">
+
+
+- filename: "fa109"
+  data:
+    category: public
+    title: 公共区域FA109
+    keywords: 公共区域FA109
+    description: 公共区域FA109
+    slide: true # 是否轮播
+    image: /images/catalogue/fa109.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域FA109" src="/images/catalogue/fa109-01.jpg" title="公共区域FA109">
+
+
+- filename: "fa112"
+  data:
+    category: public
+    title: 公共区域FA112
+    keywords: 公共区域FA112
+    description: 公共区域FA112
+    slide: true # 是否轮播
+    image: /images/catalogue/fa112.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域FA112" src="/images/catalogue/fa112-01.jpg" title="公共区域FA112">
+
+
+- filename: "fa114"
+  data:
+    category: public
+    title: 公共区域FA114
+    keywords: 公共区域FA114
+    description: 公共区域FA114
+    slide: true # 是否轮播
+    image: /images/catalogue/fa114.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域FA114" src="/images/catalogue/fa114-01.jpg" title="公共区域FA114">
+
+
+- filename: "fa115"
+  data:
+    category: public
+    title: 公共区域FA115
+    keywords: 公共区域FA115
+    description: 公共区域FA115
+    slide: true # 是否轮播
+    image: /images/catalogue/fa115.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域FA115" src="/images/catalogue/fa115-01.jpg" title="公共区域FA115">
+
+
+- filename: "fa116"
+  data:
+    category: public
+    title: 公共区域FA116
+    keywords: 公共区域FA116
+    description: 公共区域FA116
+    slide: true # 是否轮播
+    image: /images/catalogue/fa116.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域FA116" src="/images/catalogue/fa116-01.jpg" title="公共区域FA116">
+
+
+- filename: "fa117"
+  data:
+    category: public
+    title: 公共区域FA117
+    keywords: 公共区域FA117
+    description: 公共区域FA117
+    slide: true # 是否轮播
+    image: /images/catalogue/fa117.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域FA117" src="/images/catalogue/fa117-01.jpg" title="公共区域FA117">
+
+
+- filename: "fa183"
+  data:
+    category: public
+    title: 公共区域FA183
+    keywords: 公共区域FA183
+    description: 公共区域FA183
+    slide: true # 是否轮播
+    image: /images/catalogue/fa183.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域FA183" src="/images/catalogue/fa183-01.jpg" title="公共区域FA183">
+
+
+- filename: "n202"
+  data:
+    category: public
+    title: 公共区域N202
+    keywords: 公共区域N202
+    description: 公共区域N202
+    slide: true # 是否轮播
+    image: /images/catalogue/n202.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域N202" src="/images/catalogue/n202-01.jpg" title="公共区域N202">
+
+
+- filename: "n203"
+  data:
+    category: public
+    title: 公共区域N203
+    keywords: 公共区域N203
+    description: 公共区域N203
+    slide: true # 是否轮播
+    image: /images/catalogue/n203.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域N203" src="/images/catalogue/n203-01.jpg" title="公共区域N203">
+
+
+- filename: "n204"
+  data:
+    category: public
+    title: 公共区域N204
+    keywords: 公共区域N204
+    description: 公共区域N204
+    slide: true # 是否轮播
+    image: /images/catalogue/n204.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+
+  content: |
+    <img alt="公共区域N204" src="/images/catalogue/n204-01.jpg" title="公共区域N204">
+
+
+- filename: "n205"
+  data:
+    category: public
+    title: 公共区域N205
+    keywords: 公共区域N205
+    description: 公共区域N205
+    slide: true # 是否轮播
+    image: /images/catalogue/n205.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域N205" src="/images/catalogue/n205-01.jpg" title="公共区域N205">
+
+
+- filename: "n208"
+  data:
+    category: public
+    title: 公共区域N208
+    keywords: 公共区域N208
+    description: 公共区域N208
+    slide: true # 是否轮播
+    image: /images/catalogue/n208.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域N208" src="/images/catalogue/n208-01.jpg" title="公共区域N208">
+
+
+- filename: "n209"
+  data:
+    category: public
+    title: 公共区域N209
+    keywords: 公共区域N209
+    description: 公共区域N209
+    slide: true # 是否轮播
+    image: /images/catalogue/n209.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域N209" src="/images/catalogue/n209-01.jpg" title="公共区域N209">
+
+
+- filename: "cimg7714"
+  data:
+    category: public
+    title: 公共区域CIMG7714
+    keywords: 公共区域CIMG7714
+    description: 公共区域CIMG7714
+    slide: true # 是否轮播
+    image: /images/catalogue/cimg7714.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域CIMG7714" src="/images/catalogue/cimg7714-01.jpg" title="公共区域CIMG7714">
+
+
+- filename: "cimg7715"
+  data:
+    category: public
+    title: 公共区域CIMG7715
+    keywords: 公共区域CIMG7715
+    description: 公共区域CIMG7715
+    slide: true # 是否轮播
+    image: /images/catalogue/cimg7715.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域CIMG7715" src="/images/catalogue/cimg7715-01.jpg" title="公共区域CIMG7715">
+
+
+- filename: "hd-s122"
+  data:
+    category: public
+    title: 公共区域HD-S122
+    keywords: 公共区域HD-S122
+    description: 公共区域HD-S122
+    slide: true # 是否轮播
+    image: /images/catalogue/hd-s122.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域HD-S122" src="/images/catalogue/hd-s122-01.jpg" title="公共区域HD-S122">
+
+
+- filename: "fa183"
+  data:
+    category: public
+    title: 公共区域FA183
+    keywords: 公共区域FA183
+    description: 公共区域FA183
+    slide: true # 是否轮播
+    image: /images/catalogue/fa183.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="公共区域FA183" src="/images/catalogue/fa183-01.jpg" title="公共区域FA183">
+    <img alt="公共区域FA183" src="/images/catalogue/fa183-02.jpg" title="公共区域FA183">
+    <img alt="公共区域FA183" src="/images/catalogue/fa183-03.jpg" title="公共区域FA183">
+
+
 - filename: "ab11"
   data:
     category: restaurant
