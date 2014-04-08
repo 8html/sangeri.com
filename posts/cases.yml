@@ -218,3 +218,42 @@
     <img alt="浙江宁波银苑大酒店" src="/images/cases/silver-court-hotel-04.jpg" title="浙江宁波银苑大酒店">
     <img alt="浙江宁波银苑大酒店" src="/images/cases/silver-court-hotel-05.jpg" title="浙江宁波银苑大酒店">
     <img alt="浙江宁波银苑大酒店" src="/images/cases/silver-court-hotel-06.jpg" title="浙江宁波银苑大酒店">
+
+
+- filename: "tao-yuan-hotel"
+  data:
+    category: four-star-hotel
+    title: 深圳新桃园酒店
+    keywords: 深圳新桃园酒店
+    description: 深圳新桃园酒店
+    slide: true # 是否轮播
+    image: /images/cases/tao-yuan-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+  content: |
+    <img alt="深圳新桃园酒店" src="/images/cases/tao-yuan-hotel-01.jpg" title="深圳新桃园酒店">
+    <img alt="深圳新桃园酒店" src="/images/cases/tao-yuan-hotel-02.jpg" title="深圳新桃园酒店">
+    <img alt="深圳新桃园酒店" src="/images/cases/tao-yuan-hotel-03.jpg" title="深圳新桃园酒店">
+    <img alt="深圳新桃园酒店" src="/images/cases/tao-yuan-hotel-04.jpg" title="深圳新桃园酒店">
+    <img alt="深圳新桃园酒店" src="/images/cases/tao-yuan-hotel-05.jpg" title="深圳新桃园酒店">
+
+
+- filename: "yangling-exhibition-hotel"
+  data:
+    category: four-star-hotel
+    title: 西安杨凌会展酒店
+    keywords: 西安杨凌会展酒店
+    description: 西安杨凌会展酒店
+    slide: true # 是否轮播
+    image: /images/cases/yangling-exhibition-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+  content: |
+    <img alt="西安杨凌会展酒店" src="/images/cases/yangling-exhibition-hotel-01.jpg" title="西安杨凌会展酒店">
+    <img alt="西安杨凌会展酒店" src="/images/cases/yangling-exhibition-hotel-02.jpg" title="西安杨凌会展酒店">
+    <img alt="西安杨凌会展酒店" src="/images/cases/yangling-exhibition-hotel-03.jpg" title="西安杨凌会展酒店">
+
