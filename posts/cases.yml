@@ -157,4 +157,64 @@
     <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-03.jpg" title="广州礼顿酒店">
     <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-04.jpg" title="广州礼顿酒店">
     <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-05.jpg" title="广州礼顿酒店">
-    <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-05.jpg" title="广州礼顿酒店">
+    <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-06.jpg" title="广州礼顿酒店">
+
+
+- filename: "sakura-villas-hotel"
+  data:
+    category: four-star-hotel
+    title: 广州樱花小筑酒店
+    keywords: 广州樱花小筑酒店
+    description: 广州樱花小筑酒店
+    slide: true # 是否轮播
+    image: /images/cases/sakura-villas-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+  content: |
+    <img alt="广州樱花小筑酒店" src="/images/cases/sakura-villas-hotel-01.jpg" title="广州樱花小筑酒店">
+    <img alt="广州樱花小筑酒店" src="/images/cases/sakura-villas-hotel-02.jpg" title="广州樱花小筑酒店">
+    <img alt="广州樱花小筑酒店" src="/images/cases/sakura-villas-hotel-03.jpg" title="广州樱花小筑酒店">
+    <img alt="广州樱花小筑酒店" src="/images/cases/sakura-villas-hotel-04.jpg" title="广州樱花小筑酒店">
+    <img alt="广州樱花小筑酒店" src="/images/cases/sakura-villas-hotel-05.jpg" title="广州樱花小筑酒店">
+    <img alt="广州樱花小筑酒店" src="/images/cases/sakura-villas-hotel-06.jpg" title="广州樱花小筑酒店">
+
+
+- filename: "kyoto-international-hotel"
+  data:
+    category: four-star-hotel
+    title: 江西上饶京都国际酒店
+    keywords: 江西上饶京都国际酒店
+    description: 江西上饶京都国际酒店
+    slide: true # 是否轮播
+    image: /images/cases/kyoto-international-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+  content: |
+    <img alt="江西上饶京都国际酒店" src="/images/cases/kyoto-international-hotel-01.jpg" title="江西上饶京都国际酒店">
+    <img alt="江西上饶京都国际酒店" src="/images/cases/kyoto-international-hotel-02.jpg" title="江西上饶京都国际酒店">
+    <img alt="江西上饶京都国际酒店" src="/images/cases/kyoto-international-hotel-03.jpg" title="江西上饶京都国际酒店">
+
+
+- filename: "silver-court-hotel"
+  data:
+    category: four-star-hotel
+    title: 浙江宁波银苑大酒店
+    keywords: 浙江宁波银苑大酒店
+    description: 浙江宁波银苑大酒店
+    slide: true # 是否轮播
+    image: /images/cases/silver-court-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+  content: |
+    <img alt="浙江宁波银苑大酒店" src="/images/cases/silver-court-hotel-01.jpg" title="浙江宁波银苑大酒店">
+    <img alt="浙江宁波银苑大酒店" src="/images/cases/silver-court-hotel-02.jpg" title="浙江宁波银苑大酒店">
+    <img alt="浙江宁波银苑大酒店" src="/images/cases/silver-court-hotel-03.jpg" title="浙江宁波银苑大酒店">
+    <img alt="浙江宁波银苑大酒店" src="/images/cases/silver-court-hotel-04.jpg" title="浙江宁波银苑大酒店">
+    <img alt="浙江宁波银苑大酒店" src="/images/cases/silver-court-hotel-05.jpg" title="浙江宁波银苑大酒店">
+    <img alt="浙江宁波银苑大酒店" src="/images/cases/silver-court-hotel-06.jpg" title="浙江宁波银苑大酒店">
