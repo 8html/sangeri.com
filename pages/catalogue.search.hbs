@@ -1,0 +1,40 @@
+---
+layout: cataloguelist.hbs
+permalink: /catalogue/search/
+images:
+  - /images/ipslide_4.jpg
+  - /images/ipslide_3.jpg
+  - /images/ipslide_2.jpg
+  - /images/ipslide_1.jpg
+---
+<div class="itemfilter">
+  {{#eachProperty posts.catalogueByCategory}}
+    <div class="itemfilter-item">
+      <div class="key">
+        <span class="item-key">{{getKeyIfValueContains ../sidelist key}}</span>
+      </div>
+      <div class="vals">
+        <a class="active item" data-filter="*" href="#">不限</a>
+        {{#eachIndex value}}
+          <a class="item" data-filter=".m{{getModelName item.data.title}}" href="#">
+            {{getModelName item.data.title}}</a>
+        {{/eachIndex}}
+      </div>
+    </div>
+  {{/eachProperty}}
+</div>
+
+<div class="list list-fixed-image-height" id="itemfilter">
+  {{#eachIndex posts.catalogue}}
+    <div class="list-item m{{getModelName item.data.title}}">
+      <a class="list-item-wrapper" href="{{item.data.permalink}}">
+        <div class="list-item-image">
+          <img alt="{{item.data.title}}" src="{{item.data.image}}">
+        </div>
+        <em class="list-item-name">{{item.data.title}}</em>
+      </a>
+    </div>
+  {{/eachIndex}}
+  <div class="clearfix"></div>
+</div>
+

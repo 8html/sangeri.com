@@ -72,5 +72,18 @@ $(function() {
         alert('请按Ctrl+D将本网站添加到你的浏览器收藏夹。');
       }
     }
-  })
+  });
+
+  $('#itemfilter').isotope({
+    itemSelector: '.list-item'
+  });
+  $('.itemfilter a').click(function(e) {
+    e.preventDefault();
+    $('.itemfilter a').removeClass('active');
+    var filter = $(this).data('filter');
+    $('.itemfilter a[data-filter="'+filter+'"]').addClass('active');
+    $('#itemfilter').isotope({
+      filter: filter
+    });
+  });
 });

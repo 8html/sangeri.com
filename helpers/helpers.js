@@ -7,6 +7,20 @@ module.exports.register = function(Handlebars, options) {
     return JSON.stringify(object);
   });
 
+  Handlebars.registerHelper('getKeyIfValueContains', function(obj, val) {
+    for (var k in obj) {
+      if (obj[k].indexOf(val) > -1) {
+        return k;
+      }
+    }
+    return null;
+  });
+
+  Handlebars.registerHelper('getModelName', function(name) {
+    var m = name.match(/[A-Za-z0-9]+/);
+    return m ? m[0] : name;
+  });
+
   Handlebars.registerHelper('navLinkTo', function(href) {
     var o = 'href="' + href + '"';
     var v = this.permalink.split('/')[1];

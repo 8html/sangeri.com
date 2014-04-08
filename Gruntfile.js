@@ -1,5 +1,7 @@
 module.exports = function(grunt) {
 
+  var catalogue = grunt.file.readYAML('posts/catalogue.yml');
+
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     connect: {
@@ -81,7 +83,8 @@ module.exports = function(grunt) {
         production: false,
         posts: {
           cases: grunt.file.readYAML('posts/cases.yml'),
-          catalogue: grunt.file.readYAML('posts/catalogue.yml')
+          catalogue: catalogue,
+          catalogueByCategory: catalogueByCategory()
         },
         // registerPartial: function(engine, filename, content) {
         //   engine.registerPartial(filename, content);
@@ -161,7 +164,7 @@ module.exports = function(grunt) {
       },
       hbs: {
         files: [ 'layouts/*.hbs', 'pages/*.hbs', 'helpers/*' ],
-        tasks: [ 'assemble' ]
+        tasks: [ 'assemble:site' ]
       },
       news: {
         files: [ 'posts/news/**' ],
@@ -209,6 +212,17 @@ module.exports = function(grunt) {
     'assemble_in_production',
     'assemble'
   ]);
+
+  function catalogueByCategory() {
+    var cbc = {};
+    for (var i = 0; i < catalogue.length; i++) {
+      var category = catalogue[i].data.category;
+      if (!category) continue;
+      cbc[category] = cbc[category] || [];
+      cbc[category].push(catalogue[i]);
+    }
+    return cbc;;
+  }
 
   grunt.registerTask('assemble_in_production', 'Enter production mode.',
     function() {

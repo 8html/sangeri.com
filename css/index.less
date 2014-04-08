@@ -899,6 +899,51 @@ a {
   }
 }
 
+.itemfilter {
+  font-size: 14px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 0 0 10px;
+  .itemfilter-item {
+    padding: 0 0 2px 0;
+  }
+  .itemfilter-item:last-of-type {
+    padding: 0;
+  }
+  .item-key {
+    padding: 2px 8px;
+    background: #880101;
+    color: #FFF;
+    white-space: nowrap;
+  }
+  .item {
+    margin: 0 2px 0 0;
+  }
+  a {
+    padding: 2px 5px;
+    line-height: 24px;
+    border: 1px solid #fff;
+    &:hover {
+      border: 1px solid #ccc;
+    }
+    &.active {
+      border: 1px solid #ccc;
+      background: #F0F0F0;
+    }
+  }
+  .key, .vals {
+    display: table-cell;
+    padding: 3px;
+  }
+}
+
+.list-fixed-image-height {
+  .list-item-image {
+    height: 174px;
+  }
+}
+
 .footer-text {
   position: relative;
 }
