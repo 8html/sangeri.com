@@ -77,7 +77,7 @@ $(function() {
   $('#itemfilter').isotope({
     itemSelector: '.list-item'
   });
-  $('.itemfilter a').click(function(e) {
+  $('.itemfilter a[data-filter]').click(function(e) {
     e.preventDefault();
     $('.itemfilter a').removeClass('active');
     var filter = $(this).data('filter');
@@ -85,5 +85,26 @@ $(function() {
     $('#itemfilter').isotope({
       filter: filter
     });
+  });
+  var mw = 0;
+  $('.itemfilter-item').each(function() {
+    var w = $(this).find('.vals').width();
+    if (w > mw) mw = w;
+  });
+  $('.itemfilter-item').each(function() {
+    if ($(this).find('.vals').width() < mw) {
+      $(this).find('.more').remove();
+    }
+  });
+  $('.showmore').click(function(e) {
+    e.preventDefault();
+    var col = $(this).parents('.itemfilter-item').find('.collapsible');
+    if (col.hasClass('collapsed')) {
+      $(this).text('隐藏');
+      col.removeClass('collapsed');
+    } else {
+      $(this).text('更多');
+      col.addClass('collapsed');
+    }
   });
 });

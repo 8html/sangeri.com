@@ -14,11 +14,16 @@ images:
         <span class="item-key">{{getKeyIfValueContains ../sidelist key}}</span>
       </div>
       <div class="vals">
-        <a class="active item" data-filter="*" href="#">不限</a>
-        {{#eachIndex value}}
-          <a class="item" data-filter=".m{{getModelName item.data.title}}" href="#">
-            {{getModelName item.data.title}}</a>
-        {{/eachIndex}}
+        <div class="collapsible collapsed">
+          <a class="active item" data-filter="*" href="#">不限</a>
+          {{#eachIndex value}}
+            <a class="item" data-filter=".m{{getModelName item.data.title}}" href="#">
+              {{getModelName item.data.title}}</a>
+          {{/eachIndex}}
+        </div>
+      </div>
+      <div class="more">
+        <a href="#" class="showmore">更多</a>
       </div>
     </div>
   {{/eachProperty}}

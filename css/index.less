@@ -932,9 +932,12 @@ a {
       background: #F0F0F0;
     }
   }
-  .key, .vals {
+  .key, .vals, .more {
     display: table-cell;
     padding: 3px;
+  }
+  .showmore {
+    white-space: nowrap;
   }
 }
 
@@ -942,6 +945,11 @@ a {
   .list-item-image {
     height: 174px;
   }
+}
+
+.collapsed {
+  height: 23px;
+  overflow: hidden;
 }
 
 .footer-text {
