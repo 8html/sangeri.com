@@ -1,3 +1,24 @@
+- filename: "crown-hotel"
+  data:
+    category: five-star-hotel
+    title: 贵州兴义皇冠酒店
+    keywords: 贵州兴义皇冠酒店
+    description: 贵州兴义皇冠酒店
+    slide: true # 是否轮播
+    image: /images/cases/crown-hotel.jpg
+    images:
+      - /images/pages/five-star-hotel-01.jpg
+      - /images/pages/five-star-hotel-02.jpg
+      - /images/pages/five-star-hotel-03.jpg
+      - /images/pages/five-star-hotel-04.jpg
+      - /images/pages/five-star-hotel-05.jpg
+      - /images/pages/five-star-hotel-06.jpg
+  content: |
+    <p>兴义皇冠酒店是一家综合性酒店，酒店位于兴义市瑞金北路，地处兴义市的繁华黄金地带，斜对面是桔山广场，地理位置优越，交通便利。集商旅、餐饮、休闲、娱乐、健身、会议于一体，酒店占地面积1500平方米，建筑面积38400平方米，设有各类豪华客房，包括总统套房一套，豪华套房20套，商务单间114套，标准间260间。规划设计有风格各异的中西餐厅、优雅休闲的大堂吧、尊贵豪华的餐饮包厢、功能完备的大、小会议室等。酒店配套设施完善，有桑拿、保健、足疗、KTV、健身房等娱乐项目，是集商旅、餐饮、休闲、娱乐、健身、会议于一体的酒店。高雅的建筑格调，完善的服务设施，一流的服务质量，是中外宾客商务、休闲、会议、度假的理想选择。</p>
+    <p>酒店开业时间2011年09月01日，主楼高28层，客房总数388间（套）。</p>
+    <img alt="贵州兴义皇冠酒店" src="/images/cases/crown-hotel-01.jpg" title="贵州兴义皇冠酒店">
+
+
 - filename: "dragon-hotel"
   data:
     category: five-star-hotel
