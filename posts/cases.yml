@@ -230,6 +230,57 @@
     <img alt="天津金皇大酒店" src="/images/cases/golden-crown-hotel-05.jpg" title="天津金皇大酒店">
     <img alt="天津金皇大酒店" src="/images/cases/golden-crown-hotel-06.jpg" title="天津金皇大酒店">
     
+
+- filename: "longxin-hotel"
+  data:
+    category: four-star-hotel
+    title: 兰州陇鑫大酒店
+    keywords: 兰州陇鑫大酒店
+    description: 兰州陇鑫大酒店
+    slide: true # 是否轮播
+    image: /images/cases/longxin-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+  content: |
+    <img alt="兰州陇鑫大酒店" src="/images/cases/longxin-hotel-01.jpg" title="兰州陇鑫大酒店">
+    <img alt="兰州陇鑫大酒店" src="/images/cases/longxin-hotel-02.jpg" title="兰州陇鑫大酒店">
+    <img alt="兰州陇鑫大酒店" src="/images/cases/longxin-hotel-03.jpg" title="兰州陇鑫大酒店">
+
+
+- filename: "qianshan-hotel"
+  data:
+    category: four-star-hotel
+    title: 贵州兴义黔山酒店
+    keywords: 贵州兴义黔山酒店
+    description: 贵州兴义黔山酒店
+    slide: true # 是否轮播
+    image: /images/cases/qianshan-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+  content: |
+    <img alt="贵州兴义黔山酒店" src="/images/cases/qianshan-hotel-01.jpg" title="贵州兴义黔山酒店">
+
+
+- filename: "golden-ocean-club-hotel"
+  data:
+    category: four-star-hotel
+    title: 太原金洋会馆大酒店
+    keywords: 太原金洋会馆大酒店
+    description: 太原金洋会馆大酒店
+    slide: true # 是否轮播
+    image: /images/cases/golden-ocean-club-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+  content: |
+    <img alt="太原金洋会馆大酒店" src="/images/cases/golden-ocean-club-hotel-01.jpg" title="太原金洋会馆大酒店">
+
+
 - filename: "egret-hotel"
   data:
     category: four-star-hotel
