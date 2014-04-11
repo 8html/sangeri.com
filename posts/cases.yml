@@ -1,6 +1,28 @@
 - filename: "rich-international-hotel"
   data:
     category: five-star-hotel
+    title: 广西容县黑五类大厦
+    keywords: 广西容县黑五类大厦
+    description: 广西容县黑五类大厦
+    slide: true # 是否轮播
+    image: /images/cases/heiwulei-building.jpg
+    images:
+      - /images/pages/five-star-hotel-01.jpg
+      - /images/pages/five-star-hotel-02.jpg
+      - /images/pages/five-star-hotel-03.jpg
+      - /images/pages/five-star-hotel-04.jpg
+      - /images/pages/five-star-hotel-05.jpg
+      - /images/pages/five-star-hotel-06.jpg
+  content: |
+    <img alt="广西容县黑五类大厦" src="/images/cases/heiwulei-building-01.jpg" title="广西容县黑五类大厦">
+    <img alt="广西容县黑五类大厦" src="/images/cases/heiwulei-building-02.jpg" title="广西容县黑五类大厦">
+    <img alt="广西容县黑五类大厦" src="/images/cases/heiwulei-building-03.jpg" title="广西容县黑五类大厦">
+    <img alt="广西容县黑五类大厦" src="/images/cases/heiwulei-building-04.jpg" title="广西容县黑五类大厦">
+
+
+- filename: "rich-international-hotel"
+  data:
+    category: five-star-hotel
     title: 富丽华大酒店
     keywords: 富丽华大酒店
     description: 富丽华大酒店
