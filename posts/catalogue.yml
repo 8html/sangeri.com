@@ -2055,20 +2055,20 @@
     keywords: 万嘉
     description: 万嘉
     slide: true # 是否轮播
-    image: /images/catalogue/wl.jpg
+    image: /images/catalogue/wj.jpg
     images:
       - /images/pages/public-01.jpg
       - /images/pages/public-02.jpg
   content: |
-    <img alt="万嘉" src="/images/catalogue/wl-01.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wl-02.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wl-03.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wl-04.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wl-05.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wl-06.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wl-07.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wl-08.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wl-09.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wj-01.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wj-02.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wj-03.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wj-04.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wj-05.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wj-06.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wj-07.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wj-08.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wj-09.jpg" title="万嘉">
 
 
 - filename: "yls"
