@@ -2048,6 +2048,60 @@
     <b>暂无图片资料</b>
 
 
+- filename: "wj"
+  data:
+    category: fixed
+    title: 万嘉
+    keywords: 万嘉
+    description: 万嘉
+    slide: true # 是否轮播
+    image: /images/catalogue/wl.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="万嘉" src="/images/catalogue/wl-01.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wl-02.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wl-03.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wl-04.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wl-05.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wl-06.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wl-07.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wl-08.jpg" title="万嘉">
+    <img alt="万嘉" src="/images/catalogue/wl-09.jpg" title="万嘉">
+
+
+- filename: "yls"
+  data:
+    category: fixed
+    title: 湛江荣基伊莉莎酒店
+    keywords: 湛江荣基伊莉莎酒店
+    description: 湛江荣基伊莉莎酒店
+    slide: true # 是否轮播
+    image: /images/catalogue/yls.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="湛江荣基伊莉莎酒店" src="/images/catalogue/yls-01.jpg" title="湛江荣基伊莉莎酒店">
+
+
+- filename: "hwl"
+  data:
+    category: fixed
+    title: 广西黑五类大酒店
+    keywords: 广西黑五类大酒店
+    description: 广西黑五类大酒店
+    slide: true # 是否轮播
+    image: /images/catalogue/hwl.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+  content: |
+    <img alt="广西黑五类大酒店" src="/images/catalogue/hwl-01.jpg" title="广西黑五类大酒店">
+    <img alt="广西黑五类大酒店" src="/images/catalogue/hwl-02.jpg" title="广西黑五类大酒店">
+
+
 - filename: "gzbl"
   data:
     category: fixed
