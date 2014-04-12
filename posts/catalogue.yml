@@ -957,15 +957,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab11.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB11" src="/images/catalogue/ab11-01.jpg" title="酒店餐饮AB11">
 
@@ -979,15 +979,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab12.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB12" src="/images/catalogue/ab12-01.jpg" title="酒店餐饮AB12">
 
@@ -1001,15 +1001,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab13.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB13" src="/images/catalogue/ab13-01.jpg" title="酒店餐饮AB13">
 
@@ -1023,15 +1023,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab14.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB14" src="/images/catalogue/ab14-01.jpg" title="酒店餐饮AB14">
 
@@ -1045,15 +1045,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab15.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB15" src="/images/catalogue/ab15-01.jpg" title="酒店餐饮AB15">
 
@@ -1067,15 +1067,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab16.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB16" src="/images/catalogue/ab16-01.jpg" title="酒店餐饮AB16">
 
@@ -1089,15 +1089,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab17.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB17" src="/images/catalogue/ab17-01.jpg" title="酒店餐饮AB17">
 
@@ -1111,15 +1111,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab18.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB18" src="/images/catalogue/ab18-01.jpg" title="酒店餐饮AB18">
 
@@ -1133,15 +1133,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab19.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB19" src="/images/catalogue/ab19-01.jpg" title="酒店餐饮AB19">
 
@@ -1155,15 +1155,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab20.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB20" src="/images/catalogue/ab20-01.jpg" title="酒店餐饮AB20">
 
@@ -1177,15 +1177,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab21.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB21" src="/images/catalogue/ab21-01.jpg" title="酒店餐饮AB21">
 
@@ -1199,15 +1199,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab22.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB22" src="/images/catalogue/ab22-01.jpg" title="酒店餐饮AB22">
 
@@ -1221,15 +1221,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab23.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB23" src="/images/catalogue/ab23-01.jpg" title="酒店餐饮AB23">
 
@@ -1243,15 +1243,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab24.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB24" src="/images/catalogue/ab24-01.jpg" title="酒店餐饮AB24">
 
@@ -1265,15 +1265,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab25.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB25" src="/images/catalogue/ab25-01.jpg" title="酒店餐饮AB25">
 
@@ -1287,15 +1287,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab26.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB26" src="/images/catalogue/ab26-01.jpg" title="酒店餐饮AB26">
 
@@ -1309,15 +1309,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab27.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB27" src="/images/catalogue/ab27-01.jpg" title="酒店餐饮AB27">
 
@@ -1331,15 +1331,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab28.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB28" src="/images/catalogue/ab28-01.jpg" title="酒店餐饮AB28">
 
@@ -1353,15 +1353,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab29.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB29" src="/images/catalogue/ab29-01.jpg" title="酒店餐饮AB29">
 
@@ -1375,15 +1375,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab30.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB30" src="/images/catalogue/ab30-01.jpg" title="酒店餐饮AB30">
 
@@ -1397,15 +1397,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab31.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB31" src="/images/catalogue/ab31-01.jpg" title="酒店餐饮AB31">
 
@@ -1419,15 +1419,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab32.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB32" src="/images/catalogue/ab32-01.jpg" title="酒店餐饮AB32">
 
@@ -1441,15 +1441,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab33.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB33" src="/images/catalogue/ab33-01.jpg" title="酒店餐饮AB33">
 
@@ -1463,15 +1463,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab34.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB34" src="/images/catalogue/ab34-01.jpg" title="酒店餐饮AB34">
 
@@ -1485,15 +1485,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab35.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB35" src="/images/catalogue/ab35-01.jpg" title="酒店餐饮AB35">
 
@@ -1507,15 +1507,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab36.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB36" src="/images/catalogue/ab36-01.jpg" title="酒店餐饮AB36">
 
@@ -1529,15 +1529,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab37.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB37" src="/images/catalogue/ab37-01.jpg" title="酒店餐饮AB37">
 
@@ -1551,15 +1551,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab38.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB38" src="/images/catalogue/ab38-01.jpg" title="酒店餐饮AB38">
 
@@ -1573,15 +1573,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab39.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB39" src="/images/catalogue/ab39-01.jpg" title="酒店餐饮AB39">
 
@@ -1595,15 +1595,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab40.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB40" src="/images/catalogue/ab40-01.jpg" title="酒店餐饮AB40">
 
@@ -1617,15 +1617,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab41.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB41" src="/images/catalogue/ab41-01.jpg" title="酒店餐饮AB41">
 
@@ -1639,15 +1639,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab42.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB42" src="/images/catalogue/ab42-01.jpg" title="酒店餐饮AB42">
 
@@ -1661,15 +1661,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab43.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB43" src="/images/catalogue/ab43-01.jpg" title="酒店餐饮AB43">
 
@@ -1683,15 +1683,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab44.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB44" src="/images/catalogue/ab44-01.jpg" title="酒店餐饮AB44">
 
@@ -1705,15 +1705,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab45.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB45" src="/images/catalogue/ab45-01.jpg" title="酒店餐饮AB45">
 
@@ -1727,15 +1727,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab46.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB46" src="/images/catalogue/ab46-01.jpg" title="酒店餐饮AB46">
 
@@ -1749,15 +1749,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab47.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB47" src="/images/catalogue/ab47-01.jpg" title="酒店餐饮AB47">
 
@@ -1771,15 +1771,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab48.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB48" src="/images/catalogue/ab48-01.jpg" title="酒店餐饮AB48">
 
@@ -1793,15 +1793,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab49.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB49" src="/images/catalogue/ab49-01.jpg" title="酒店餐饮AB49">
 
@@ -1815,15 +1815,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab50.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB50" src="/images/catalogue/ab50-01.jpg" title="酒店餐饮AB50">
 
@@ -1837,15 +1837,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab51.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB51" src="/images/catalogue/ab51-01.jpg" title="酒店餐饮AB51">
 
@@ -1859,15 +1859,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab136.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB136" src="/images/catalogue/ab136-01.jpg" title="酒店餐饮AB136">
 
@@ -1881,15 +1881,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab137.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB137" src="/images/catalogue/ab137-01.jpg" title="酒店餐饮AB137">
 
@@ -1903,15 +1903,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab138.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB138" src="/images/catalogue/ab138-01.jpg" title="酒店餐饮AB138">
 
@@ -1925,15 +1925,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab139.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB139" src="/images/catalogue/ab139-01.jpg" title="酒店餐饮AB139">
 
@@ -1947,15 +1947,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab142.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB142" src="/images/catalogue/ab142-01.jpg" title="酒店餐饮AB142">
 
@@ -1969,15 +1969,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab143.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB143" src="/images/catalogue/ab143-01.jpg" title="酒店餐饮AB143">
 
@@ -1991,15 +1991,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab145.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB145" src="/images/catalogue/ab145-01.jpg" title="酒店餐饮AB145">
 
@@ -2013,15 +2013,15 @@
     slide: true # 是否轮播
     image: /images/catalogue/ab170.jpg
     images:
-      - /images/pages/hotel-01.jpg
-      - /images/pages/hotel-02.jpg
-      - /images/pages/hotel-03.jpg
-      - /images/pages/hotel-04.jpg
-      - /images/pages/hotel-05.jpg
-      - /images/pages/hotel-06.jpg
-      - /images/pages/hotel-07.jpg
-      - /images/pages/hotel-08.jpg
-      - /images/pages/hotel-09.jpg
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
   content: |
     <img alt="酒店餐饮AB170" src="/images/catalogue/ab170-01.jpg" title="酒店餐饮AB170">
 
