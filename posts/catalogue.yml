@@ -2371,12 +2371,12 @@
     <img alt="九江雍景" src="/images/catalogue/jjyj-06.jpg" title="九江雍景">
 
 
-- filename: "mentao-a"
+- filename: "mentao"
   data:
     category: fixed
-    title: 门套01
-    keywords: 门套01
-    description: 门套01
+    title: 门套系列
+    keywords: 门套系列
+    description: 门套系列
     slide: true # 是否轮播
     image: /images/catalogue/mentao-a.jpg
     images:
@@ -2391,160 +2391,6 @@
       - /images/pages/public-09.jpg
   content: |
     <img alt="门套01" src="/images/catalogue/mentao-a-01.jpg" title="门套01">
-
-
-- filename: "mentao-b"
-  data:
-    category: fixed
-    title: 门套02
-    keywords: 门套02
-    description: 门套02
-    slide: true # 是否轮播
-    image: /images/catalogue/mentao-b.jpg
-    images:
-      - /images/pages/public-01.jpg
-      - /images/pages/public-02.jpg
-      - /images/pages/public-03.jpg
-      - /images/pages/public-04.jpg
-      - /images/pages/public-05.jpg
-      - /images/pages/public-06.jpg
-      - /images/pages/public-07.jpg
-      - /images/pages/public-08.jpg
-      - /images/pages/public-09.jpg
-  content: |
-    <img alt="门套02" src="/images/catalogue/mentao-b-01.jpg" title="门套02">
-
-
-- filename: "mentao-c"
-  data:
-    category: fixed
-    title: 门套03
-    keywords: 门套03
-    description: 门套03
-    slide: true # 是否轮播
-    image: /images/catalogue/mentao-c.jpg
-    images:
-      - /images/pages/public-01.jpg
-      - /images/pages/public-02.jpg
-      - /images/pages/public-03.jpg
-      - /images/pages/public-04.jpg
-      - /images/pages/public-05.jpg
-      - /images/pages/public-06.jpg
-      - /images/pages/public-07.jpg
-      - /images/pages/public-08.jpg
-      - /images/pages/public-09.jpg
-  content: |
-    <img alt="门套03" src="/images/catalogue/mentao-c-01.jpg" title="门套03">
-
-
-- filename: "mentao-d"
-  data:
-    category: fixed
-    title: 门套04
-    keywords: 门套04
-    description: 门套04
-    slide: true # 是否轮播
-    image: /images/catalogue/mentao-d.jpg
-    images:
-      - /images/pages/public-01.jpg
-      - /images/pages/public-02.jpg
-      - /images/pages/public-03.jpg
-      - /images/pages/public-04.jpg
-      - /images/pages/public-05.jpg
-      - /images/pages/public-06.jpg
-      - /images/pages/public-07.jpg
-      - /images/pages/public-08.jpg
-      - /images/pages/public-09.jpg
-  content: |
-    <img alt="门套04" src="/images/catalogue/mentao-d-01.jpg" title="门套04">
-
-
-- filename: "mentao-e"
-  data:
-    category: fixed
-    title: 门套05
-    keywords: 门套05
-    description: 门套05
-    slide: true # 是否轮播
-    image: /images/catalogue/mentao-e.jpg
-    images:
-      - /images/pages/public-01.jpg
-      - /images/pages/public-02.jpg
-      - /images/pages/public-03.jpg
-      - /images/pages/public-04.jpg
-      - /images/pages/public-05.jpg
-      - /images/pages/public-06.jpg
-      - /images/pages/public-07.jpg
-      - /images/pages/public-08.jpg
-      - /images/pages/public-09.jpg
-  content: |
-    <img alt="门套05" src="/images/catalogue/mentao-e-01.jpg" title="门套05">
-
-
-- filename: "mentao-f"
-  data:
-    category: fixed
-    title: 门套06
-    keywords: 门套06
-    description: 门套06
-    slide: true # 是否轮播
-    image: /images/catalogue/mentao-f.jpg
-    images:
-      - /images/pages/public-01.jpg
-      - /images/pages/public-02.jpg
-      - /images/pages/public-03.jpg
-      - /images/pages/public-04.jpg
-      - /images/pages/public-05.jpg
-      - /images/pages/public-06.jpg
-      - /images/pages/public-07.jpg
-      - /images/pages/public-08.jpg
-      - /images/pages/public-09.jpg
-  content: |
-    <img alt="门套06" src="/images/catalogue/mentao-f-01.jpg" title="门套06">
-
-
-- filename: "mentao-g"
-  data:
-    category: fixed
-    title: 门套07
-    keywords: 门套07
-    description: 门套07
-    slide: true # 是否轮播
-    image: /images/catalogue/mentao-g.jpg
-    images:
-      - /images/pages/public-01.jpg
-      - /images/pages/public-02.jpg
-      - /images/pages/public-03.jpg
-      - /images/pages/public-04.jpg
-      - /images/pages/public-05.jpg
-      - /images/pages/public-06.jpg
-      - /images/pages/public-07.jpg
-      - /images/pages/public-08.jpg
-      - /images/pages/public-09.jpg
-  content: |
-    <img alt="门套07" src="/images/catalogue/mentao-g-01.jpg" title="门套07">
-
-
-- filename: "mentao-h"
-  data:
-    category: fixed
-    title: 门套08
-    keywords: 门套08
-    description: 门套08
-    slide: true # 是否轮播
-    image: /images/catalogue/mentao-h.jpg
-    images:
-      - /images/pages/public-01.jpg
-      - /images/pages/public-02.jpg
-      - /images/pages/public-03.jpg
-      - /images/pages/public-04.jpg
-      - /images/pages/public-05.jpg
-      - /images/pages/public-06.jpg
-      - /images/pages/public-07.jpg
-      - /images/pages/public-08.jpg
-      - /images/pages/public-09.jpg
-  content: |
-    <img alt="门套08" src="/images/catalogue/mentao-h-01.jpg" title="门套08">
 
 
 - filename: "ea01"
