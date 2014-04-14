@@ -48,8 +48,16 @@
 }
 
 @media only screen and (max-width : 480px) {
+  .list {
+    .list-item {
+      width: 49%;
+    }
+  }
   .hompage-slider {
     height: 100px;
+    .head {
+      top: 0px;
+    }
     .divide {
       display: none;
     }
@@ -71,9 +79,26 @@
     }
   }
   .header {
-    height: 170px;
+    height: 195px;
+    .phone {
+      position: absolute;
+      right: 0;
+      top: 65px;
+      font-size: 15px;
+      text-indent: 0;
+      text-decoration: none;
+      left: 0;
+      text-align: center;
+    }
+    .header-link {
+      text-align: center;
+      padding-top: 90px;
+      font-size: 11px;
+      padding-right: 0;
+    }
     .logo {
       top: 8px;
+      left: 50%;
     }
     .links {
       top: 65px;
@@ -83,6 +108,7 @@
       }
     }
     .menu {
+      top: 110px;
       .menu-c {
         display: none;
       }
@@ -106,7 +132,7 @@
   .sbhead {
     display: none;
   }
-  .menupad {
+  .menupad, .menupadslim {
     padding-top: 20px;
   }
   .ip-slider {
@@ -133,6 +159,9 @@
           line-height: 30px;
           height: 30px;
         }
+      }
+      .sb-triangle {
+        display: none;
       }
       .sb-list {
         width: 100%;
@@ -167,6 +196,7 @@
       .fm-sect {
         em {
           margin-left: 10px;
+          padding-left: 10px;
         }
       }
       .fm-subm {
