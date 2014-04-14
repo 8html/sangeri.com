@@ -107,4 +107,14 @@ $(function() {
       col.addClass('collapsed');
     }
   });
+  $('.popup').magnificPopup({
+    type: "image",
+    zoom: {
+      enabled: true,
+      duration: 300,
+      opener: function(element) {
+        return element;
+      }
+    }
+  });
 });
