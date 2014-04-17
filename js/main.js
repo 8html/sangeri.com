@@ -38,6 +38,15 @@ $(function() {
   }, function() {
 
   });
+  $('#contactform').submit(function() {
+    if ($(this).find('.person').val().trim().length < 1) {
+      alert('请输入联系人名称。');
+      return false;
+    } else if (!/^[0-9+\-]+$/.test($(this).find('.phone').val().trim())) {
+      alert('请输入联系电话。');
+      return false;
+    }
+  });
   $('#hidemenu').click(function(e) {
     e.preventDefault();
     menu.find('.menu-c .ms').addClass('hidden');
