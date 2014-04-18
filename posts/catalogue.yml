@@ -2566,7 +2566,7 @@
     keywords: 门套系列
     description: 门套系列
     slide: true # 是否轮播
-    image: /images/catalogue/mentao-a.jpg
+    image: /images/catalogue/mentao.jpg
     images:
       - /images/pages/public-01.jpg
       - /images/pages/public-02.jpg
@@ -2578,7 +2578,7 @@
       - /images/pages/public-08.jpg
       - /images/pages/public-09.jpg
   content: |
-    <img alt="门套01" src="/images/catalogue/mentao-a-01.jpg" title="门套01">
+    <img alt="门套系列" src="/images/catalogue/mentao-01.jpg" title="门套系列">
 
 
 - filename: "ea01"
