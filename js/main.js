@@ -46,6 +46,7 @@ $(function() {
       alert('请输入联系电话。');
       return false;
     }
+    $(this).find('.download').prop('disabled', true).val('请稍等...');
   });
   $('#hidemenu').click(function(e) {
     e.preventDefault();
