@@ -26,9 +26,9 @@
 - filename: "rich-international-hotel"
   data:
     category: five-star-hotel
-    title: 富丽华大酒店
-    keywords: 富丽华大酒店
-    description: 富丽华大酒店
+    title: 广州富丽华大酒店
+    keywords: 广州富丽华大酒店
+    description: 广州富丽华大酒店
     slide: true # 是否轮播
     image: /images/cases/rich-international-hotel.jpg
     images:
@@ -42,18 +42,19 @@
       - /images/pages/five-star-hotel-08.jpg
       - /images/pages/five-star-hotel-09.jpg
   content: |
-    <img alt="富丽华大酒店" src="/images/cases/rich-international-hotel-01.jpg" title="富丽华大酒店">
-    <img alt="富丽华大酒店" src="/images/cases/rich-international-hotel-02.jpg" title="富丽华大酒店">
-    <img alt="富丽华大酒店" src="/images/cases/rich-international-hotel-03.jpg" title="富丽华大酒店">
-    <img alt="富丽华大酒店" src="/images/cases/rich-international-hotel-04.jpg" title="富丽华大酒店">
+    <p>广州珠江华侨大酒店（原广州富丽华大酒店）拥有舒适幽雅的客房，包括标准间、豪华套间。各式豪华套房，双人房，设备齐全、从酒店更可远眺羊城美景、俯览珠江秀色，让阁下尽情领略舒闲的乐趣。客房设施拥有中央空调、闭路电视系统、私人保险柜、国内/国际直拨电话、迷你冰箱、可遥控彩色电视机、自动电热水壶、电吹风机、写字台、浴室用品、浴缸和淋浴设备、熨衣板、有适量的相连房、24小时送餐服务及各种康乐设施，使您的身心得到全面的放松。酒店拥有房间数量360间。</p>
+    <img alt="广州富丽华大酒店" src="/images/cases/rich-international-hotel-01.jpg" title="广州富丽华大酒店">
+    <img alt="广州富丽华大酒店" src="/images/cases/rich-international-hotel-02.jpg" title="广州富丽华大酒店">
+    <img alt="广州富丽华大酒店" src="/images/cases/rich-international-hotel-03.jpg" title="广州富丽华大酒店">
+    <img alt="广州富丽华大酒店" src="/images/cases/rich-international-hotel-04.jpg" title="广州富丽华大酒店">
 
 
 - filename: "wonderland-hotel"
   data:
     category: five-star-hotel
     title: 肇庆封开龙山奇境酒店
-    keywords: 肇庆封开龙山奇境酒店
-    description: 肇庆封开龙山奇境酒店
+    keywords: 肇庆封开奇境酒店
+    description: 肇庆封开奇境酒店
     slide: true # 是否轮播
     image: /images/cases/wonderland-hotel.jpg
     images:
@@ -67,10 +68,10 @@
       - /images/pages/five-star-hotel-08.jpg
       - /images/pages/five-star-hotel-09.jpg
   content: |
-    <p>肇庆封开龙山奇境酒店是封开县岭南奇境旅游有限公司在封开国家地质公园内首家以VIEW HOUSE（奇境酒店）为设计理念建造的生态度假酒店。酒店坐落在“广东桂林”龙山省级风景名胜区的青山绿水间，定位为商务型、会议型和休闲型，在布局、装修质量和配套设施上均达到四星级绿色标准。为了让住客有更高级、更尊贵的住宿体验，酒店内每一间客房都有巨大的落地窗和宽敞的观景露台，让客人足不出户就可以欣赏到雨中山景、日景山色、田园阡陌等不同的山野风光。</p>
-    <img alt="肇庆封开龙山奇境酒店" src="/images/cases/wonderland-hotel-01.jpg" title="肇庆封开龙山奇境酒店">
-    <img alt="肇庆封开龙山奇境酒店" src="/images/cases/wonderland-hotel-02.jpg" title="肇庆封开龙山奇境酒店">
-    <img alt="肇庆封开龙山奇境酒店" src="/images/cases/wonderland-hotel-03.jpg" title="肇庆封开龙山奇境酒店">
+    <p>肇庆封开奇境酒店位于有“广东桂林”美誉的龙山省级风景名胜区内，是一家以生态主题酒店。酒店枕山临湖，与连绵的桑竹美田相连，景致优美。它是粤西最美生态酒店，包括时尚典雅的青瓦台和清新简约的峰趣楼，共有豪华客房100间。最大的特色在于每间客房都有巨大的落地窗和宽敞的观景露台，游客躺卧床上就可以欣赏到雨中山岚、夕阳牧野等不同的风光，享受天地尽在胸间的豁然。</p>
+    <img alt="肇庆龙山奇境酒店" src="/images/cases/wonderland-hotel-01.jpg" title="肇庆龙山奇境酒店">
+    <img alt="肇庆龙山奇境酒店" src="/images/cases/wonderland-hotel-02.jpg" title="肇庆龙山奇境酒店">
+    <img alt="肇庆龙山奇境酒店" src="/images/cases/wonderland-hotel-03.jpg" title="肇庆龙山奇境酒店">
 
 
 - filename: "dongfang-hotel"
@@ -174,6 +175,8 @@
       - /images/pages/five-star-hotel-08.jpg
       - /images/pages/five-star-hotel-09.jpg
   content: |
+    <p>惠州家路国际大酒店拥有168余间欧陆古典风格和明清中式传统风格的豪华客房；装修精密的中、西餐厅及VIP包房，品位中西美食、珍馐佳酿；不同类型的宴会厅、多功能会议室，有优秀的宴会会议服务家专为你度身定制个性化的服务。皇室维琪浴休闲中心是人们放松身心畅快休闲之最佳场所；惠州地区最豪华的商务旗舰酒店—家路歌剧院，提供一流视听享受。</p>
+    <p>酒店开业时间2006年10月20日，楼高10层，客房总数167间（套）。</p>
     <img alt="惠州家路国际大酒店" src="/images/cases/homeland-hotel-01.jpg" title="惠州家路国际大酒店">
     <img alt="惠州家路国际大酒店" src="/images/cases/homeland-hotel-02.jpg" title="惠州家路国际大酒店">
     <img alt="惠州家路国际大酒店" src="/images/cases/homeland-hotel-03.jpg" title="惠州家路国际大酒店">
@@ -348,6 +351,8 @@
       - /images/pages/four-star-hotel-08.jpg
       - /images/pages/four-star-hotel-09.jpg
   content: |
+    <p>佛山南海枫丹白鹭酒店在人杰地灵、宁静优美的南海南国桃园内拥有一家由法国名师按五星级标准设计的商务度假型酒店--枫丹白鹭酒店。酒店建筑风格高贵典雅，满载欧陆风情，酒店广场作为酒店的标志性建筑，占地八万多平方米，漫步在欧亚经典园艺与雕塑艺术精心结合的欧陆式皇廷花园广场，人生写意之时更令阁下感受枫丹白鹭人致力追求完美的品性。</p>
+    <p>酒店现有客房及套房297间、8栋豪华别墅，室内布置高雅舒适，现代化设施齐全，所有房间配备宽带上网接口。可容纳1800人同时举行会议的16间大小会议厅，配套设施一应俱全，适合举办各种大型团体会议、展示会、宴会及酒会的需要。别具风格的餐厅及酒廊4间，1500个餐位，可提供各种风味的美食佳肴。拥有7个国际标准的涂塑合成硬地网球场的枫丹体育网球中心、27洞国际标准枫丹高尔夫球场、28间豪华KTV厢房的桃城夜总会、亚一桑拿、羽毛球场、山地自行车、钓鱼、棋牌室、健身中心、露天日式泳池等各项康体娱乐设施，将为阁下带来无限的欢乐。投入悠然舒适的假日旅程，享受令人心旷神怡的休闲生活。浪漫情怀、悠闲商务，享受枫丹白鹭假期。</p>
     <img alt="佛山白鹭大酒店" src="/images/cases/egret-hotel-01.jpg" title="佛山白鹭大酒店">
     <img alt="佛山白鹭大酒店" src="/images/cases/egret-hotel-02.jpg" title="佛山白鹭大酒店">
     <img alt="佛山白鹭大酒店" src="/images/cases/egret-hotel-03.jpg" title="佛山白鹭大酒店">
@@ -374,6 +379,7 @@
       - /images/pages/four-star-hotel-08.jpg
       - /images/pages/four-star-hotel-09.jpg
   content: |
+    <p>广州礼顿酒店内设262间精美的客房及套房。包括标准客房、高级客房、豪华客房、标准套房、高级套房、豪华套房，并设有非吸烟房。设有独立行政楼层，为高级商务人士提供了一系列的豪華與個性化服務。酒店各类实施齐备，拥有253间设计独特，静雅别致的客房。所有客房均配置高标准设备及日常客用物品。店内有餐厅、商务中心、会议室、沐足中心、水疗中心、室内恒温游泳池、健身室、桌球室、乒乓球室、无线上网等设施。向宾客提供舒适便捷的服务，以满足不同宾客的需求。步行2分钟即可到达地铁3号线和5号线，前往广州东站10分钟车程，广州琶洲展馆15分钟车程，距离广州市白云国际机场40分钟车程，交通便利，周边有成熟高级商务区和购物区，礼顿酒店将着力为商务人士提供一个舒适、安逸的选择。</p>
     <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-01.jpg" title="广州礼顿酒店">
     <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-02.jpg" title="广州礼顿酒店">
     <img alt="广州礼顿酒店" src="/images/cases/leeden-hotel-03.jpg" title="广州礼顿酒店">
@@ -428,6 +434,7 @@
       - /images/pages/four-star-hotel-08.jpg
       - /images/pages/four-star-hotel-09.jpg
   content: |
+    <p>京都国际酒店是上饶市首家按四星级标准兴建的豪华旅游饭店。酒店坐落于上饶市城西旭日广场北侧的繁华地段，东邻文化广场，南邻县行政中心，西邻赣东北乐园及月亮湾汽车城，北邻上饶国际家居城。距国家级风景名胜区三清山93公里，距著名的爱国主义教育基地上饶集中营仅十五分钟的车程，交通便利、位置优越。酒店主楼17层，总建筑面积2.28 万平方米，整体建筑风格典雅、华贵。拥有各类客房122间。餐饮服务设施完善，有中、西餐厅及16间风格迥异的宴会包厢，可同时容纳1000人用餐。设有可容纳220多人的大会议室。</p>
     <img alt="江西上饶京都国际酒店" src="/images/cases/kyoto-international-hotel-01.jpg" title="江西上饶京都国际酒店">
     <img alt="江西上饶京都国际酒店" src="/images/cases/kyoto-international-hotel-02.jpg" title="江西上饶京都国际酒店">
     <img alt="江西上饶京都国际酒店" src="/images/cases/kyoto-international-hotel-03.jpg" title="江西上饶京都国际酒店">
@@ -452,6 +459,8 @@
       - /images/pages/four-star-hotel-08.jpg
       - /images/pages/four-star-hotel-09.jpg
   content: |
+    <p>宁波银苑大酒店是按四星级标准设计建造的酒店，面积16800平方米，内部服务设施齐全先进，地处宁波鄞州中心区，与鄞州区政府、万达广场毗邻，距高速公路入口仅1.5公里，机场5公里，交通便利。</p>
+    <p>酒店拥有包括豪华套房等各式客房186间/套，拥有宴会厅、餐饮包厢等各类餐厅30余个，可容纳700人同时就餐。</p>
     <img alt="浙江宁波银苑大酒店" src="/images/cases/silver-court-hotel-01.jpg" title="浙江宁波银苑大酒店">
     <img alt="浙江宁波银苑大酒店" src="/images/cases/silver-court-hotel-02.jpg" title="浙江宁波银苑大酒店">
     <img alt="浙江宁波银苑大酒店" src="/images/cases/silver-court-hotel-03.jpg" title="浙江宁波银苑大酒店">
@@ -479,6 +488,7 @@
       - /images/pages/four-star-hotel-08.jpg
       - /images/pages/four-star-hotel-09.jpg
   content: |
+    <p>深圳新桃园酒店以四星级标准建设和装修的新桃园酒店，这是我市第一家私人投资的高星级酒店。新桃园酒店的客房有三大特色：一是酒店设有风格独特的女宾房。女宾房完全依照女性住客的需要装修、设计和配置用品，实行个性化服务；二是酒店双人房的用品，如毛巾、牙膏、牙刷、香皂等全部实行A、B款，便于客人区分和使用，实行人性化服务；三是客房大量使用大床。在这里，总统套房床大2米，豪华单人房床大1.8米，豪华双人房床大1.5米，而一般酒店双人房大多只放1.2米的床。酒店占地面积1万平方米，建筑面积约3万平方米，楼高19层，为欧陆式建筑风格。拥有各种客房188间。</p>
     <img alt="深圳新桃园酒店" src="/images/cases/tao-yuan-hotel-01.jpg" title="深圳新桃园酒店">
     <img alt="深圳新桃园酒店" src="/images/cases/tao-yuan-hotel-02.jpg" title="深圳新桃园酒店">
     <img alt="深圳新桃园酒店" src="/images/cases/tao-yuan-hotel-03.jpg" title="深圳新桃园酒店">

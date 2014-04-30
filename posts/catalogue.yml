@@ -1332,6 +1332,138 @@
     <img alt="公共区域FA183" src="/images/catalogue/fa183-03.jpg" title="公共区域FA183">
 
 
+- filename: "ab200"
+  data:
+    category: restaurant
+    title: 酒店餐饮AB200
+    keywords: 酒店餐饮AB200
+    description: 酒店餐饮AB200
+    slide: true # 是否轮播
+    image: /images/catalogue/ab200.jpg
+    images:
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
+  content: |
+    <img alt="酒店餐饮AB200" src="/images/catalogue/ab200-01.jpg" title="酒店餐饮AB200">
+
+
+- filename: "ab201"
+  data:
+    category: restaurant
+    title: 酒店餐饮AB201
+    keywords: 酒店餐饮AB201
+    description: 酒店餐饮AB201
+    slide: true # 是否轮播
+    image: /images/catalogue/ab201.jpg
+    images:
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
+  content: |
+    <img alt="酒店餐饮AB201" src="/images/catalogue/ab201-01.jpg" title="酒店餐饮AB201">
+
+
+- filename: "ab202"
+  data:
+    category: restaurant
+    title: 酒店餐饮AB202
+    keywords: 酒店餐饮AB202
+    description: 酒店餐饮AB202
+    slide: true # 是否轮播
+    image: /images/catalogue/ab202.jpg
+    images:
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
+  content: |
+    <img alt="酒店餐饮AB202" src="/images/catalogue/ab200-01.jpg" title="酒店餐饮AB202">
+
+
+- filename: "ab203"
+  data:
+    category: restaurant
+    title: 酒店餐饮AB203
+    keywords: 酒店餐饮AB203
+    description: 酒店餐饮AB203
+    slide: true # 是否轮播
+    image: /images/catalogue/ab203.jpg
+    images:
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
+  content: |
+    <img alt="酒店餐饮AB203" src="/images/catalogue/ab203-01.jpg" title="酒店餐饮AB203">
+
+
+- filename: "ab204"
+  data:
+    category: restaurant
+    title: 酒店餐饮AB204
+    keywords: 酒店餐饮AB204
+    description: 酒店餐饮AB204
+    slide: true # 是否轮播
+    image: /images/catalogue/ab204.jpg
+    images:
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
+  content: |
+    <img alt="酒店餐饮AB204" src="/images/catalogue/ab204-01.jpg" title="酒店餐饮AB204">
+
+
+- filename: "ab205"
+  data:
+    category: restaurant
+    title: 酒店餐饮AB205
+    keywords: 酒店餐饮AB205
+    description: 酒店餐饮AB205
+    slide: true # 是否轮播
+    image: /images/catalogue/ab205.jpg
+    images:
+      - /images/pages/restaurant-01.jpg
+      - /images/pages/restaurant-02.jpg
+      - /images/pages/restaurant-03.jpg
+      - /images/pages/restaurant-04.jpg
+      - /images/pages/restaurant-05.jpg
+      - /images/pages/restaurant-06.jpg
+      - /images/pages/restaurant-07.jpg
+      - /images/pages/restaurant-08.jpg
+      - /images/pages/restaurant-09.jpg
+  content: |
+    <img alt="酒店餐饮AB205" src="/images/catalogue/ab205-01.jpg" title="酒店餐饮AB205">
+
+
 - filename: "ab11"
   data:
     category: restaurant
