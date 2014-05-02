@@ -1,3 +1,36 @@
+- filename: "shidao-hotel"
+  data:
+    category: five-star-hotel
+    title: 山东威海荣成石岛宾馆
+    keywords: 山东威海荣成石岛宾馆
+    description: 山东威海荣成石岛宾馆
+    slide: true # 是否轮播
+    image: /images/cases/shidao-hotel.jpg
+    images:
+      - /images/pages/five-star-hotel-01.jpg
+      - /images/pages/five-star-hotel-02.jpg
+      - /images/pages/five-star-hotel-03.jpg
+      - /images/pages/five-star-hotel-04.jpg
+      - /images/pages/five-star-hotel-05.jpg
+      - /images/pages/five-star-hotel-06.jpg
+      - /images/pages/five-star-hotel-07.jpg
+      - /images/pages/five-star-hotel-08.jpg
+      - /images/pages/five-star-hotel-09.jpg
+  content: |
+    <img alt="山东威海荣成石岛宾馆" src="/images/cases/shidao-hotel-01.jpg" title="山东威海荣成石岛宾馆">
+    <img alt="山东威海荣成石岛宾馆" src="/images/cases/shidao-hotel-02.jpg" title="山东威海荣成石岛宾馆">
+    <img alt="山东威海荣成石岛宾馆" src="/images/cases/shidao-hotel-03.jpg" title="山东威海荣成石岛宾馆">
+    <img alt="山东威海荣成石岛宾馆" src="/images/cases/shidao-hotel-04.jpg" title="山东威海荣成石岛宾馆">
+    <img alt="山东威海荣成石岛宾馆" src="/images/cases/shidao-hotel-05.jpg" title="山东威海荣成石岛宾馆">
+    <img alt="山东威海荣成石岛宾馆" src="/images/cases/shidao-hotel-06.jpg" title="山东威海荣成石岛宾馆">
+    <img alt="山东威海荣成石岛宾馆" src="/images/cases/shidao-hotel-07.jpg" title="山东威海荣成石岛宾馆">
+    <img alt="山东威海荣成石岛宾馆" src="/images/cases/shidao-hotel-08.jpg" title="山东威海荣成石岛宾馆">
+    <img alt="山东威海荣成石岛宾馆" src="/images/cases/shidao-hotel-09.jpg" title="山东威海荣成石岛宾馆">
+    <img alt="山东威海荣成石岛宾馆" src="/images/cases/shidao-hotel-10.jpg" title="山东威海荣成石岛宾馆">
+    <img alt="山东威海荣成石岛宾馆" src="/images/cases/shidao-hotel-11.jpg" title="山东威海荣成石岛宾馆">
+    <img alt="山东威海荣成石岛宾馆" src="/images/cases/shidao-hotel-12.jpg" title="山东威海荣成石岛宾馆">
+
+
 - filename: "yingfeng-hotel"
   data:
     category: five-star-hotel
@@ -323,6 +356,36 @@
     <img alt="天津金皇大酒店" src="/images/cases/golden-crown-hotel-05.jpg" title="天津金皇大酒店">
     <img alt="天津金皇大酒店" src="/images/cases/golden-crown-hotel-06.jpg" title="天津金皇大酒店">
     
+
+- filename: "jianhao-hotel"
+  data:
+    category: four-star-hotel
+    title: 佛山建豪大酒店
+    keywords: 佛山建豪大酒店
+    description: 佛山建豪大酒店
+    slide: true # 是否轮播
+    image: /images/cases/jianhao-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+      - /images/pages/four-star-hotel-04.jpg
+      - /images/pages/four-star-hotel-05.jpg
+      - /images/pages/four-star-hotel-06.jpg
+      - /images/pages/four-star-hotel-07.jpg
+      - /images/pages/four-star-hotel-08.jpg
+      - /images/pages/four-star-hotel-09.jpg
+  content: |
+    <img alt="佛山建豪大酒店" src="/images/cases/jianhao-hotel-01.jpg" title="佛山建豪大酒店">
+    <img alt="佛山建豪大酒店" src="/images/cases/jianhao-hotel-02.jpg" title="佛山建豪大酒店">
+    <img alt="佛山建豪大酒店" src="/images/cases/jianhao-hotel-03.jpg" title="佛山建豪大酒店">
+    <img alt="佛山建豪大酒店" src="/images/cases/jianhao-hotel-04.jpg" title="佛山建豪大酒店">
+    <img alt="佛山建豪大酒店" src="/images/cases/jianhao-hotel-05.jpg" title="佛山建豪大酒店">
+    <img alt="佛山建豪大酒店" src="/images/cases/jianhao-hotel-06.jpg" title="佛山建豪大酒店">
+    <img alt="佛山建豪大酒店" src="/images/cases/jianhao-hotel-07.jpg" title="佛山建豪大酒店">
+    <img alt="佛山建豪大酒店" src="/images/cases/jianhao-hotel-08.jpg" title="佛山建豪大酒店">
+    <img alt="佛山建豪大酒店" src="/images/cases/jianhao-hotel-09.jpg" title="佛山建豪大酒店">
+
 
 - filename: "longxin-hotel"
   data:
