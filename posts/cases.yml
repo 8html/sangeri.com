@@ -1,4 +1,36 @@
-- filename: "rich-international-hotel"
+- filename: "yingfeng-hotel"
+  data:
+    category: five-star-hotel
+    title: 清远盈丰酒店
+    keywords: 清远盈丰酒店
+    description: 清远盈丰酒店
+    slide: true # 是否轮播
+    image: /images/cases/yingfeng-hotel.jpg
+    images:
+      - /images/pages/five-star-hotel-01.jpg
+      - /images/pages/five-star-hotel-02.jpg
+      - /images/pages/five-star-hotel-03.jpg
+      - /images/pages/five-star-hotel-04.jpg
+      - /images/pages/five-star-hotel-05.jpg
+      - /images/pages/five-star-hotel-06.jpg
+      - /images/pages/five-star-hotel-07.jpg
+      - /images/pages/five-star-hotel-08.jpg
+      - /images/pages/five-star-hotel-09.jpg
+  content: |
+    <img alt="清远盈丰酒店" src="/images/cases/yingfeng-hotel-01.jpg" title="清远盈丰酒店">
+    <img alt="清远盈丰酒店" src="/images/cases/yingfeng-hotel-02.jpg" title="清远盈丰酒店">
+    <img alt="清远盈丰酒店" src="/images/cases/yingfeng-hotel-03.jpg" title="清远盈丰酒店">
+    <img alt="清远盈丰酒店" src="/images/cases/yingfeng-hotel-04.jpg" title="清远盈丰酒店">
+    <img alt="清远盈丰酒店" src="/images/cases/yingfeng-hotel-05.jpg" title="清远盈丰酒店">
+    <img alt="清远盈丰酒店" src="/images/cases/yingfeng-hotel-06.jpg" title="清远盈丰酒店">
+    <img alt="清远盈丰酒店" src="/images/cases/yingfeng-hotel-07.jpg" title="清远盈丰酒店">
+    <img alt="清远盈丰酒店" src="/images/cases/yingfeng-hotel-08.jpg" title="清远盈丰酒店">
+    <img alt="清远盈丰酒店" src="/images/cases/yingfeng-hotel-09.jpg" title="清远盈丰酒店">
+    <img alt="清远盈丰酒店" src="/images/cases/yingfeng-hotel-10.jpg" title="清远盈丰酒店">
+    <img alt="清远盈丰酒店" src="/images/cases/yingfeng-hotel-11.jpg" title="清远盈丰酒店">
+
+
+- filename: "heiwulei-building"
   data:
     category: five-star-hotel
     title: 广西容县黑五类大厦
@@ -21,6 +53,34 @@
     <img alt="广西容县黑五类大厦" src="/images/cases/heiwulei-building-02.jpg" title="广西容县黑五类大厦">
     <img alt="广西容县黑五类大厦" src="/images/cases/heiwulei-building-03.jpg" title="广西容县黑五类大厦">
     <img alt="广西容县黑五类大厦" src="/images/cases/heiwulei-building-04.jpg" title="广西容县黑五类大厦">
+
+
+- filename: "dihao-hotel"
+  data:
+    category: five-star-hotel
+    title: 广西帝豪酒店
+    keywords: 广西帝豪酒店
+    description: 广西帝豪酒店
+    slide: true # 是否轮播
+    image: /images/cases/dihao-hotel.jpg
+    images:
+      - /images/pages/five-star-hotel-01.jpg
+      - /images/pages/five-star-hotel-02.jpg
+      - /images/pages/five-star-hotel-03.jpg
+      - /images/pages/five-star-hotel-04.jpg
+      - /images/pages/five-star-hotel-05.jpg
+      - /images/pages/five-star-hotel-06.jpg
+      - /images/pages/five-star-hotel-07.jpg
+      - /images/pages/five-star-hotel-08.jpg
+      - /images/pages/five-star-hotel-09.jpg
+  content: |
+    <img alt="广西帝豪酒店" src="/images/cases/dihao-hotel-01.jpg" title="广西帝豪酒店">
+    <img alt="广西帝豪酒店" src="/images/cases/dihao-hotel-02.jpg" title="广西帝豪酒店">
+    <img alt="广西帝豪酒店" src="/images/cases/dihao-hotel-03.jpg" title="广西帝豪酒店">
+    <img alt="广西帝豪酒店" src="/images/cases/dihao-hotel-04.jpg" title="广西帝豪酒店">
+    <img alt="广西帝豪酒店" src="/images/cases/dihao-hotel-05.jpg" title="广西帝豪酒店">
+    <img alt="广西帝豪酒店" src="/images/cases/dihao-hotel-06.jpg" title="广西帝豪酒店">
+    <img alt="广西帝豪酒店" src="/images/cases/dihao-hotel-07.jpg" title="广西帝豪酒店">
 
 
 - filename: "rich-international-hotel"
