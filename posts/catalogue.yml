@@ -3065,6 +3065,270 @@
     <img alt="酒店沙发EA03" src="/images/catalogue/ea03-01.jpg" title="酒店沙发EA03">
 
 
+- filename: "ea04"
+  data:
+    category: sofa
+    title: 酒店沙发EA04
+    keywords: 酒店沙发EA04
+    description: 酒店沙发EA04
+    slide: true # 是否轮播
+    image: /images/catalogue/ea04.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+      - /images/pages/hotel-04.jpg
+      - /images/pages/hotel-05.jpg
+      - /images/pages/hotel-06.jpg
+      - /images/pages/hotel-07.jpg
+      - /images/pages/hotel-08.jpg
+      - /images/pages/hotel-09.jpg
+  content: |
+    <img alt="酒店沙发EA04" src="/images/catalogue/ea04-01.jpg" title="酒店沙发EA04">
+
+
+- filename: "ea05"
+  data:
+    category: sofa
+    title: 酒店沙发EA05
+    keywords: 酒店沙发EA05
+    description: 酒店沙发EA05
+    slide: true # 是否轮播
+    image: /images/catalogue/ea05.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+      - /images/pages/hotel-04.jpg
+      - /images/pages/hotel-05.jpg
+      - /images/pages/hotel-06.jpg
+      - /images/pages/hotel-07.jpg
+      - /images/pages/hotel-08.jpg
+      - /images/pages/hotel-09.jpg
+  content: |
+    <img alt="酒店沙发EA05" src="/images/catalogue/ea05-01.jpg" title="酒店沙发EA05">
+
+
+- filename: "ea06"
+  data:
+    category: sofa
+    title: 酒店沙发EA06
+    keywords: 酒店沙发EA06
+    description: 酒店沙发EA06
+    slide: true # 是否轮播
+    image: /images/catalogue/ea06.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+      - /images/pages/hotel-04.jpg
+      - /images/pages/hotel-05.jpg
+      - /images/pages/hotel-06.jpg
+      - /images/pages/hotel-07.jpg
+      - /images/pages/hotel-08.jpg
+      - /images/pages/hotel-09.jpg
+  content: |
+    <img alt="酒店沙发EA06" src="/images/catalogue/ea06-01.jpg" title="酒店沙发EA06">
+
+
+- filename: "ea07"
+  data:
+    category: sofa
+    title: 酒店沙发EA07
+    keywords: 酒店沙发EA07
+    description: 酒店沙发EA07
+    slide: true # 是否轮播
+    image: /images/catalogue/ea07.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+      - /images/pages/hotel-04.jpg
+      - /images/pages/hotel-05.jpg
+      - /images/pages/hotel-06.jpg
+      - /images/pages/hotel-07.jpg
+      - /images/pages/hotel-08.jpg
+      - /images/pages/hotel-09.jpg
+  content: |
+    <img alt="酒店沙发EA7" src="/images/catalogue/ea07-01.jpg" title="酒店沙发EA07">
+
+
+- filename: "ea08"
+  data:
+    category: sofa
+    title: 酒店沙发EA08
+    keywords: 酒店沙发EA08
+    description: 酒店沙发EA08
+    slide: true # 是否轮播
+    image: /images/catalogue/ea08.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+      - /images/pages/hotel-04.jpg
+      - /images/pages/hotel-05.jpg
+      - /images/pages/hotel-06.jpg
+      - /images/pages/hotel-07.jpg
+      - /images/pages/hotel-08.jpg
+      - /images/pages/hotel-09.jpg
+  content: |
+    <img alt="酒店沙发EA08" src="/images/catalogue/ea08-01.jpg" title="酒店沙发EA08">
+
+
+- filename: "ea09"
+  data:
+    category: sofa
+    title: 酒店沙发EA09
+    keywords: 酒店沙发EA09
+    description: 酒店沙发EA09
+    slide: true # 是否轮播
+    image: /images/catalogue/ea09.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+      - /images/pages/hotel-04.jpg
+      - /images/pages/hotel-05.jpg
+      - /images/pages/hotel-06.jpg
+      - /images/pages/hotel-07.jpg
+      - /images/pages/hotel-08.jpg
+      - /images/pages/hotel-09.jpg
+  content: |
+    <img alt="酒店沙发EA09" src="/images/catalogue/ea09-01.jpg" title="酒店沙发EA09">
+
+
+- filename: "ea10"
+  data:
+    category: sofa
+    title: 酒店沙发EA10
+    keywords: 酒店沙发EA10
+    description: 酒店沙发EA10
+    slide: true # 是否轮播
+    image: /images/catalogue/ea10.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+      - /images/pages/hotel-04.jpg
+      - /images/pages/hotel-05.jpg
+      - /images/pages/hotel-06.jpg
+      - /images/pages/hotel-07.jpg
+      - /images/pages/hotel-08.jpg
+      - /images/pages/hotel-09.jpg
+  content: |
+    <img alt="酒店沙发EA10" src="/images/catalogue/ea10-01.jpg" title="酒店沙发EA10">
+
+
+- filename: "ea11"
+  data:
+    category: sofa
+    title: 酒店沙发EA11
+    keywords: 酒店沙发EA11
+    description: 酒店沙发EA11
+    slide: true # 是否轮播
+    image: /images/catalogue/ea11.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+      - /images/pages/hotel-04.jpg
+      - /images/pages/hotel-05.jpg
+      - /images/pages/hotel-06.jpg
+      - /images/pages/hotel-07.jpg
+      - /images/pages/hotel-08.jpg
+      - /images/pages/hotel-09.jpg
+  content: |
+    <img alt="酒店沙发EA11" src="/images/catalogue/ea11-01.jpg" title="酒店沙发EA11">
+
+
+- filename: "ea12"
+  data:
+    category: sofa
+    title: 酒店沙发EA12
+    keywords: 酒店沙发EA12
+    description: 酒店沙发EA12
+    slide: true # 是否轮播
+    image: /images/catalogue/ea12.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+      - /images/pages/hotel-04.jpg
+      - /images/pages/hotel-05.jpg
+      - /images/pages/hotel-06.jpg
+      - /images/pages/hotel-07.jpg
+      - /images/pages/hotel-08.jpg
+      - /images/pages/hotel-09.jpg
+  content: |
+    <img alt="酒店沙发EA12" src="/images/catalogue/ea12-01.jpg" title="酒店沙发EA12">
+
+
+- filename: "ea13"
+  data:
+    category: sofa
+    title: 酒店沙发EA13
+    keywords: 酒店沙发EA13
+    description: 酒店沙发EA13
+    slide: true # 是否轮播
+    image: /images/catalogue/ea13.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+      - /images/pages/hotel-04.jpg
+      - /images/pages/hotel-05.jpg
+      - /images/pages/hotel-06.jpg
+      - /images/pages/hotel-07.jpg
+      - /images/pages/hotel-08.jpg
+      - /images/pages/hotel-09.jpg
+  content: |
+    <img alt="酒店沙发EA13" src="/images/catalogue/ea13-01.jpg" title="酒店沙发EA13">
+
+
+- filename: "ea14"
+  data:
+    category: sofa
+    title: 酒店沙发EA14
+    keywords: 酒店沙发EA14
+    description: 酒店沙发EA14
+    slide: true # 是否轮播
+    image: /images/catalogue/ea14.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+      - /images/pages/hotel-04.jpg
+      - /images/pages/hotel-05.jpg
+      - /images/pages/hotel-06.jpg
+      - /images/pages/hotel-07.jpg
+      - /images/pages/hotel-08.jpg
+      - /images/pages/hotel-09.jpg
+  content: |
+    <img alt="酒店沙发EA14" src="/images/catalogue/ea14-01.jpg" title="酒店沙发EA14">
+
+
+- filename: "ea15"
+  data:
+    category: sofa
+    title: 酒店沙发EA15
+    keywords: 酒店沙发EA15
+    description: 酒店沙发EA15
+    slide: true # 是否轮播
+    image: /images/catalogue/ea15.jpg
+    images:
+      - /images/pages/hotel-01.jpg
+      - /images/pages/hotel-02.jpg
+      - /images/pages/hotel-03.jpg
+      - /images/pages/hotel-04.jpg
+      - /images/pages/hotel-05.jpg
+      - /images/pages/hotel-06.jpg
+      - /images/pages/hotel-07.jpg
+      - /images/pages/hotel-08.jpg
+      - /images/pages/hotel-09.jpg
+  content: |
+    <img alt="酒店沙发EA15" src="/images/catalogue/ea15-01.jpg" title="酒店沙发EA15">
+
+
 - filename: "f102"
   data:
     category: sofa
