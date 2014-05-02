@@ -713,6 +713,292 @@
     <img alt="酒店客房3010" src="/images/catalogue/3010-01.jpg" title="酒店客房3010">
 
 
+- filename: "gf01"
+  data:
+    category: public
+    title: 公共区域GF01
+    keywords: 公共区域GF01
+    description: 公共区域GF01
+    slide: true # 是否轮播
+    image: /images/catalogue/gf01.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域GF01" src="/images/catalogue/gf01-01.jpg" title="公共区域GF01">
+
+
+- filename: "gf02"
+  data:
+    category: public
+    title: 公共区域GF02
+    keywords: 公共区域GF02
+    description: 公共区域GF02
+    slide: true # 是否轮播
+    image: /images/catalogue/gf02.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域GF02" src="/images/catalogue/gf02-01.jpg" title="公共区域GF02">
+
+
+- filename: "gf03"
+  data:
+    category: public
+    title: 公共区域GF03
+    keywords: 公共区域GF03
+    description: 公共区域GF03
+    slide: true # 是否轮播
+    image: /images/catalogue/gf03.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域GF03" src="/images/catalogue/gf03-01.jpg" title="公共区域GF03">
+
+
+- filename: "gf04"
+  data:
+    category: public
+    title: 公共区域GF04
+    keywords: 公共区域GF04
+    description: 公共区域GF04
+    slide: true # 是否轮播
+    image: /images/catalogue/gf01.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域GF04" src="/images/catalogue/gf04-01.jpg" title="公共区域GF04">
+
+
+- filename: "gf05"
+  data:
+    category: public
+    title: 公共区域GF05
+    keywords: 公共区域GF05
+    description: 公共区域GF05
+    slide: true # 是否轮播
+    image: /images/catalogue/gf05.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域GF05" src="/images/catalogue/gf01-05.jpg" title="公共区域GF05">
+
+
+- filename: "gf06"
+  data:
+    category: public
+    title: 公共区域GF06
+    keywords: 公共区域GF06
+    description: 公共区域GF06
+    slide: true # 是否轮播
+    image: /images/catalogue/gf06.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域GF06" src="/images/catalogue/gf06-01.jpg" title="公共区域GF06">
+
+
+- filename: "gf07"
+  data:
+    category: public
+    title: 公共区域GF07
+    keywords: 公共区域GF07
+    description: 公共区域GF07
+    slide: true # 是否轮播
+    image: /images/catalogue/gf07.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域GF07" src="/images/catalogue/gf07-01.jpg" title="公共区域GF07">
+
+
+- filename: "gf08"
+  data:
+    category: public
+    title: 公共区域GF08
+    keywords: 公共区域GF08
+    description: 公共区域GF08
+    slide: true # 是否轮播
+    image: /images/catalogue/gf08.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域GF08" src="/images/catalogue/gf08-01.jpg" title="公共区域GF08">
+
+
+- filename: "gf09"
+  data:
+    category: public
+    title: 公共区域GF09
+    keywords: 公共区域GF09
+    description: 公共区域GF09
+    slide: true # 是否轮播
+    image: /images/catalogue/gf09.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域GF09" src="/images/catalogue/gf09-01.jpg" title="公共区域GF09">
+
+
+- filename: "ml36"
+  data:
+    category: public
+    title: 公共区域ML36
+    keywords: 公共区域ML36
+    description: 公共区域ML36
+    slide: true # 是否轮播
+    image: /images/catalogue/ml36.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域ML36" src="/images/catalogue/ml36-01.jpg" title="公共区域ML36">
+
+
+- filename: "ml37"
+  data:
+    category: public
+    title: 公共区域ML37
+    keywords: 公共区域ML37
+    description: 公共区域ML37
+    slide: true # 是否轮播
+    image: /images/catalogue/ml37.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域ML37" src="/images/catalogue/ml37-01.jpg" title="公共区域ML37">
+
+
+- filename: "ml38"
+  data:
+    category: public
+    title: 公共区域ML38
+    keywords: 公共区域ML38
+    description: 公共区域ML38
+    slide: true # 是否轮播
+    image: /images/catalogue/ml38.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域ML38" src="/images/catalogue/ml38-01.jpg" title="公共区域ML38">
+
+
+- filename: "ml39"
+  data:
+    category: public
+    title: 公共区域ML39
+    keywords: 公共区域ML39
+    description: 公共区域ML39
+    slide: true # 是否轮播
+    image: /images/catalogue/ml39.jpg
+    images:
+      - /images/pages/public-01.jpg
+      - /images/pages/public-02.jpg
+      - /images/pages/public-03.jpg
+      - /images/pages/public-04.jpg
+      - /images/pages/public-05.jpg
+      - /images/pages/public-06.jpg
+      - /images/pages/public-07.jpg
+      - /images/pages/public-08.jpg
+      - /images/pages/public-09.jpg
+  content: |
+    <img alt="公共区域ML39" src="/images/catalogue/ml39-01.jpg" title="公共区域ML39">
+
+
 - filename: "bh01-ab01"
   data:
     category: public
