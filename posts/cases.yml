@@ -419,9 +419,9 @@
 - filename: "yinghua-hotel"
   data:
     category: four-star-hotel
-    title: 青海西宁三榆大酒店
-    keywords: 青海西宁三榆大酒店
-    description: 青海西宁三榆大酒店
+    title: 福建晋江英华大酒店
+    keywords: 福建晋江英华大酒店
+    description: 福建晋江英华大酒店
     slide: true # 是否轮播
     image: /images/cases/yinghua-hotel.jpg
     images:
@@ -435,12 +435,68 @@
       - /images/pages/four-star-hotel-08.jpg
       - /images/pages/four-star-hotel-09.jpg
   content: |
-    <img alt="青海西宁三榆大酒店" src="/images/cases/yinghua-hotel-01.jpg" title="青海西宁三榆大酒店">
+    <img alt="福建晋江英华大酒店" src="/images/cases/yinghua-hotel-01.jpg" title="福建晋江英华大酒店">
     <img alt="福建晋江英华大酒店" src="/images/cases/yinghua-hotel-02.jpg" title="福建晋江英华大酒店">
     <img alt="福建晋江英华大酒店" src="/images/cases/yinghua-hotel-03.jpg" title="福建晋江英华大酒店">
     <img alt="福建晋江英华大酒店" src="/images/cases/yinghua-hotel-04.jpg" title="福建晋江英华大酒店">
     <img alt="福建晋江英华大酒店" src="/images/cases/yinghua-hotel-05.jpg" title="福建晋江英华大酒店">
     <img alt="福建晋江英华大酒店" src="/images/cases/yinghua-hotel-06.jpg" title="福建晋江英华大酒店">
+
+
+- filename: "jiari-hotel"
+  data:
+    category: four-star-hotel
+    title: 岳阳阳光假日大酒店
+    keywords: 岳阳阳光假日大酒店
+    description: 岳阳阳光假日大酒店
+    slide: true # 是否轮播
+    image: /images/cases/jiari-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+      - /images/pages/four-star-hotel-04.jpg
+      - /images/pages/four-star-hotel-05.jpg
+      - /images/pages/four-star-hotel-06.jpg
+      - /images/pages/four-star-hotel-07.jpg
+      - /images/pages/four-star-hotel-08.jpg
+      - /images/pages/four-star-hotel-09.jpg
+  content: |
+    <img alt="岳阳阳光假日大酒店" src="/images/cases/jiari-hotel-01.jpg" title="岳阳阳光假日大酒店">
+    <img alt="岳阳阳光假日大酒店" src="/images/cases/jiari-hotel-02.jpg" title="岳阳阳光假日大酒店">
+    <img alt="岳阳阳光假日大酒店" src="/images/cases/jiari-hotel-03.jpg" title="岳阳阳光假日大酒店">
+    <img alt="岳阳阳光假日大酒店" src="/images/cases/jiari-hotel-04.jpg" title="岳阳阳光假日大酒店">
+    <img alt="岳阳阳光假日大酒店" src="/images/cases/jiari-hotel-05.jpg" title="岳阳阳光假日大酒店">
+    <img alt="岳阳阳光假日大酒店" src="/images/cases/jiari-hotel-06.jpg" title="岳阳阳光假日大酒店">
+
+
+- filename: "qiaodou-hotel"
+  data:
+    category: four-star-hotel
+    title: 江门侨都大酒店
+    keywords: 江门侨都大酒店
+    description: 江门侨都大酒店
+    slide: true # 是否轮播
+    image: /images/cases/qiaodou-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+      - /images/pages/four-star-hotel-04.jpg
+      - /images/pages/four-star-hotel-05.jpg
+      - /images/pages/four-star-hotel-06.jpg
+      - /images/pages/four-star-hotel-07.jpg
+      - /images/pages/four-star-hotel-08.jpg
+      - /images/pages/four-star-hotel-09.jpg
+  content: |
+    <img alt="江门侨都大酒店" src="/images/cases/qiaodou-hotel-01.jpg" title="江门侨都大酒店">
+    <img alt="江门侨都大酒店" src="/images/cases/qiaodou-hotel-02.jpg" title="江门侨都大酒店">
+    <img alt="江门侨都大酒店" src="/images/cases/qiaodou-hotel-03.jpg" title="江门侨都大酒店">
+    <img alt="江门侨都大酒店" src="/images/cases/qiaodou-hotel-04.jpg" title="江门侨都大酒店">
+    <img alt="江门侨都大酒店" src="/images/cases/qiaodou-hotel-05.jpg" title="江门侨都大酒店">
+    <img alt="江门侨都大酒店" src="/images/cases/qiaodou-hotel-06.jpg" title="江门侨都大酒店">
+    <img alt="江门侨都大酒店" src="/images/cases/qiaodou-hotel-07.jpg" title="江门侨都大酒店">
+    <img alt="江门侨都大酒店" src="/images/cases/qiaodou-hotel-08.jpg" title="江门侨都大酒店">
 
 
 - filename: "longxin-hotel"
