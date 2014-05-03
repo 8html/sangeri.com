@@ -387,6 +387,62 @@
     <img alt="佛山建豪大酒店" src="/images/cases/jianhao-hotel-09.jpg" title="佛山建豪大酒店">
 
 
+- filename: "sanyu-hotel"
+  data:
+    category: four-star-hotel
+    title: 青海西宁三榆大酒店
+    keywords: 青海西宁三榆大酒店
+    description: 青海西宁三榆大酒店
+    slide: true # 是否轮播
+    image: /images/cases/sanyu-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+      - /images/pages/four-star-hotel-04.jpg
+      - /images/pages/four-star-hotel-05.jpg
+      - /images/pages/four-star-hotel-06.jpg
+      - /images/pages/four-star-hotel-07.jpg
+      - /images/pages/four-star-hotel-08.jpg
+      - /images/pages/four-star-hotel-09.jpg
+  content: |
+    <img alt="青海西宁三榆大酒店" src="/images/cases/sanyu-hotel-01.jpg" title="青海西宁三榆大酒店">
+    <img alt="青海西宁三榆大酒店" src="/images/cases/sanyu-hotel-02.jpg" title="青海西宁三榆大酒店">
+    <img alt="青海西宁三榆大酒店" src="/images/cases/sanyu-hotel-03.jpg" title="青海西宁三榆大酒店">
+    <img alt="青海西宁三榆大酒店" src="/images/cases/sanyu-hotel-04.jpg" title="青海西宁三榆大酒店">
+    <img alt="青海西宁三榆大酒店" src="/images/cases/sanyu-hotel-05.jpg" title="青海西宁三榆大酒店">
+    <img alt="青海西宁三榆大酒店" src="/images/cases/sanyu-hotel-06.jpg" title="青海西宁三榆大酒店">
+    <img alt="青海西宁三榆大酒店" src="/images/cases/sanyu-hotel-07.jpg" title="青海西宁三榆大酒店">
+    <img alt="青海西宁三榆大酒店" src="/images/cases/sanyu-hotel-08.jpg" title="青海西宁三榆大酒店">
+
+
+- filename: "yinghua-hotel"
+  data:
+    category: four-star-hotel
+    title: 青海西宁三榆大酒店
+    keywords: 青海西宁三榆大酒店
+    description: 青海西宁三榆大酒店
+    slide: true # 是否轮播
+    image: /images/cases/yinghua-hotel.jpg
+    images:
+      - /images/pages/four-star-hotel-01.jpg
+      - /images/pages/four-star-hotel-02.jpg
+      - /images/pages/four-star-hotel-03.jpg
+      - /images/pages/four-star-hotel-04.jpg
+      - /images/pages/four-star-hotel-05.jpg
+      - /images/pages/four-star-hotel-06.jpg
+      - /images/pages/four-star-hotel-07.jpg
+      - /images/pages/four-star-hotel-08.jpg
+      - /images/pages/four-star-hotel-09.jpg
+  content: |
+    <img alt="青海西宁三榆大酒店" src="/images/cases/yinghua-hotel-01.jpg" title="青海西宁三榆大酒店">
+    <img alt="福建晋江英华大酒店" src="/images/cases/yinghua-hotel-02.jpg" title="福建晋江英华大酒店">
+    <img alt="福建晋江英华大酒店" src="/images/cases/yinghua-hotel-03.jpg" title="福建晋江英华大酒店">
+    <img alt="福建晋江英华大酒店" src="/images/cases/yinghua-hotel-04.jpg" title="福建晋江英华大酒店">
+    <img alt="福建晋江英华大酒店" src="/images/cases/yinghua-hotel-05.jpg" title="福建晋江英华大酒店">
+    <img alt="福建晋江英华大酒店" src="/images/cases/yinghua-hotel-06.jpg" title="福建晋江英华大酒店">
+
+
 - filename: "longxin-hotel"
   data:
     category: four-star-hotel
