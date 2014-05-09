@@ -14,13 +14,11 @@ images:
 ---
 <div class="list">
   {{#eachIndex posts.cases}}
-    {{#ifCurrentCategory ../permalink item.data.category}}
       <div class="list-item">
         <a class="list-item-wrapper" href="{{item.data.permalink}}">
         {{item.data.title}}</em>
         </a>
       </div>
-    {{/ifCurrentCategory}}
   {{/eachIndex}}
   <div class="clearfix"></div>
 </div>
