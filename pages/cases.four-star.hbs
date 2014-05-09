@@ -1,6 +1,6 @@
 ---
 layout: caseslist.hbs
-permalink: /cases/four-star-hotel/
+permalink: /cases/list/
 images:
   - /images/pages/four-star-hotel-01.jpg
   - /images/pages/four-star-hotel-02.jpg
@@ -17,10 +17,7 @@ images:
     {{#ifCurrentCategory ../permalink item.data.category}}
       <div class="list-item">
         <a class="list-item-wrapper" href="{{item.data.permalink}}">
-          <div class="list-item-image">
-            <img alt="{{item.data.title}}" src="{{item.data.image}}">
-          </div>
-          <em class="list-item-name">{{item.data.title}}</em>
+        {{item.data.title}}</em>
         </a>
       </div>
     {{/ifCurrentCategory}}
