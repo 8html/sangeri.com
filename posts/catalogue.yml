@@ -2853,9 +2853,9 @@
 - filename: "wj"
   data:
     category: fixed
-    title: 万嘉
-    keywords: 万嘉
-    description: 万嘉
+    title: 水头万佳国际酒店
+    keywords: 水头万佳国际酒店
+    description: 水头万佳国际酒店
     slide: true # 是否轮播
     image: /images/catalogue/wj.jpg
     images:
@@ -2869,15 +2869,15 @@
       - /images/pages/public-08.jpg
       - /images/pages/public-09.jpg
   content: |
-    <img alt="万嘉" src="/images/catalogue/wj-01.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wj-02.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wj-03.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wj-04.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wj-05.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wj-06.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wj-07.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wj-08.jpg" title="万嘉">
-    <img alt="万嘉" src="/images/catalogue/wj-09.jpg" title="万嘉">
+    <img alt="水头万佳国际酒店" src="/images/catalogue/wj-01.jpg" title="水头万佳国际酒店">
+    <img alt="水头万佳国际酒店" src="/images/catalogue/wj-02.jpg" title="水头万佳国际酒店">
+    <img alt="水头万佳国际酒店" src="/images/catalogue/wj-03.jpg" title="水头万佳国际酒店">
+    <img alt="水头万佳国际酒店" src="/images/catalogue/wj-04.jpg" title="水头万佳国际酒店">
+    <img alt="水头万佳国际酒店" src="/images/catalogue/wj-05.jpg" title="水头万佳国际酒店">
+    <img alt="水头万佳国际酒店" src="/images/catalogue/wj-06.jpg" title="水头万佳国际酒店">
+    <img alt="水头万佳国际酒店" src="/images/catalogue/wj-07.jpg" title="水头万佳国际酒店">
+    <img alt="水头万佳国际酒店" src="/images/catalogue/wj-08.jpg" title="水头万佳国际酒店">
+    <img alt="水头万佳国际酒店" src="/images/catalogue/wj-09.jpg" title="水头万佳国际酒店">
 
 
 - filename: "yls"
@@ -2928,9 +2928,9 @@
 - filename: "gzbl"
   data:
     category: fixed
-    title: 广州保利
-    keywords: 广州保利
-    description: 广州保利
+    title: 广州保利假日酒店
+    keywords: 广州保利假日酒店
+    description: 广州保利假日酒店
     slide: true # 是否轮播
     image: /images/catalogue/gzbl.jpg
     images:
@@ -2944,10 +2944,10 @@
       - /images/pages/public-08.jpg
       - /images/pages/public-09.jpg
   content: |
-    <img alt="广州保利" src="/images/catalogue/gzbl-01.jpg" title="广州保利">
-    <img alt="广州保利" src="/images/catalogue/gzbl-02.jpg" title="广州保利">
-    <img alt="广州保利" src="/images/catalogue/gzbl-03.jpg" title="广州保利">
-    <img alt="广州保利" src="/images/catalogue/gzbl-04.jpg" title="广州保利">
+    <img alt="广州保利假日酒店" src="/images/catalogue/gzbl-01.jpg" title="广州保利假日酒店">
+    <img alt="广州保利假日酒店" src="/images/catalogue/gzbl-02.jpg" title="广州保利假日酒店">
+    <img alt="广州保利假日酒店" src="/images/catalogue/gzbl-03.jpg" title="广州保利假日酒店">
+    <img alt="广州保利假日酒店" src="/images/catalogue/gzbl-04.jpg" title="广州保利假日酒店">
 
 
 - filename: "jjyj"
