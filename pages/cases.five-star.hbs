@@ -1,6 +1,6 @@
 ---
 layout: caseslist.hbs
-permalink: /cases/five-star-hotel/
+permalink: /cases/hotel/
 images:
   - /images/pages/five-star-hotel-01.jpg
   - /images/pages/five-star-hotel-02.jpg
@@ -14,7 +14,6 @@ images:
 ---
 <div class="list">
   {{#eachIndex posts.cases}}
-    {{#ifCurrentCategory ../permalink item.data.category}}
       <div class="list-item">
         <a class="list-item-wrapper" href="{{item.data.permalink}}">
           <div class="list-item-image">
@@ -23,7 +22,6 @@ images:
           <em class="list-item-name">{{item.data.title}}</em>
         </a>
       </div>
-    {{/ifCurrentCategory}}
   {{/eachIndex}}
   <div class="clearfix"></div>
 </div>
