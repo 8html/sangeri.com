@@ -223,101 +223,24 @@
       }
     }
   }
-  .stable {
-  width: 100%;
-  line-height: 31px;
-  text-align: left;
-  background: white;
-  border-collapse: separate;
-  border-radius: 3px;
-  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06);
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06);
-  font-size: 13px;
-}
-.stable a {
-  color: #005CE7;
-  text-decoration: none;
-}
-.stable a:hover {
-  background-color: #005CE7;
-  color: #fff;
-  text-decoration: none;
-  text-shadow: none;
-}
-.stable .nowrap {
-  white-space: nowrap;
-}
-
-.stable-head > tr > th {
-  white-space: nowrap;
-  font-weight: bold;
-  text-shadow: 0 1px rgba(255, 255, 255, 0.5);
-  background: #ecf0f0;
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #c8c8c8;
-  border-right: 1px solid #ddd;
-  border-right-color: rgba(0, 0, 0, 0.12);
-  background-image: linear-gradient(tobottom, #f5fafa, #e7eaea);
-  -webkit-box-shadow: inset 0 1px rgba(255, 255, 255, 0.5), 0 1px rgba(0, 0, 0, 0.04);
-  box-shadow: inset 0 1px rgba(255, 255, 255, 0.5), 0 1px rgba(0, 0, 0, 0.04);
-  padding: 0 10px;
-}
-.stable-head > tr > th:first-child {
-  border-left: 1px solid #ccc;
-  border-top-left-radius: 3px;
-}
-.stable-head > tr > th:last-child {
-  border-right-color: #ccc;
-  border-top-right-radius: 3px;
-}
-
-.stable-body > tr.highlight {
-  font-weight: bold;
-}
-.stable-body > tr:nth-child(2n) {
-  background: #f8f8f8;
-}
-.stable-body > tr:hover {
-  background: #f3f3f3;
-}
-.stable-body > tr > td {
-  text-shadow: 0 1px white;
-  border-right: 1px solid #eee;
-  border-right-color: rgba(0, 0, 0, 0.08);
-  padding: 0 10px;
-}
-.stable-body > tr > td:first-child {
-  border-left: 1px solid #ccc;
-}
-.stable-body > tr > td:last-child {
-  border-right-color: #ccc;
-}
-
-.stable-foot > tr > td {
-  position: relative;
-  line-height: 26px;
-  padding-left: 9px;
-  font-size: 11px;
-  color: #777;
-  text-shadow: 0 1px rgba(255, 255, 255, 0.5);
-  background: #f4f4f4;
-  border-width: 1px 1px 1px 0;
-  border-style: solid;
-  border-color: #dbdbdb #d2d2d2 #ccc;
-  background-image: -webkit-linear-gradient(top, #fbfbfb, #ededed);
-  background-image: -moz-linear-gradient(top, #fbfbfb, #ededed);
-  background-image: -o-linear-gradient(top, #fbfbfb, #ededed);
-  background-image: linear-gradient(to bottom, #fbfbfb, #ededed);
-  -webkit-box-shadow: inset 0 1px white, inset 0 0 0 1px rgba(255, 255, 255, 0.2);
-  box-shadow: inset 0 1px white, inset 0 0 0 1px rgba(255, 255, 255, 0.2);
-}
-.stable-foot > tr > td:first-child {
-  border-left-width: 1px;
-  border-bottom-left-radius: 3px;
-}
-.stable-foot > tr > td:last-child {
-  border-bottom-right-radius: 3px;
-}
+  .rcase {
+    tr, td {
+      display: block;
+    }
+    tr {
+      border-top: 1px solid #ccc !important;
+    }
+    tr:last-child {
+      border-bottom: 1px solid #ccc !important;
+    }
+    td {
+      border-left: 1px solid #ccc !important;
+      border-right: 1px solid #ccc !important;
+    }
+    thead, tfoot {
+      display: none;
+    }
+  }
   .footer {
     .fm {
       .fm-sect {
